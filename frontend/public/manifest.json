@@ -1,0 +1,16 @@
+{
+  "name": "StayFinder - Indian Hospitality & Flight Mode PWA",
+  "short_name": "StayFinder",
+  "description": "Zero-latency offline-first Indian hotel discovery and booking PWA",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0f172a",
+  "theme_color": "#0f172a",
+  "icons": [
+    {
+      "src": "/favicon.ico",
+      "sizes": "64x64 32x32 24x24 16x16",
+      "type": "image/x-icon"
+    }
+  ]
+}

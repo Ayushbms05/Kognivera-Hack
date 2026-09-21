@@ -1,0 +1,1207 @@
+landmark_id,city_id,name,kind,lat,lng,description
+lmk_0001,cty_c07454f1,Hawa Mahal (Palace of Winds),heritage,26.9239,75.8267,Iconic pink sandstone palace with 953 honeycombed windows.
+lmk_0002,cty_c07454f1,City Palace Jaipur,heritage,26.9258,75.8237,"Magnificent royal residence combining Mughal, Rajput and European architecture."
+lmk_0003,cty_c07454f1,Albert Hall Central Museum,museum,26.9116,75.8195,"State museum housing exquisite historical artifacts, carpets and miniature art."
+lmk_0004,cty_c07454f1,Jaipur Junction Railway Station,transit_hub,26.92,75.7878,Main western railway terminus connecting major Indian express lines.
+lmk_0005,cty_c07454f1,Chandpole Metro Station,transit_hub,26.9248,75.8085,Rapid underground transit hub serving the Old Walled City.
+lmk_0006,cty_c07454f1,Bapu Bazaar Cultural Market,bazaar,26.9197,75.8236,Traditional bazaar famous for camel leather Mojaris and Jaipuri block prints.
+lmk_0007,cty_c07454f1,Jantar Mantar Astronomical Observatory,heritage,26.9247,75.8245,UNESCO World Heritage 18th-century architectural astronomical instruments.
+lmk_0008,cty_c07454f1,Sindhi Camp Central Bus Terminal,transit_hub,26.9221,75.7989,Primary inter-state and express transportation station in Jaipur.
+lmk_0009,cty_5d572c8a,City Palace Complex,heritage,24.5764,73.6835,Rajasthan's largest palace complex overlooking Lake Pichola.
+lmk_0010,cty_5d572c8a,Lake Pichola Waterfront Promenade,attraction,24.5753,73.6766,Serene lakeside walkway with views of Lake Palace and Jag Mandir.
+lmk_0011,cty_5d572c8a,Jagdish Temple,religious,24.5794,73.6841,"Grand Indo-Aryan temple dedicated to Lord Vishnu, built in 1651."
+lmk_0012,cty_5d572c8a,Bagore Ki Haveli Cultural Museum,museum,24.5799,73.6809,Historic mansion hosting nightly Dharohar folk dance and puppet shows.
+lmk_0013,cty_5d572c8a,Saheliyon Ki Bari Royal Gardens,park,24.6033,73.6874,"Courtyard of maidens featuring lotus pools, marble pavilions and fountains."
+lmk_0014,cty_5d572c8a,Udaipur City Railway Station,transit_hub,24.5707,73.6987,Main railway terminal connecting Mewar region with national express routes.
+lmk_0015,cty_5d572c8a,Fateh Sagar Lake Promenade,viewpoint,24.6025,73.6738,Scenic waterside promenade popular for morning strolls and boating.
+lmk_0016,cty_076e8e86,Mehrangarh Fort Citadel,heritage,26.2978,73.0185,One of India's largest forts towering 410 feet above the Blue City.
+lmk_0017,cty_076e8e86,Jaswant Thada Royal Cenotaph,heritage,26.3025,73.0244,Intricately carved white marble memorial overlooking Mehrangarh.
+lmk_0018,cty_076e8e86,Umaid Bhawan Palace,heritage,26.2808,73.0475,Spectacular golden-yellow sandstone royal palace and museum.
+lmk_0019,cty_076e8e86,Ghanta Ghar (Clock Tower Market),bazaar,26.2954,73.0252,"Historic clock tower surrounded by bustling spice, tea and handicraft stalls."
+lmk_0020,cty_076e8e86,Jodhpur Junction Railway Station,transit_hub,26.2858,73.0203,Major transport node serving western Rajasthan.
+lmk_0021,cty_10cbee86,Jaisalmer Central Railway Station,transit_hub,26.920607,70.914046,Main intercity transit and rail junction serving Jaisalmer.
+lmk_0022,cty_10cbee86,Jaisalmer Old Town Heritage Market,bazaar,26.911704,70.912619,Vibrant historic bazaar specializing in regional handicrafts and local spices.
+lmk_0023,cty_10cbee86,Jaisalmer Botanical Garden & Civic Park,park,26.909161,70.901209,Lush urban green space featuring tranquil walking trails and pavilions.
+lmk_0024,cty_10cbee86,Jaisalmer Central Bus & Metro Terminus,transit_hub,26.923151,70.899781,High-frequency transport exchange connecting the district.
+lmk_0025,cty_10cbee86,Jaisalmer Riverfront / Lake Promenade,attraction,26.915519,70.92246,Picturesque waterside promenade with panoramic city vistas.
+lmk_0026,cty_b43cdd57,Taj Mahal Monument of Love,heritage,27.1751,78.0421,UNESCO World Wonder ivory-white marble mausoleum on the Yamuna riverbank.
+lmk_0027,cty_b43cdd57,Agra Fort Historical Citadel,heritage,27.1795,78.0211,Vast red sandstone fortress that served as the imperial seat of Mughal rulers.
+lmk_0028,cty_b43cdd57,Mehtab Bagh Moonlight Garden,park,27.18,78.0422,Charbagh complex perfectly aligned with the Taj Mahal across the river.
+lmk_0029,cty_b43cdd57,Agra Cantt Railway Terminus,transit_hub,27.1583,78.01,High-speed Gatimaan and Vande Bharat express hub.
+lmk_0030,cty_b43cdd57,Kinari Bazaar Artisan Quarter,bazaar,27.1867,78.0167,"Ancient winding market renowned for marble inlay, leather craft and zari."
+lmk_0031,cty_c97e6cd5,Dashashwamedh Main Ghat,heritage,25.3074,83.0104,Vibrant riverfront steps renowned for spectacular evening Ganga Aarti rituals.
+lmk_0032,cty_c97e6cd5,Kashi Vishwanath Jyotirlinga Temple,religious,25.3109,83.0107,Revered holy temple complex on the western bank of the sacred Ganges.
+lmk_0033,cty_c97e6cd5,Assi Ghat Cultural Plaza,attraction,25.2891,83.0068,Southernmost ghat hosting dawn yoga sessions and morning classical ragas.
+lmk_0034,cty_c97e6cd5,Varanasi Junction Cantt Station,transit_hub,25.3283,82.9866,Main transportation lifeline connecting eastern Uttar Pradesh.
+lmk_0035,cty_c97e6cd5,Godowlia Market Crossway,bazaar,25.3089,83.0067,"Bustling heart of silk weavers, brassware, and traditional Banarasi street sweets."
+lmk_0036,cty_5698a7ab,Lucknow Central Railway Station,transit_hub,26.851781,80.951868,Main intercity transit and rail junction serving Lucknow.
+lmk_0037,cty_5698a7ab,Lucknow Old Town Heritage Market,bazaar,26.842878,80.950442,Vibrant historic bazaar specializing in regional handicrafts and local spices.
+lmk_0038,cty_5698a7ab,Lucknow Botanical Garden & Civic Park,park,26.840335,80.939039,Lush urban green space featuring tranquil walking trails and pavilions.
+lmk_0039,cty_5698a7ab,Lucknow Central Bus & Metro Terminus,transit_hub,26.854325,80.937613,High-frequency transport exchange connecting the district.
+lmk_0040,cty_5698a7ab,Lucknow Riverfront / Lake Promenade,attraction,26.846693,80.960277,Picturesque waterside promenade with panoramic city vistas.
+lmk_0041,cty_0b92e2e7,India Gate National Memorial,heritage,28.6129,77.2295,War memorial archway surrounded by sprawling lawns on Kartavya Path.
+lmk_0042,cty_0b92e2e7,Connaught Place Heritage Circle,bazaar,28.6327,77.2197,Colonial Georgian-style circular arcade packed with restaurants and shops.
+lmk_0043,cty_0b92e2e7,Rajiv Chowk Central Metro Interchange,transit_hub,28.6328,77.2195,Primary underground metro transfer linking Yellow and Blue lines.
+lmk_0044,cty_0b92e2e7,New Delhi Railway Station,transit_hub,28.643,77.2194,India's second busiest railway station and Airport Express gateway.
+lmk_0045,cty_0b92e2e7,Red Fort (Lal Qila),heritage,28.6562,77.241,Historic fort fortress complex built by Mughal Emperor Shah Jahan in 1638.
+lmk_0046,cty_0b92e2e7,Humayun Tomb Garden Complex,heritage,28.5933,77.2507,Splendid red sandstone garden tomb that inspired the Taj Mahal.
+lmk_0047,cty_0d062a51,Amritsar Central Railway Station,transit_hub,31.639067,74.878236,Main intercity transit and rail junction serving Amritsar.
+lmk_0048,cty_0d062a51,Amritsar Old Town Heritage Market,bazaar,31.630164,74.876742,Vibrant historic bazaar specializing in regional handicrafts and local spices.
+lmk_0049,cty_0d062a51,Amritsar Botanical Garden & Civic Park,park,31.627621,74.864793,Lush urban green space featuring tranquil walking trails and pavilions.
+lmk_0050,cty_0d062a51,Amritsar Central Bus & Metro Terminus,transit_hub,31.641611,74.863298,High-frequency transport exchange connecting the district.
+lmk_0051,cty_0d062a51,Amritsar Riverfront / Lake Promenade,attraction,31.633979,74.887049,Picturesque waterside promenade with panoramic city vistas.
+lmk_0052,cty_32e8e65c,Shimla Central Railway Station,transit_hub,31.109901,77.179015,Main intercity transit and rail junction serving Shimla.
+lmk_0053,cty_32e8e65c,Shimla Old Town Heritage Market,bazaar,31.100998,77.177529,Vibrant historic bazaar specializing in regional handicrafts and local spices.
+lmk_0054,cty_32e8e65c,Shimla Botanical Garden & Civic Park,park,31.098455,77.165647,Lush urban green space featuring tranquil walking trails and pavilions.
+lmk_0055,cty_32e8e65c,Shimla Central Bus & Metro Terminus,transit_hub,31.112445,77.16416,High-frequency transport exchange connecting the district.
+lmk_0056,cty_32e8e65c,Shimla Riverfront / Lake Promenade,attraction,31.104813,77.187778,Picturesque waterside promenade with panoramic city vistas.
+lmk_0057,cty_9327d518,Manali Central Railway Station,transit_hub,32.244424,77.194722,Main intercity transit and rail junction serving Manali.
+lmk_0058,cty_9327d518,Manali Old Town Heritage Market,bazaar,32.235521,77.193218,Vibrant historic bazaar specializing in regional handicrafts and local spices.
+lmk_0059,cty_9327d518,Manali Botanical Garden & Civic Park,park,32.232978,77.181189,Lush urban green space featuring tranquil walking trails and pavilions.
+lmk_0060,cty_9327d518,Manali Central Bus & Metro Terminus,transit_hub,32.246968,77.179684,High-frequency transport exchange connecting the district.
+lmk_0061,cty_9327d518,Manali Riverfront / Lake Promenade,attraction,32.239336,77.203592,Picturesque waterside promenade with panoramic city vistas.
+lmk_0062,cty_d35a9652,Rishikesh Central Railway Station,transit_hub,30.091757,78.2731,Main intercity transit and rail junction serving Rishikesh.
+lmk_0063,cty_d35a9652,Rishikesh Old Town Heritage Market,bazaar,30.082854,78.271629,Vibrant historic bazaar specializing in regional handicrafts and local spices.
+lmk_0064,cty_d35a9652,Rishikesh Botanical Garden & Civic Park,park,30.080311,78.259871,Lush urban green space featuring tranquil walking trails and pavilions.
+lmk_0065,cty_d35a9652,Rishikesh Central Bus & Metro Terminus,transit_hub,30.094301,78.2584,High-frequency transport exchange connecting the district.
+lmk_0066,cty_d35a9652,Rishikesh Riverfront / Lake Promenade,attraction,30.086669,78.281771,Picturesque waterside promenade with panoramic city vistas.
+lmk_0067,cty_0d9ab6ff,Nainital Central Railway Station,transit_hub,29.385087,79.469239,Main intercity transit and rail junction serving Nainital.
+lmk_0068,cty_0d9ab6ff,Nainital Old Town Heritage Market,bazaar,29.376184,79.467778,Vibrant historic bazaar specializing in regional handicrafts and local spices.
+lmk_0069,cty_0d9ab6ff,Nainital Botanical Garden & Civic Park,park,29.373641,79.456103,Lush urban green space featuring tranquil walking trails and pavilions.
+lmk_0070,cty_0d9ab6ff,Nainital Central Bus & Metro Terminus,transit_hub,29.387631,79.454642,High-frequency transport exchange connecting the district.
+lmk_0071,cty_0d9ab6ff,Nainital Riverfront / Lake Promenade,attraction,29.379999,79.477849,Picturesque waterside promenade with panoramic city vistas.
+lmk_0072,cty_aa759717,Leh Central Railway Station,transit_hub,34.157675,77.583197,Main intercity transit and rail junction serving Leh.
+lmk_0073,cty_aa759717,Leh Old Town Heritage Market,bazaar,34.148772,77.581659,Vibrant historic bazaar specializing in regional handicrafts and local spices.
+lmk_0074,cty_aa759717,Leh Botanical Garden & Civic Park,park,34.146229,77.569365,Lush urban green space featuring tranquil walking trails and pavilions.
+lmk_0075,cty_aa759717,Leh Central Bus & Metro Terminus,transit_hub,34.160219,77.567827,High-frequency transport exchange connecting the district.
+lmk_0076,cty_aa759717,Leh Riverfront / Lake Promenade,attraction,34.152587,77.592263,Picturesque waterside promenade with panoramic city vistas.
+lmk_0077,cty_828a7777,Srinagar Central Railway Station,transit_hub,34.088743,74.803514,Main intercity transit and rail junction serving Srinagar.
+lmk_0078,cty_828a7777,Srinagar Old Town Heritage Market,bazaar,34.07984,74.801978,Vibrant historic bazaar specializing in regional handicrafts and local spices.
+lmk_0079,cty_828a7777,Srinagar Botanical Garden & Civic Park,park,34.077297,74.789693,Lush urban green space featuring tranquil walking trails and pavilions.
+lmk_0080,cty_828a7777,Srinagar Central Bus & Metro Terminus,transit_hub,34.091287,74.788156,High-frequency transport exchange connecting the district.
+lmk_0081,cty_828a7777,Srinagar Riverfront / Lake Promenade,attraction,34.083655,74.812573,Picturesque waterside promenade with panoramic city vistas.
+lmk_0082,cty_95e7c8ca,Gateway of India,heritage,18.922,72.8347,20th-century arch monument overlooking the Arabian Sea in Apollo Bunder.
+lmk_0083,cty_95e7c8ca,Marine Drive Queen's Necklace,attraction,18.9432,72.823,3-kilometer seaside promenade offering sunset vistas along Back Bay.
+lmk_0084,cty_95e7c8ca,Chhatrapati Shivaji Maharaj Terminus (CSMT),transit_hub,18.94,72.8353,UNESCO World Heritage Victorian Gothic railway headquarters.
+lmk_0085,cty_95e7c8ca,Colaba Causeway Bohemian Market,bazaar,18.9189,72.83,"Vibrant street market filled with antique curios, books, and fashion stalls."
+lmk_0086,cty_95e7c8ca,Churchgate Western Railway Terminus,transit_hub,18.9322,72.8264,Fast suburban railway transit linking South Mumbai to northern suburbs.
+lmk_0087,cty_621f4a84,Pune Central Railway Station,transit_hub,18.525517,73.862109,Main intercity transit and rail junction serving Pune.
+lmk_0088,cty_621f4a84,Pune Old Town Heritage Market,bazaar,18.516614,73.860768,Vibrant historic bazaar specializing in regional handicrafts and local spices.
+lmk_0089,cty_621f4a84,Pune Botanical Garden & Civic Park,park,18.514071,73.850038,Lush urban green space featuring tranquil walking trails and pavilions.
+lmk_0090,cty_621f4a84,Pune Central Bus & Metro Terminus,transit_hub,18.528061,73.848696,High-frequency transport exchange connecting the district.
+lmk_0091,cty_621f4a84,Pune Riverfront / Lake Promenade,attraction,18.52043,73.870022,Picturesque waterside promenade with panoramic city vistas.
+lmk_0092,cty_f29656ff,Aurangabad Central Railway Station,transit_hub,19.881252,75.348724,Main intercity transit and rail junction serving Aurangabad.
+lmk_0093,cty_f29656ff,Aurangabad Old Town Heritage Market,bazaar,19.872349,75.347371,Vibrant historic bazaar specializing in regional handicrafts and local spices.
+lmk_0094,cty_f29656ff,Aurangabad Botanical Garden & Civic Park,park,19.869806,75.336552,Lush urban green space featuring tranquil walking trails and pavilions.
+lmk_0095,cty_f29656ff,Aurangabad Central Bus & Metro Terminus,transit_hub,19.883796,75.335199,High-frequency transport exchange connecting the district.
+lmk_0096,cty_f29656ff,Aurangabad Riverfront / Lake Promenade,attraction,19.876164,75.356702,Picturesque waterside promenade with panoramic city vistas.
+lmk_0097,cty_cfec17b6,Ahmedabad Central Railway Station,transit_hub,23.027592,72.57689,Main intercity transit and rail junction serving Ahmedabad.
+lmk_0098,cty_cfec17b6,Ahmedabad Old Town Heritage Market,bazaar,23.018689,72.575508,Vibrant historic bazaar specializing in regional handicrafts and local spices.
+lmk_0099,cty_cfec17b6,Ahmedabad Botanical Garden & Civic Park,park,23.016146,72.564453,Lush urban green space featuring tranquil walking trails and pavilions.
+lmk_0100,cty_cfec17b6,Ahmedabad Central Bus & Metro Terminus,transit_hub,23.030136,72.56307,High-frequency transport exchange connecting the district.
+lmk_0101,cty_cfec17b6,Ahmedabad Riverfront / Lake Promenade,attraction,23.022504,72.585042,Picturesque waterside promenade with panoramic city vistas.
+lmk_0102,cty_caf3c1ee,Bhuj Central Railway Station,transit_hub,23.247078,69.672468,Main intercity transit and rail junction serving Bhuj.
+lmk_0103,cty_caf3c1ee,Bhuj Old Town Heritage Market,bazaar,23.238175,69.671083,Vibrant historic bazaar specializing in regional handicrafts and local spices.
+lmk_0104,cty_caf3c1ee,Bhuj Botanical Garden & Civic Park,park,23.235632,69.660011,Lush urban green space featuring tranquil walking trails and pavilions.
+lmk_0105,cty_caf3c1ee,Bhuj Central Bus & Metro Terminus,transit_hub,23.249622,69.658626,High-frequency transport exchange connecting the district.
+lmk_0106,cty_caf3c1ee,Bhuj Riverfront / Lake Promenade,attraction,23.24199,69.680634,Picturesque waterside promenade with panoramic city vistas.
+lmk_0107,cty_43d0a650,Our Lady of the Immaculate Conception Church,heritage,15.4989,73.829,Baroque church with zigzag stairs overlooking Church Square.
+lmk_0108,cty_43d0a650,Fontainhas Latin Quarter,heritage,15.4947,73.8322,Charming heritage quarter with narrow cobblestone streets and Portuguese villas.
+lmk_0109,cty_43d0a650,Miramar Beach Promenade,attraction,15.4833,73.8055,Palm-fringed beach promenade where Mandovi River meets the Arabian Sea.
+lmk_0110,cty_43d0a650,KTC Panaji Central Bus Stand,transit_hub,15.4982,73.8375,Main intercity transport terminus connecting North and South Goa.
+lmk_0111,cty_43d0a650,Mandovi Ferry & Cruise Jetty,transit_hub,15.4998,73.8306,River jetty offering local commuter ferry crossings and sunset cruises.
+lmk_0112,cty_17b8ef2f,Cubbon Park Botanical Garden,park,12.9763,77.5929,300-acre green lung in the city centre with historic neo-classical buildings.
+lmk_0113,cty_17b8ef2f,MG Road Metro Station,transit_hub,12.9756,77.6066,Purple Line metro station at the commercial and cultural heart.
+lmk_0114,cty_17b8ef2f,Bangalore Palace & Grounds,heritage,12.9988,77.5921,Tudor-revival royal palace featuring fortified towers and stained glass.
+lmk_0115,cty_17b8ef2f,Lalbagh Botanical Gardens,park,12.9507,77.5848,Historic 240-acre garden home to a famous glass house modelled on Crystal Palace.
+lmk_0116,cty_17b8ef2f,KSR Bengaluru City Railway Station,transit_hub,12.9781,77.5694,Main rail terminal for intercity and high-speed express trains.
+lmk_0117,cty_8fc1539e,Mysuru Central Railway Station,transit_hub,12.300897,76.644588,Main intercity transit and rail junction serving Mysuru.
+lmk_0118,cty_8fc1539e,Mysuru Old Town Heritage Market,bazaar,12.291994,76.643286,Vibrant historic bazaar specializing in regional handicrafts and local spices.
+lmk_0119,cty_8fc1539e,Mysuru Botanical Garden & Civic Park,park,12.289451,76.632873,Lush urban green space featuring tranquil walking trails and pavilions.
+lmk_0120,cty_8fc1539e,Mysuru Central Bus & Metro Terminus,transit_hub,12.303441,76.631571,High-frequency transport exchange connecting the district.
+lmk_0121,cty_8fc1539e,Mysuru Riverfront / Lake Promenade,attraction,12.29581,76.652267,Picturesque waterside promenade with panoramic city vistas.
+lmk_0122,cty_bbb31d67,Hampi Central Railway Station,transit_hub,15.340137,76.465335,Main intercity transit and rail junction serving Hampi.
+lmk_0123,cty_bbb31d67,Hampi Old Town Heritage Market,bazaar,15.331234,76.464016,Vibrant historic bazaar specializing in regional handicrafts and local spices.
+lmk_0124,cty_bbb31d67,Hampi Botanical Garden & Civic Park,park,15.328691,76.453466,Lush urban green space featuring tranquil walking trails and pavilions.
+lmk_0125,cty_bbb31d67,Hampi Central Bus & Metro Terminus,transit_hub,15.342681,76.452147,High-frequency transport exchange connecting the district.
+lmk_0126,cty_bbb31d67,Hampi Riverfront / Lake Promenade,attraction,15.33505,76.473115,Picturesque waterside promenade with panoramic city vistas.
+lmk_0127,cty_a97c33ad,Gokarna Central Railway Station,transit_hub,14.554987,74.322456,Main intercity transit and rail junction serving Gokarna.
+lmk_0128,cty_a97c33ad,Gokarna Old Town Heritage Market,bazaar,14.546084,74.321142,Vibrant historic bazaar specializing in regional handicrafts and local spices.
+lmk_0129,cty_a97c33ad,Gokarna Botanical Garden & Civic Park,park,14.543541,74.31063,Lush urban green space featuring tranquil walking trails and pavilions.
+lmk_0130,cty_a97c33ad,Gokarna Central Bus & Metro Terminus,transit_hub,14.557531,74.309316,High-frequency transport exchange connecting the district.
+lmk_0131,cty_a97c33ad,Gokarna Riverfront / Lake Promenade,attraction,14.5499,74.330208,Picturesque waterside promenade with panoramic city vistas.
+lmk_0132,cty_f8b75f8e,Chennai Central Railway Station,transit_hub,13.087767,80.275941,Main intercity transit and rail junction serving Chennai.
+lmk_0133,cty_f8b75f8e,Chennai Old Town Heritage Market,bazaar,13.078864,80.274635,Vibrant historic bazaar specializing in regional handicrafts and local spices.
+lmk_0134,cty_f8b75f8e,Chennai Botanical Garden & Civic Park,park,13.076321,80.26419,Lush urban green space featuring tranquil walking trails and pavilions.
+lmk_0135,cty_f8b75f8e,Chennai Central Bus & Metro Terminus,transit_hub,13.090311,80.262883,High-frequency transport exchange connecting the district.
+lmk_0136,cty_f8b75f8e,Chennai Riverfront / Lake Promenade,attraction,13.08268,80.283644,Picturesque waterside promenade with panoramic city vistas.
+lmk_0137,cty_3503e391,Madurai Central Railway Station,transit_hub,9.930288,78.12494,Main intercity transit and rail junction serving Madurai.
+lmk_0138,cty_3503e391,Madurai Old Town Heritage Market,bazaar,9.921385,78.123648,Vibrant historic bazaar specializing in regional handicrafts and local spices.
+lmk_0139,cty_3503e391,Madurai Botanical Garden & Civic Park,park,9.918842,78.113319,Lush urban green space featuring tranquil walking trails and pavilions.
+lmk_0140,cty_3503e391,Madurai Central Bus & Metro Terminus,transit_hub,9.932832,78.112028,High-frequency transport exchange connecting the district.
+lmk_0141,cty_3503e391,Madurai Riverfront / Lake Promenade,attraction,9.925201,78.132557,Picturesque waterside promenade with panoramic city vistas.
+lmk_0142,cty_7fc82336,Ooty Central Railway Station,transit_hub,11.415697,76.700197,Main intercity transit and rail junction serving Ooty.
+lmk_0143,cty_7fc82336,Ooty Old Town Heritage Market,bazaar,11.406794,76.698899,Vibrant historic bazaar specializing in regional handicrafts and local spices.
+lmk_0144,cty_7fc82336,Ooty Botanical Garden & Civic Park,park,11.404251,76.68852,Lush urban green space featuring tranquil walking trails and pavilions.
+lmk_0145,cty_7fc82336,Ooty Central Bus & Metro Terminus,transit_hub,11.418241,76.687222,High-frequency transport exchange connecting the district.
+lmk_0146,cty_7fc82336,Ooty Riverfront / Lake Promenade,attraction,11.41061,76.707851,Picturesque waterside promenade with panoramic city vistas.
+lmk_0147,cty_f288c6a0,Pondicherry Central Railway Station,transit_hub,11.921506,79.817754,Main intercity transit and rail junction serving Pondicherry.
+lmk_0148,cty_f288c6a0,Pondicherry Old Town Heritage Market,bazaar,11.912603,79.816454,Vibrant historic bazaar specializing in regional handicrafts and local spices.
+lmk_0149,cty_f288c6a0,Pondicherry Botanical Garden & Civic Park,park,11.91006,79.806056,Lush urban green space featuring tranquil walking trails and pavilions.
+lmk_0150,cty_f288c6a0,Pondicherry Central Bus & Metro Terminus,transit_hub,11.92405,79.804756,High-frequency transport exchange connecting the district.
+lmk_0151,cty_f288c6a0,Pondicherry Riverfront / Lake Promenade,attraction,11.916419,79.825423,Picturesque waterside promenade with panoramic city vistas.
+lmk_0152,cty_7f673457,Thanjavur Central Railway Station,transit_hub,10.792085,79.143006,Main intercity transit and rail junction serving Thanjavur.
+lmk_0153,cty_7f673457,Thanjavur Old Town Heritage Market,bazaar,10.783182,79.141711,Vibrant historic bazaar specializing in regional handicrafts and local spices.
+lmk_0154,cty_7f673457,Thanjavur Botanical Garden & Civic Park,park,10.780639,79.131354,Lush urban green space featuring tranquil walking trails and pavilions.
+lmk_0155,cty_7f673457,Thanjavur Central Bus & Metro Terminus,transit_hub,10.794629,79.130059,High-frequency transport exchange connecting the district.
+lmk_0156,cty_7f673457,Thanjavur Riverfront / Lake Promenade,attraction,10.786998,79.150644,Picturesque waterside promenade with panoramic city vistas.
+lmk_0157,cty_8b6b1652,Kochi Central Railway Station,transit_hub,9.93632,76.272468,Main intercity transit and rail junction serving Kochi.
+lmk_0158,cty_8b6b1652,Kochi Old Town Heritage Market,bazaar,9.927417,76.271176,Vibrant historic bazaar specializing in regional handicrafts and local spices.
+lmk_0159,cty_8b6b1652,Kochi Botanical Garden & Civic Park,park,9.924874,76.260847,Lush urban green space featuring tranquil walking trails and pavilions.
+lmk_0160,cty_8b6b1652,Kochi Central Bus & Metro Terminus,transit_hub,9.938864,76.259556,High-frequency transport exchange connecting the district.
+lmk_0161,cty_8b6b1652,Kochi Riverfront / Lake Promenade,attraction,9.931233,76.280085,Picturesque waterside promenade with panoramic city vistas.
+lmk_0162,cty_34bbfdfe,Alleppey Central Railway Station,transit_hub,9.503154,76.344002,Main intercity transit and rail junction serving Alleppey.
+lmk_0163,cty_34bbfdfe,Alleppey Old Town Heritage Market,bazaar,9.494251,76.342712,Vibrant historic bazaar specializing in regional handicrafts and local spices.
+lmk_0164,cty_34bbfdfe,Alleppey Botanical Garden & Civic Park,park,9.491708,76.332397,Lush urban green space featuring tranquil walking trails and pavilions.
+lmk_0165,cty_34bbfdfe,Alleppey Central Bus & Metro Terminus,transit_hub,9.505698,76.331107,High-frequency transport exchange connecting the district.
+lmk_0166,cty_34bbfdfe,Alleppey Riverfront / Lake Promenade,attraction,9.498067,76.35161,Picturesque waterside promenade with panoramic city vistas.
+lmk_0167,cty_d401ef6b,Munnar Central Railway Station,transit_hub,10.094247,77.064737,Main intercity transit and rail junction serving Munnar.
+lmk_0168,cty_d401ef6b,Munnar Old Town Heritage Market,bazaar,10.085344,77.063445,Vibrant historic bazaar specializing in regional handicrafts and local spices.
+lmk_0169,cty_d401ef6b,Munnar Botanical Garden & Civic Park,park,10.082801,77.053111,Lush urban green space featuring tranquil walking trails and pavilions.
+lmk_0170,cty_d401ef6b,Munnar Central Bus & Metro Terminus,transit_hub,10.096791,77.051819,High-frequency transport exchange connecting the district.
+lmk_0171,cty_d401ef6b,Munnar Riverfront / Lake Promenade,attraction,10.08916,77.072358,Picturesque waterside promenade with panoramic city vistas.
+lmk_0172,cty_67ee7f6f,Thiruvananthapuram Central Railway Station,transit_hub,8.529226,76.941782,Main intercity transit and rail junction serving Thiruvananthapuram.
+lmk_0173,cty_67ee7f6f,Thiruvananthapuram Old Town Heritage Market,bazaar,8.520323,76.940496,Vibrant historic bazaar specializing in regional handicrafts and local spices.
+lmk_0174,cty_67ee7f6f,Thiruvananthapuram Botanical Garden & Civic Park,park,8.51778,76.930208,Lush urban green space featuring tranquil walking trails and pavilions.
+lmk_0175,cty_67ee7f6f,Thiruvananthapuram Central Bus & Metro Terminus,transit_hub,8.53177,76.928922,High-frequency transport exchange connecting the district.
+lmk_0176,cty_67ee7f6f,Thiruvananthapuram Riverfront / Lake Promenade,attraction,8.524139,76.949369,Picturesque waterside promenade with panoramic city vistas.
+lmk_0177,cty_541018a9,Wayanad Central Railway Station,transit_hub,11.690467,76.137095,Main intercity transit and rail junction serving Wayanad.
+lmk_0178,cty_541018a9,Wayanad Old Town Heritage Market,bazaar,11.681564,76.135796,Vibrant historic bazaar specializing in regional handicrafts and local spices.
+lmk_0179,cty_541018a9,Wayanad Botanical Garden & Civic Park,park,11.679021,76.125406,Lush urban green space featuring tranquil walking trails and pavilions.
+lmk_0180,cty_541018a9,Wayanad Central Bus & Metro Terminus,transit_hub,11.693011,76.124107,High-frequency transport exchange connecting the district.
+lmk_0181,cty_541018a9,Wayanad Riverfront / Lake Promenade,attraction,11.68538,76.144757,Picturesque waterside promenade with panoramic city vistas.
+lmk_0182,cty_718f03c7,Hyderabad Central Railway Station,transit_hub,17.390131,78.492002,Main intercity transit and rail junction serving Hyderabad.
+lmk_0183,cty_718f03c7,Hyderabad Old Town Heritage Market,bazaar,17.381228,78.490669,Vibrant historic bazaar specializing in regional handicrafts and local spices.
+lmk_0184,cty_718f03c7,Hyderabad Botanical Garden & Civic Park,park,17.378685,78.480008,Lush urban green space featuring tranquil walking trails and pavilions.
+lmk_0185,cty_718f03c7,Hyderabad Central Bus & Metro Terminus,transit_hub,17.392675,78.478674,High-frequency transport exchange connecting the district.
+lmk_0186,cty_718f03c7,Hyderabad Riverfront / Lake Promenade,attraction,17.385044,78.499864,Picturesque waterside promenade with panoramic city vistas.
+lmk_0187,cty_7cb0b529,Visakhapatnam Central Railway Station,transit_hub,17.691903,83.223822,Main intercity transit and rail junction serving Visakhapatnam.
+lmk_0188,cty_7cb0b529,Visakhapatnam Old Town Heritage Market,bazaar,17.683,83.222487,Vibrant historic bazaar specializing in regional handicrafts and local spices.
+lmk_0189,cty_7cb0b529,Visakhapatnam Botanical Garden & Civic Park,park,17.680457,83.211808,Lush urban green space featuring tranquil walking trails and pavilions.
+lmk_0190,cty_7cb0b529,Visakhapatnam Central Bus & Metro Terminus,transit_hub,17.694447,83.210472,High-frequency transport exchange connecting the district.
+lmk_0191,cty_7cb0b529,Visakhapatnam Riverfront / Lake Promenade,attraction,17.686816,83.231697,Picturesque waterside promenade with panoramic city vistas.
+lmk_0192,cty_d4f5e3a5,Tirupati Central Railway Station,transit_hub,13.633787,79.424435,Main intercity transit and rail junction serving Tirupati.
+lmk_0193,cty_d4f5e3a5,Tirupati Old Town Heritage Market,bazaar,13.624884,79.423126,Vibrant historic bazaar specializing in regional handicrafts and local spices.
+lmk_0194,cty_d4f5e3a5,Tirupati Botanical Garden & Civic Park,park,13.622341,79.412657,Lush urban green space featuring tranquil walking trails and pavilions.
+lmk_0195,cty_d4f5e3a5,Tirupati Central Bus & Metro Terminus,transit_hub,13.636331,79.411348,High-frequency transport exchange connecting the district.
+lmk_0196,cty_d4f5e3a5,Tirupati Riverfront / Lake Promenade,attraction,13.6287,79.432155,Picturesque waterside promenade with panoramic city vistas.
+lmk_0197,cty_ab50efee,Kolkata Central Railway Station,transit_hub,22.577733,88.369405,Main intercity transit and rail junction serving Kolkata.
+lmk_0198,cty_ab50efee,Kolkata Old Town Heritage Market,bazaar,22.56883,88.368027,Vibrant historic bazaar specializing in regional handicrafts and local spices.
+lmk_0199,cty_ab50efee,Kolkata Botanical Garden & Civic Park,park,22.566287,88.357009,Lush urban green space featuring tranquil walking trails and pavilions.
+lmk_0200,cty_ab50efee,Kolkata Central Bus & Metro Terminus,transit_hub,22.580277,88.35563,High-frequency transport exchange connecting the district.
+lmk_0201,cty_ab50efee,Kolkata Riverfront / Lake Promenade,attraction,22.572645,88.37753,Picturesque waterside promenade with panoramic city vistas.
+lmk_0202,cty_c43cfa94,Darjeeling Central Railway Station,transit_hub,27.041094,88.268387,Main intercity transit and rail junction serving Darjeeling.
+lmk_0203,cty_c43cfa94,Darjeeling Old Town Heritage Market,bazaar,27.032191,88.266958,Vibrant historic bazaar specializing in regional handicrafts and local spices.
+lmk_0204,cty_c43cfa94,Darjeeling Botanical Garden & Civic Park,park,27.029648,88.255536,Lush urban green space featuring tranquil walking trails and pavilions.
+lmk_0205,cty_c43cfa94,Darjeeling Central Bus & Metro Terminus,transit_hub,27.043638,88.254107,High-frequency transport exchange connecting the district.
+lmk_0206,cty_c43cfa94,Darjeeling Riverfront / Lake Promenade,attraction,27.036006,88.27681,Picturesque waterside promenade with panoramic city vistas.
+lmk_0207,cty_b6ccbb3b,Puri Central Railway Station,transit_hub,19.818487,85.836608,Main intercity transit and rail junction serving Puri.
+lmk_0208,cty_b6ccbb3b,Puri Old Town Heritage Market,bazaar,19.809584,85.835255,Vibrant historic bazaar specializing in regional handicrafts and local spices.
+lmk_0209,cty_b6ccbb3b,Puri Botanical Garden & Civic Park,park,19.807041,85.824441,Lush urban green space featuring tranquil walking trails and pavilions.
+lmk_0210,cty_b6ccbb3b,Puri Central Bus & Metro Terminus,transit_hub,19.821031,85.823088,High-frequency transport exchange connecting the district.
+lmk_0211,cty_b6ccbb3b,Puri Riverfront / Lake Promenade,attraction,19.8134,85.844583,Picturesque waterside promenade with panoramic city vistas.
+lmk_0212,cty_7be8559f,Bhubaneswar Central Railway Station,transit_hub,20.301146,85.829963,Main intercity transit and rail junction serving Bhubaneswar.
+lmk_0213,cty_7be8559f,Bhubaneswar Old Town Heritage Market,bazaar,20.292243,85.828607,Vibrant historic bazaar specializing in regional handicrafts and local spices.
+lmk_0214,cty_7be8559f,Bhubaneswar Botanical Garden & Civic Park,park,20.2897,85.817759,Lush urban green space featuring tranquil walking trails and pavilions.
+lmk_0215,cty_7be8559f,Bhubaneswar Central Bus & Metro Terminus,transit_hub,20.30369,85.816402,High-frequency transport exchange connecting the district.
+lmk_0216,cty_7be8559f,Bhubaneswar Riverfront / Lake Promenade,attraction,20.296058,85.837963,Picturesque waterside promenade with panoramic city vistas.
+lmk_0217,cty_cf1c6ac5,Guwahati Central Railway Station,transit_hub,26.149605,91.741904,Main intercity transit and rail junction serving Guwahati.
+lmk_0218,cty_cf1c6ac5,Guwahati Old Town Heritage Market,bazaar,26.140702,91.740487,Vibrant historic bazaar specializing in regional handicrafts and local spices.
+lmk_0219,cty_cf1c6ac5,Guwahati Botanical Garden & Civic Park,park,26.138159,91.729153,Lush urban green space featuring tranquil walking trails and pavilions.
+lmk_0220,cty_cf1c6ac5,Guwahati Central Bus & Metro Terminus,transit_hub,26.152149,91.727736,High-frequency transport exchange connecting the district.
+lmk_0221,cty_cf1c6ac5,Guwahati Riverfront / Lake Promenade,attraction,26.144517,91.750263,Picturesque waterside promenade with panoramic city vistas.
+lmk_0222,cty_590d4b7b,Shillong Central Railway Station,transit_hub,25.58386,91.898894,Main intercity transit and rail junction serving Shillong.
+lmk_0223,cty_590d4b7b,Shillong Old Town Heritage Market,bazaar,25.574957,91.897484,Vibrant historic bazaar specializing in regional handicrafts and local spices.
+lmk_0224,cty_590d4b7b,Shillong Botanical Garden & Civic Park,park,25.572414,91.886204,Lush urban green space featuring tranquil walking trails and pavilions.
+lmk_0225,cty_590d4b7b,Shillong Central Bus & Metro Terminus,transit_hub,25.586404,91.884793,High-frequency transport exchange connecting the district.
+lmk_0226,cty_590d4b7b,Shillong Riverfront / Lake Promenade,attraction,25.578772,91.907213,Picturesque waterside promenade with panoramic city vistas.
+lmk_0227,cty_ccb4fb74,Gangtok Central Railway Station,transit_hub,27.344023,88.612234,Main intercity transit and rail junction serving Gangtok.
+lmk_0228,cty_ccb4fb74,Gangtok Old Town Heritage Market,bazaar,27.33512,88.610802,Vibrant historic bazaar specializing in regional handicrafts and local spices.
+lmk_0229,cty_ccb4fb74,Gangtok Botanical Garden & Civic Park,park,27.332577,88.599349,Lush urban green space featuring tranquil walking trails and pavilions.
+lmk_0230,cty_ccb4fb74,Gangtok Central Bus & Metro Terminus,transit_hub,27.346567,88.597916,High-frequency transport exchange connecting the district.
+lmk_0231,cty_ccb4fb74,Gangtok Riverfront / Lake Promenade,attraction,27.338935,88.620681,Picturesque waterside promenade with panoramic city vistas.
+lmk_0232,cty_a50bc5dd,Colombo Central Railway Station,transit_hub,6.932166,79.866369,Main intercity transit and rail junction serving Colombo.
+lmk_0233,cty_a50bc5dd,Colombo Old Town Heritage Market,bazaar,6.923263,79.865088,Vibrant historic bazaar specializing in regional handicrafts and local spices.
+lmk_0234,cty_a50bc5dd,Colombo Botanical Garden & Civic Park,park,6.92072,79.854838,Lush urban green space featuring tranquil walking trails and pavilions.
+lmk_0235,cty_a50bc5dd,Colombo Central Bus & Metro Terminus,transit_hub,6.93471,79.853557,High-frequency transport exchange connecting the district.
+lmk_0236,cty_a50bc5dd,Colombo Riverfront / Lake Promenade,attraction,6.927079,79.873927,Picturesque waterside promenade with panoramic city vistas.
+lmk_0237,cty_009c9fd2,Kandy Central Railway Station,transit_hub,7.295659,80.638857,Main intercity transit and rail junction serving Kandy.
+lmk_0238,cty_009c9fd2,Kandy Old Town Heritage Market,bazaar,7.286756,80.637575,Vibrant historic bazaar specializing in regional handicrafts and local spices.
+lmk_0239,cty_009c9fd2,Kandy Botanical Garden & Civic Park,park,7.284213,80.627317,Lush urban green space featuring tranquil walking trails and pavilions.
+lmk_0240,cty_009c9fd2,Kandy Central Bus & Metro Terminus,transit_hub,7.298203,80.626035,High-frequency transport exchange connecting the district.
+lmk_0241,cty_009c9fd2,Kandy Riverfront / Lake Promenade,attraction,7.290572,80.646421,Picturesque waterside promenade with panoramic city vistas.
+lmk_0242,cty_c0f2d9de,Kathmandu Central Railway Station,transit_hub,27.722332,85.329707,Main intercity transit and rail junction serving Kathmandu.
+lmk_0243,cty_c0f2d9de,Kathmandu Old Town Heritage Market,bazaar,27.713429,85.32827,Vibrant historic bazaar specializing in regional handicrafts and local spices.
+lmk_0244,cty_c0f2d9de,Kathmandu Botanical Garden & Civic Park,park,27.710886,85.316777,Lush urban green space featuring tranquil walking trails and pavilions.
+lmk_0245,cty_c0f2d9de,Kathmandu Central Bus & Metro Terminus,transit_hub,27.724876,85.315339,High-frequency transport exchange connecting the district.
+lmk_0246,cty_c0f2d9de,Kathmandu Riverfront / Lake Promenade,attraction,27.717244,85.338182,Picturesque waterside promenade with panoramic city vistas.
+lmk_0247,cty_95d040d8,Pokhara Central Railway Station,transit_hub,28.21467,83.99134,Main intercity transit and rail junction serving Pokhara.
+lmk_0248,cty_95d040d8,Pokhara Old Town Heritage Market,bazaar,28.205767,83.989897,Vibrant historic bazaar specializing in regional handicrafts and local spices.
+lmk_0249,cty_95d040d8,Pokhara Botanical Garden & Civic Park,park,28.203224,83.978351,Lush urban green space featuring tranquil walking trails and pavilions.
+lmk_0250,cty_95d040d8,Pokhara Central Bus & Metro Terminus,transit_hub,28.217214,83.976907,High-frequency transport exchange connecting the district.
+lmk_0251,cty_95d040d8,Pokhara Riverfront / Lake Promenade,attraction,28.209582,83.999855,Picturesque waterside promenade with panoramic city vistas.
+lmk_0252,cty_79cbc59b,Thimphu Central Railway Station,transit_hub,27.477879,89.64502,Main intercity transit and rail junction serving Thimphu.
+lmk_0253,cty_79cbc59b,Thimphu Old Town Heritage Market,bazaar,27.468976,89.643586,Vibrant historic bazaar specializing in regional handicrafts and local spices.
+lmk_0254,cty_79cbc59b,Thimphu Botanical Garden & Civic Park,park,27.466433,89.632119,Lush urban green space featuring tranquil walking trails and pavilions.
+lmk_0255,cty_79cbc59b,Thimphu Central Bus & Metro Terminus,transit_hub,27.480423,89.630684,High-frequency transport exchange connecting the district.
+lmk_0256,cty_79cbc59b,Thimphu Riverfront / Lake Promenade,attraction,27.472791,89.653477,Picturesque waterside promenade with panoramic city vistas.
+lmk_0257,cty_9aa02925,Male Central Railway Station,transit_hub,4.180583,73.514448,Main intercity transit and rail junction serving Male.
+lmk_0258,cty_9aa02925,Male Old Town Heritage Market,bazaar,4.17168,73.513173,Vibrant historic bazaar specializing in regional handicrafts and local spices.
+lmk_0259,cty_9aa02925,Male Botanical Garden & Civic Park,park,4.169137,73.502971,Lush urban green space featuring tranquil walking trails and pavilions.
+lmk_0260,cty_9aa02925,Male Central Bus & Metro Terminus,transit_hub,4.183127,73.501696,High-frequency transport exchange connecting the district.
+lmk_0261,cty_9aa02925,Male Riverfront / Lake Promenade,attraction,4.175496,73.521971,Picturesque waterside promenade with panoramic city vistas.
+lmk_0262,cty_7b89639e,Dubai Central Railway Station,transit_hub,25.209936,55.276406,Main intercity transit and rail junction serving Dubai.
+lmk_0263,cty_7b89639e,Dubai Old Town Heritage Market,bazaar,25.201033,55.275,Vibrant historic bazaar specializing in regional handicrafts and local spices.
+lmk_0264,cty_7b89639e,Dubai Botanical Garden & Civic Park,park,25.19849,55.263755,Lush urban green space featuring tranquil walking trails and pavilions.
+lmk_0265,cty_7b89639e,Dubai Central Bus & Metro Terminus,transit_hub,25.21248,55.262348,High-frequency transport exchange connecting the district.
+lmk_0266,cty_7b89639e,Dubai Riverfront / Lake Promenade,attraction,25.204848,55.284698,Picturesque waterside promenade with panoramic city vistas.
+lmk_0267,cty_1ced6ede,Abu Dhabi Central Railway Station,transit_hub,24.458971,54.382932,Main intercity transit and rail junction serving Abu Dhabi.
+lmk_0268,cty_1ced6ede,Abu Dhabi Old Town Heritage Market,bazaar,24.450068,54.381534,Vibrant historic bazaar specializing in regional handicrafts and local spices.
+lmk_0269,cty_1ced6ede,Abu Dhabi Botanical Garden & Civic Park,park,24.447525,54.370358,Lush urban green space featuring tranquil walking trails and pavilions.
+lmk_0270,cty_1ced6ede,Abu Dhabi Central Bus & Metro Terminus,transit_hub,24.461515,54.368959,High-frequency transport exchange connecting the district.
+lmk_0271,cty_1ced6ede,Abu Dhabi Riverfront / Lake Promenade,attraction,24.453883,54.391174,Picturesque waterside promenade with panoramic city vistas.
+lmk_0272,cty_6320eea9,Doha Central Railway Station,transit_hub,25.290534,51.536667,Main intercity transit and rail junction serving Doha.
+lmk_0273,cty_6320eea9,Doha Old Town Heritage Market,bazaar,25.281631,51.53526,Vibrant historic bazaar specializing in regional handicrafts and local spices.
+lmk_0274,cty_6320eea9,Doha Botanical Garden & Civic Park,park,25.279088,51.524007,Lush urban green space featuring tranquil walking trails and pavilions.
+lmk_0275,cty_6320eea9,Doha Central Bus & Metro Terminus,transit_hub,25.293078,51.5226,High-frequency transport exchange connecting the district.
+lmk_0276,cty_6320eea9,Doha Riverfront / Lake Promenade,attraction,25.285446,51.544965,Picturesque waterside promenade with panoramic city vistas.
+lmk_0277,cty_905fd8a1,Singapore Central Railway Station,transit_hub,1.35717,103.824925,Main intercity transit and rail junction serving Singapore.
+lmk_0278,cty_905fd8a1,Singapore Old Town Heritage Market,bazaar,1.348267,103.823653,Vibrant historic bazaar specializing in regional handicrafts and local spices.
+lmk_0279,cty_905fd8a1,Singapore Botanical Garden & Civic Park,park,1.345724,103.813475,Lush urban green space featuring tranquil walking trails and pavilions.
+lmk_0280,cty_905fd8a1,Singapore Central Bus & Metro Terminus,transit_hub,1.359714,103.812203,High-frequency transport exchange connecting the district.
+lmk_0281,cty_905fd8a1,Singapore Riverfront / Lake Promenade,attraction,1.352083,103.83243,Picturesque waterside promenade with panoramic city vistas.
+lmk_0282,cty_a5f16904,Bangkok Central Railway Station,transit_hub,13.761418,100.507003,Main intercity transit and rail junction serving Bangkok.
+lmk_0283,cty_a5f16904,Bangkok Old Town Heritage Market,bazaar,13.752515,100.505693,Vibrant historic bazaar specializing in regional handicrafts and local spices.
+lmk_0284,cty_a5f16904,Bangkok Botanical Garden & Civic Park,park,13.749972,100.495218,Lush urban green space featuring tranquil walking trails and pavilions.
+lmk_0285,cty_a5f16904,Bangkok Central Bus & Metro Terminus,transit_hub,13.763962,100.493908,High-frequency transport exchange connecting the district.
+lmk_0286,cty_a5f16904,Bangkok Riverfront / Lake Promenade,attraction,13.756331,100.514727,Picturesque waterside promenade with panoramic city vistas.
+lmk_0287,cty_c9f34ba7,Kuala Lumpur Central Railway Station,transit_hub,3.14409,101.69195,Main intercity transit and rail junction serving Kuala Lumpur.
+lmk_0288,cty_c9f34ba7,Kuala Lumpur Old Town Heritage Market,bazaar,3.135187,101.690676,Vibrant historic bazaar specializing in regional handicrafts and local spices.
+lmk_0289,cty_c9f34ba7,Kuala Lumpur Botanical Garden & Civic Park,park,3.132644,101.680486,Lush urban green space featuring tranquil walking trails and pavilions.
+lmk_0290,cty_c9f34ba7,Kuala Lumpur Central Bus & Metro Terminus,transit_hub,3.146634,101.679212,High-frequency transport exchange connecting the district.
+lmk_0291,cty_c9f34ba7,Kuala Lumpur Riverfront / Lake Promenade,attraction,3.139003,101.699464,Picturesque waterside promenade with panoramic city vistas.
+lmk_0292,cty_36afaa5c,Bali Central Railway Station,transit_hub,-8.404431,115.194062,Main intercity transit and rail junction serving Bali.
+lmk_0293,cty_36afaa5c,Bali Old Town Heritage Market,bazaar,-8.413333,115.192776,Vibrant historic bazaar specializing in regional handicrafts and local spices.
+lmk_0294,cty_36afaa5c,Bali Botanical Garden & Civic Park,park,-8.415877,115.182491,Lush urban green space featuring tranquil walking trails and pavilions.
+lmk_0295,cty_36afaa5c,Bali Central Bus & Metro Terminus,transit_hub,-8.401887,115.181205,High-frequency transport exchange connecting the district.
+lmk_0296,cty_36afaa5c,Bali Riverfront / Lake Promenade,attraction,-8.409518,115.201646,Picturesque waterside promenade with panoramic city vistas.
+lmk_0297,cty_51a149b7,Kyoto Central Railway Station,transit_hub,35.016723,135.774241,Main intercity transit and rail junction serving Kyoto.
+lmk_0298,cty_51a149b7,Kyoto Old Town Heritage Market,bazaar,35.00782,135.772687,Vibrant historic bazaar specializing in regional handicrafts and local spices.
+lmk_0299,cty_51a149b7,Kyoto Botanical Garden & Civic Park,park,35.005277,135.760265,Lush urban green space featuring tranquil walking trails and pavilions.
+lmk_0300,cty_51a149b7,Kyoto Central Bus & Metro Terminus,transit_hub,35.019267,135.758711,High-frequency transport exchange connecting the district.
+lmk_0301,cty_51a149b7,Kyoto Riverfront / Lake Promenade,attraction,35.011635,135.783401,Picturesque waterside promenade with panoramic city vistas.
+lmk_0302,cty_0b7f5985,Zurich Central Railway Station,transit_hub,47.381974,8.549207,Main intercity transit and rail junction serving Zurich.
+lmk_0303,cty_0b7f5985,Zurich Old Town Heritage Market,bazaar,47.373071,8.547328,Vibrant historic bazaar specializing in regional handicrafts and local spices.
+lmk_0304,cty_0b7f5985,Zurich Botanical Garden & Civic Park,park,47.370527,8.532304,Lush urban green space featuring tranquil walking trails and pavilions.
+lmk_0305,cty_0b7f5985,Zurich Central Bus & Metro Terminus,transit_hub,47.384517,8.530423,High-frequency transport exchange connecting the district.
+lmk_0306,cty_0b7f5985,Zurich Riverfront / Lake Promenade,attraction,47.376885,8.560287,Picturesque waterside promenade with panoramic city vistas.
+lmk_0307,cty_c07454f1,Jaipur District Metro Link,transit_hub,26.849639,75.76834,Rapid transit access within a 5-minute walk of Villa Mahal Resort.
+lmk_0308,cty_c07454f1,Jaipur Cultural Craft Lane,bazaar,26.860069,75.763902,Vibrant pedestrian lane showcasing handmade regional goods and tea shops.
+lmk_0309,cty_c07454f1,Jaipur Botanical Leisure Garden,park,26.863184,75.762453,Serene botanical enclave featuring lush shaded avenues and floral displays.
+lmk_0310,cty_c07454f1,Jaipur District Metro Link,transit_hub,26.90498,75.730507,Rapid transit access within a 5-minute walk of Hillview Regency Suites.
+lmk_0311,cty_c07454f1,Jaipur Cultural Craft Lane,bazaar,26.906022,75.717667,Vibrant pedestrian lane showcasing handmade regional goods and tea shops.
+lmk_0312,cty_c07454f1,Jaipur Botanical Leisure Garden,park,26.891406,75.730084,Serene botanical enclave featuring lush shaded avenues and floral displays.
+lmk_0313,cty_c07454f1,Jaipur District Metro Link,transit_hub,26.932191,75.818049,Rapid transit access within a 5-minute walk of Garden Orchard Homestay.
+lmk_0314,cty_c07454f1,Jaipur Cultural Craft Lane,bazaar,26.934436,75.80521,Vibrant pedestrian lane showcasing handmade regional goods and tea shops.
+lmk_0315,cty_c07454f1,Jaipur Botanical Leisure Garden,park,26.929857,75.817923,Serene botanical enclave featuring lush shaded avenues and floral displays.
+lmk_0316,cty_c07454f1,Jaipur District Metro Link,transit_hub,26.958541,75.735423,Rapid transit access within a 5-minute walk of Villa Meadows Homestay.
+lmk_0317,cty_c07454f1,Jaipur Cultural Craft Lane,bazaar,26.964404,75.748177,Vibrant pedestrian lane showcasing handmade regional goods and tea shops.
+lmk_0318,cty_c07454f1,Jaipur Botanical Leisure Garden,park,26.969278,75.748894,Serene botanical enclave featuring lush shaded avenues and floral displays.
+lmk_0319,cty_c07454f1,Jaipur District Metro Link,transit_hub,26.862592,75.766292,Rapid transit access within a 5-minute walk of Riverside Kothi Inn.
+lmk_0320,cty_c07454f1,Jaipur Cultural Craft Lane,bazaar,26.873868,75.770785,Vibrant pedestrian lane showcasing handmade regional goods and tea shops.
+lmk_0321,cty_c07454f1,Jaipur Botanical Leisure Garden,park,26.858971,75.775516,Serene botanical enclave featuring lush shaded avenues and floral displays.
+lmk_0322,cty_5d572c8a,Udaipur District Metro Link,transit_hub,24.574127,73.774769,Rapid transit access within a 5-minute walk of Lake Bungalow by the Lake.
+lmk_0323,cty_5d572c8a,Udaipur Cultural Craft Lane,bazaar,24.571924,73.782277,Vibrant pedestrian lane showcasing handmade regional goods and tea shops.
+lmk_0324,cty_5d572c8a,Udaipur Botanical Leisure Garden,park,24.56683,73.779069,Serene botanical enclave featuring lush shaded avenues and floral displays.
+lmk_0325,cty_5d572c8a,Udaipur District Metro Link,transit_hub,24.519991,73.779637,Rapid transit access within a 5-minute walk of Garden Kothi & Spa.
+lmk_0326,cty_5d572c8a,Udaipur Cultural Craft Lane,bazaar,24.523826,73.768053,Vibrant pedestrian lane showcasing handmade regional goods and tea shops.
+lmk_0327,cty_5d572c8a,Udaipur Botanical Leisure Garden,park,24.534838,73.779018,Serene botanical enclave featuring lush shaded avenues and floral displays.
+lmk_0328,cty_5d572c8a,Udaipur District Metro Link,transit_hub,24.595998,73.752302,Rapid transit access within a 5-minute walk of Riverside Sanctuary Inn.
+lmk_0329,cty_5d572c8a,Udaipur Cultural Craft Lane,bazaar,24.605916,73.757446,Vibrant pedestrian lane showcasing handmade regional goods and tea shops.
+lmk_0330,cty_5d572c8a,Udaipur Botanical Leisure Garden,park,24.595729,73.771562,Serene botanical enclave featuring lush shaded avenues and floral displays.
+lmk_0331,cty_5d572c8a,Udaipur District Metro Link,transit_hub,24.612523,73.682287,Rapid transit access within a 5-minute walk of Indigo Orchard Inn.
+lmk_0332,cty_5d572c8a,Udaipur Cultural Craft Lane,bazaar,24.614956,73.679298,Vibrant pedestrian lane showcasing handmade regional goods and tea shops.
+lmk_0333,cty_5d572c8a,Udaipur Botanical Leisure Garden,park,24.622232,73.688197,Serene botanical enclave featuring lush shaded avenues and floral displays.
+lmk_0334,cty_5d572c8a,Udaipur District Metro Link,transit_hub,24.582049,73.722086,Rapid transit access within a 5-minute walk of Casa Manor Inn.
+lmk_0335,cty_5d572c8a,Udaipur Cultural Craft Lane,bazaar,24.582262,73.707481,Vibrant pedestrian lane showcasing handmade regional goods and tea shops.
+lmk_0336,cty_5d572c8a,Udaipur Botanical Leisure Garden,park,24.575378,73.708074,Serene botanical enclave featuring lush shaded avenues and floral displays.
+lmk_0337,cty_076e8e86,Jodhpur District Metro Link,transit_hub,26.242197,72.991404,Rapid transit access within a 5-minute walk of Grand Regency Inn.
+lmk_0338,cty_076e8e86,Jodhpur Cultural Craft Lane,bazaar,26.246478,72.981689,Vibrant pedestrian lane showcasing handmade regional goods and tea shops.
+lmk_0339,cty_076e8e86,Jodhpur Botanical Leisure Garden,park,26.250173,72.982003,Serene botanical enclave featuring lush shaded avenues and floral displays.
+lmk_0340,cty_076e8e86,Jodhpur District Metro Link,transit_hub,26.27756,72.99154,Rapid transit access within a 5-minute walk of Garden Palms Boutique Stay.
+lmk_0341,cty_076e8e86,Jodhpur Cultural Craft Lane,bazaar,26.270822,72.994204,Vibrant pedestrian lane showcasing handmade regional goods and tea shops.
+lmk_0342,cty_076e8e86,Jodhpur Botanical Leisure Garden,park,26.285593,72.993351,Serene botanical enclave featuring lush shaded avenues and floral displays.
+lmk_0343,cty_076e8e86,Jodhpur District Metro Link,transit_hub,26.289385,73.075539,Rapid transit access within a 5-minute walk of Casa Niwas & Spa.
+lmk_0344,cty_076e8e86,Jodhpur Cultural Craft Lane,bazaar,26.285425,73.063906,Vibrant pedestrian lane showcasing handmade regional goods and tea shops.
+lmk_0345,cty_076e8e86,Jodhpur Botanical Leisure Garden,park,26.287424,73.083614,Serene botanical enclave featuring lush shaded avenues and floral displays.
+lmk_0346,cty_076e8e86,Jodhpur District Metro Link,transit_hub,26.261129,73.005255,Rapid transit access within a 5-minute walk of Hillview Niwas Resort.
+lmk_0347,cty_076e8e86,Jodhpur Cultural Craft Lane,bazaar,26.255886,72.99504,Vibrant pedestrian lane showcasing handmade regional goods and tea shops.
+lmk_0348,cty_076e8e86,Jodhpur Botanical Leisure Garden,park,26.251807,73.014974,Serene botanical enclave featuring lush shaded avenues and floral displays.
+lmk_0349,cty_076e8e86,Jodhpur District Metro Link,transit_hub,26.232445,73.079316,Rapid transit access within a 5-minute walk of Royal Nest & Spa.
+lmk_0350,cty_076e8e86,Jodhpur Cultural Craft Lane,bazaar,26.238942,73.070269,Vibrant pedestrian lane showcasing handmade regional goods and tea shops.
+lmk_0351,cty_076e8e86,Jodhpur Botanical Leisure Garden,park,26.228148,73.076668,Serene botanical enclave featuring lush shaded avenues and floral displays.
+lmk_0352,cty_10cbee86,Jaisalmer District Metro Link,transit_hub,26.864285,70.949896,Rapid transit access within a 5-minute walk of Indigo Verandah Homestay.
+lmk_0353,cty_10cbee86,Jaisalmer Cultural Craft Lane,bazaar,26.86607,70.937551,Vibrant pedestrian lane showcasing handmade regional goods and tea shops.
+lmk_0354,cty_10cbee86,Jaisalmer Botanical Leisure Garden,park,26.866121,70.934931,Serene botanical enclave featuring lush shaded avenues and floral displays.
+lmk_0355,cty_10cbee86,Jaisalmer District Metro Link,transit_hub,26.905201,70.93119,Rapid transit access within a 5-minute walk of Hillview Nest Inn.
+lmk_0356,cty_10cbee86,Jaisalmer Cultural Craft Lane,bazaar,26.9065,70.923307,Vibrant pedestrian lane showcasing handmade regional goods and tea shops.
+lmk_0357,cty_10cbee86,Jaisalmer Botanical Leisure Garden,park,26.899779,70.938081,Serene botanical enclave featuring lush shaded avenues and floral displays.
+lmk_0358,cty_10cbee86,Jaisalmer District Metro Link,transit_hub,26.894267,70.864213,Rapid transit access within a 5-minute walk of Indigo Ghat House Boutique Stay.
+lmk_0359,cty_10cbee86,Jaisalmer Cultural Craft Lane,bazaar,26.899705,70.869417,Vibrant pedestrian lane showcasing handmade regional goods and tea shops.
+lmk_0360,cty_10cbee86,Jaisalmer Botanical Leisure Garden,park,26.891655,70.855503,Serene botanical enclave featuring lush shaded avenues and floral displays.
+lmk_0361,cty_10cbee86,Jaisalmer District Metro Link,transit_hub,26.887695,70.833849,Rapid transit access within a 5-minute walk of Royal Terraces & Spa.
+lmk_0362,cty_10cbee86,Jaisalmer Cultural Craft Lane,bazaar,26.895457,70.844063,Vibrant pedestrian lane showcasing handmade regional goods and tea shops.
+lmk_0363,cty_10cbee86,Jaisalmer Botanical Leisure Garden,park,26.901461,70.838575,Serene botanical enclave featuring lush shaded avenues and floral displays.
+lmk_0364,cty_10cbee86,Jaisalmer District Metro Link,transit_hub,26.923899,70.91692,Rapid transit access within a 5-minute walk of Amber Mahal Inn.
+lmk_0365,cty_10cbee86,Jaisalmer Cultural Craft Lane,bazaar,26.930355,70.92994,Vibrant pedestrian lane showcasing handmade regional goods and tea shops.
+lmk_0366,cty_10cbee86,Jaisalmer Botanical Leisure Garden,park,26.916231,70.922827,Serene botanical enclave featuring lush shaded avenues and floral displays.
+lmk_0367,cty_b43cdd57,Agra District Metro Link,transit_hub,27.210368,77.944986,Rapid transit access within a 5-minute walk of Palm Palms Homestay.
+lmk_0368,cty_b43cdd57,Agra Cultural Craft Lane,bazaar,27.20569,77.956137,Vibrant pedestrian lane showcasing handmade regional goods and tea shops.
+lmk_0369,cty_b43cdd57,Agra Botanical Leisure Garden,park,27.21387,77.945923,Serene botanical enclave featuring lush shaded avenues and floral displays.
+lmk_0370,cty_b43cdd57,Agra District Metro Link,transit_hub,27.182304,78.009355,Rapid transit access within a 5-minute walk of Amber Retreat Homestay.
+lmk_0371,cty_b43cdd57,Agra Cultural Craft Lane,bazaar,27.177157,78.003166,Vibrant pedestrian lane showcasing handmade regional goods and tea shops.
+lmk_0372,cty_b43cdd57,Agra Botanical Leisure Garden,park,27.182316,78.00299,Serene botanical enclave featuring lush shaded avenues and floral displays.
+lmk_0373,cty_b43cdd57,Agra District Metro Link,transit_hub,27.236346,77.948554,Rapid transit access within a 5-minute walk of Royal Terraces Suites.
+lmk_0374,cty_b43cdd57,Agra Cultural Craft Lane,bazaar,27.234179,77.935318,Vibrant pedestrian lane showcasing handmade regional goods and tea shops.
+lmk_0375,cty_b43cdd57,Agra Botanical Leisure Garden,park,27.245283,77.947454,Serene botanical enclave featuring lush shaded avenues and floral displays.
+lmk_0376,cty_b43cdd57,Agra District Metro Link,transit_hub,27.164724,78.026356,Rapid transit access within a 5-minute walk of Hillview Bagh Suites.
+lmk_0377,cty_b43cdd57,Agra Cultural Craft Lane,bazaar,27.160375,78.011243,Vibrant pedestrian lane showcasing handmade regional goods and tea shops.
+lmk_0378,cty_b43cdd57,Agra Botanical Leisure Garden,park,27.167738,78.02823,Serene botanical enclave featuring lush shaded avenues and floral displays.
+lmk_0379,cty_b43cdd57,Agra District Metro Link,transit_hub,27.190415,77.993795,Rapid transit access within a 5-minute walk of Lake Palms Inn.
+lmk_0380,cty_b43cdd57,Agra Cultural Craft Lane,bazaar,27.19266,77.988517,Vibrant pedestrian lane showcasing handmade regional goods and tea shops.
+lmk_0381,cty_b43cdd57,Agra Botanical Leisure Garden,park,27.176687,77.995107,Serene botanical enclave featuring lush shaded avenues and floral displays.
+lmk_0382,cty_c97e6cd5,Varanasi District Metro Link,transit_hub,25.302042,83.04229,Rapid transit access within a 5-minute walk of The Haveli Inn.
+lmk_0383,cty_c97e6cd5,Varanasi Cultural Craft Lane,bazaar,25.291503,83.038047,Vibrant pedestrian lane showcasing handmade regional goods and tea shops.
+lmk_0384,cty_c97e6cd5,Varanasi Botanical Leisure Garden,park,25.294465,83.047178,Serene botanical enclave featuring lush shaded avenues and floral displays.
+lmk_0385,cty_c97e6cd5,Varanasi District Metro Link,transit_hub,25.27265,82.978926,Rapid transit access within a 5-minute walk of Royal Sanctuary Suites.
+lmk_0386,cty_c97e6cd5,Varanasi Cultural Craft Lane,bazaar,25.278088,82.984058,Vibrant pedestrian lane showcasing handmade regional goods and tea shops.
+lmk_0387,cty_c97e6cd5,Varanasi Botanical Leisure Garden,park,25.270038,82.970335,Serene botanical enclave featuring lush shaded avenues and floral displays.
+lmk_0388,cty_c97e6cd5,Varanasi District Metro Link,transit_hub,25.324822,82.964613,Rapid transit access within a 5-minute walk of Amber Orchard Suites.
+lmk_0389,cty_c97e6cd5,Varanasi Cultural Craft Lane,bazaar,25.328287,82.963356,Vibrant pedestrian lane showcasing handmade regional goods and tea shops.
+lmk_0390,cty_c97e6cd5,Varanasi Botanical Leisure Garden,park,25.312138,82.963846,Serene botanical enclave featuring lush shaded avenues and floral displays.
+lmk_0391,cty_c97e6cd5,Varanasi District Metro Link,transit_hub,25.366717,83.024255,Rapid transit access within a 5-minute walk of Indigo Meadows Boutique Stay.
+lmk_0392,cty_c97e6cd5,Varanasi Cultural Craft Lane,bazaar,25.373262,83.014944,Vibrant pedestrian lane showcasing handmade regional goods and tea shops.
+lmk_0393,cty_c97e6cd5,Varanasi Botanical Leisure Garden,park,25.367642,83.010504,Serene botanical enclave featuring lush shaded avenues and floral displays.
+lmk_0394,cty_c97e6cd5,Varanasi District Metro Link,transit_hub,25.370811,82.94695,Rapid transit access within a 5-minute walk of Hillview Nest Boutique Stay.
+lmk_0395,cty_c97e6cd5,Varanasi Cultural Craft Lane,bazaar,25.368421,82.939493,Vibrant pedestrian lane showcasing handmade regional goods and tea shops.
+lmk_0396,cty_c97e6cd5,Varanasi Botanical Leisure Garden,park,25.381874,82.936514,Serene botanical enclave featuring lush shaded avenues and floral displays.
+lmk_0397,cty_5698a7ab,Lucknow District Metro Link,transit_hub,26.816441,80.968347,Rapid transit access within a 5-minute walk of Amber Sanctuary Homestay.
+lmk_0398,cty_5698a7ab,Lucknow Cultural Craft Lane,bazaar,26.814008,80.971391,Vibrant pedestrian lane showcasing handmade regional goods and tea shops.
+lmk_0399,cty_5698a7ab,Lucknow Botanical Leisure Garden,park,26.807811,80.962305,Serene botanical enclave featuring lush shaded avenues and floral displays.
+lmk_0400,cty_5698a7ab,Lucknow District Metro Link,transit_hub,26.886051,80.982862,Rapid transit access within a 5-minute walk of Royal Sanctuary Suites  .
+lmk_0401,cty_5698a7ab,Lucknow Cultural Craft Lane,bazaar,26.887044,80.985535,Vibrant pedestrian lane showcasing handmade regional goods and tea shops.
+lmk_0402,cty_5698a7ab,Lucknow Botanical Leisure Garden,park,26.877982,80.990798,Serene botanical enclave featuring lush shaded avenues and floral displays.
+lmk_0403,cty_5698a7ab,Lucknow District Metro Link,transit_hub,26.902019,80.993533,Rapid transit access within a 5-minute walk of Hotel Kothi by the Lake.
+lmk_0404,cty_5698a7ab,Lucknow Cultural Craft Lane,bazaar,26.904072,80.995292,Vibrant pedestrian lane showcasing handmade regional goods and tea shops.
+lmk_0405,cty_5698a7ab,Lucknow Botanical Leisure Garden,park,26.891417,80.984032,Serene botanical enclave featuring lush shaded avenues and floral displays.
+lmk_0406,cty_5698a7ab,Lucknow District Metro Link,transit_hub,26.80218,80.959037,Rapid transit access within a 5-minute walk of Villa Mahal Suites.
+lmk_0407,cty_5698a7ab,Lucknow Cultural Craft Lane,bazaar,26.812617,80.953634,Vibrant pedestrian lane showcasing handmade regional goods and tea shops.
+lmk_0408,cty_5698a7ab,Lucknow Botanical Leisure Garden,park,26.796672,80.946223,Serene botanical enclave featuring lush shaded avenues and floral displays.
+lmk_0409,cty_5698a7ab,Lucknow District Metro Link,transit_hub,26.845555,80.98893,Rapid transit access within a 5-minute walk of Hillview Niwas by the Lake.
+lmk_0410,cty_5698a7ab,Lucknow Cultural Craft Lane,bazaar,26.839612,80.984874,Vibrant pedestrian lane showcasing handmade regional goods and tea shops.
+lmk_0411,cty_5698a7ab,Lucknow Botanical Leisure Garden,park,26.851419,80.994858,Serene botanical enclave featuring lush shaded avenues and floral displays.
+lmk_0412,cty_0b92e2e7,New Delhi District Metro Link,transit_hub,28.617208,77.266843,Rapid transit access within a 5-minute walk of Villa Haveli & Spa.
+lmk_0413,cty_0b92e2e7,New Delhi Cultural Craft Lane,bazaar,28.611703,77.272707,Vibrant pedestrian lane showcasing handmade regional goods and tea shops.
+lmk_0414,cty_0b92e2e7,New Delhi Botanical Leisure Garden,park,28.627901,77.279875,Serene botanical enclave featuring lush shaded avenues and floral displays.
+lmk_0415,cty_0b92e2e7,New Delhi District Metro Link,transit_hub,28.662042,77.234908,Rapid transit access within a 5-minute walk of Heritage Mahal & Spa.
+lmk_0416,cty_0b92e2e7,New Delhi Cultural Craft Lane,bazaar,28.664606,77.237936,Vibrant pedestrian lane showcasing handmade regional goods and tea shops.
+lmk_0417,cty_0b92e2e7,New Delhi Botanical Leisure Garden,park,28.673925,77.220359,Serene botanical enclave featuring lush shaded avenues and floral displays.
+lmk_0418,cty_0b92e2e7,New Delhi District Metro Link,transit_hub,28.619351,77.216428,Rapid transit access within a 5-minute walk of Hotel Regency Boutique Stay.
+lmk_0419,cty_0b92e2e7,New Delhi Cultural Craft Lane,bazaar,28.614108,77.205992,Vibrant pedestrian lane showcasing handmade regional goods and tea shops.
+lmk_0420,cty_0b92e2e7,New Delhi Botanical Leisure Garden,park,28.610029,77.226357,Serene botanical enclave featuring lush shaded avenues and floral displays.
+lmk_0421,cty_0b92e2e7,New Delhi District Metro Link,transit_hub,28.590082,77.211566,Rapid transit access within a 5-minute walk of Lake Bungalow & Spa.
+lmk_0422,cty_0b92e2e7,New Delhi Cultural Craft Lane,bazaar,28.583976,77.215366,Vibrant pedestrian lane showcasing handmade regional goods and tea shops.
+lmk_0423,cty_0b92e2e7,New Delhi Botanical Leisure Garden,park,28.596557,77.208454,Serene botanical enclave featuring lush shaded avenues and floral displays.
+lmk_0424,cty_0b92e2e7,New Delhi District Metro Link,transit_hub,28.611576,77.16672,Rapid transit access within a 5-minute walk of Hillview Palms by the Lake.
+lmk_0425,cty_0b92e2e7,New Delhi Cultural Craft Lane,bazaar,28.622065,77.177508,Vibrant pedestrian lane showcasing handmade regional goods and tea shops.
+lmk_0426,cty_0b92e2e7,New Delhi Botanical Leisure Garden,park,28.625877,77.175793,Serene botanical enclave featuring lush shaded avenues and floral displays.
+lmk_0427,cty_0d062a51,Amritsar District Metro Link,transit_hub,31.589294,74.828448,Rapid transit access within a 5-minute walk of Indigo Terraces Boutique Stay.
+lmk_0428,cty_0d062a51,Amritsar Cultural Craft Lane,bazaar,31.597364,74.841236,Vibrant pedestrian lane showcasing handmade regional goods and tea shops.
+lmk_0429,cty_0d062a51,Amritsar Botanical Leisure Garden,park,31.599178,74.844574,Serene botanical enclave featuring lush shaded avenues and floral displays.
+lmk_0430,cty_0d062a51,Amritsar District Metro Link,transit_hub,31.681612,74.888579,Rapid transit access within a 5-minute walk of Heritage Manor Suites.
+lmk_0431,cty_0d062a51,Amritsar Cultural Craft Lane,bazaar,31.68226,74.899962,Vibrant pedestrian lane showcasing handmade regional goods and tea shops.
+lmk_0432,cty_0d062a51,Amritsar Botanical Leisure Garden,park,31.692208,74.881858,Serene botanical enclave featuring lush shaded avenues and floral displays.
+lmk_0433,cty_0d062a51,Amritsar District Metro Link,transit_hub,31.578098,74.809494,Rapid transit access within a 5-minute walk of Hillview Sarovar Inn.
+lmk_0434,cty_0d062a51,Amritsar Cultural Craft Lane,bazaar,31.576749,74.799072,Vibrant pedestrian lane showcasing handmade regional goods and tea shops.
+lmk_0435,cty_0d062a51,Amritsar Botanical Leisure Garden,park,31.58943,74.805654,Serene botanical enclave featuring lush shaded avenues and floral displays.
+lmk_0436,cty_0d062a51,Amritsar District Metro Link,transit_hub,31.678352,74.854344,Rapid transit access within a 5-minute walk of Grand Retreat Suites.
+lmk_0437,cty_0d062a51,Amritsar Cultural Craft Lane,bazaar,31.670222,74.847363,Vibrant pedestrian lane showcasing handmade regional goods and tea shops.
+lmk_0438,cty_0d062a51,Amritsar Botanical Leisure Garden,park,31.669488,74.85864,Serene botanical enclave featuring lush shaded avenues and floral displays.
+lmk_0439,cty_0d062a51,Amritsar District Metro Link,transit_hub,31.688027,74.901207,Rapid transit access within a 5-minute walk of Villa Palms by the Lake.
+lmk_0440,cty_0d062a51,Amritsar Cultural Craft Lane,bazaar,31.686565,74.913616,Vibrant pedestrian lane showcasing handmade regional goods and tea shops.
+lmk_0441,cty_0d062a51,Amritsar Botanical Leisure Garden,park,31.679822,74.897238,Serene botanical enclave featuring lush shaded avenues and floral displays.
+lmk_0442,cty_32e8e65c,Shimla District Metro Link,transit_hub,31.115439,77.11715,Rapid transit access within a 5-minute walk of Riverside Kothi & Spa.
+lmk_0443,cty_32e8e65c,Shimla Cultural Craft Lane,bazaar,31.105753,77.117909,Vibrant pedestrian lane showcasing handmade regional goods and tea shops.
+lmk_0444,cty_32e8e65c,Shimla Botanical Leisure Garden,park,31.104149,77.114007,Serene botanical enclave featuring lush shaded avenues and floral displays.
+lmk_0445,cty_32e8e65c,Shimla District Metro Link,transit_hub,31.06429,77.127435,Rapid transit access within a 5-minute walk of The Old Verandah Homestay.
+lmk_0446,cty_32e8e65c,Shimla Cultural Craft Lane,bazaar,31.069478,77.126964,Vibrant pedestrian lane showcasing handmade regional goods and tea shops.
+lmk_0447,cty_32e8e65c,Shimla Botanical Leisure Garden,park,31.055907,77.113125,Serene botanical enclave featuring lush shaded avenues and floral displays.
+lmk_0448,cty_32e8e65c,Shimla District Metro Link,transit_hub,31.054328,77.113909,Rapid transit access within a 5-minute walk of Villa Orchard Homestay.
+lmk_0449,cty_32e8e65c,Shimla Cultural Craft Lane,bazaar,31.059475,77.120337,Vibrant pedestrian lane showcasing handmade regional goods and tea shops.
+lmk_0450,cty_32e8e65c,Shimla Botanical Leisure Garden,park,31.053696,77.12155,Serene botanical enclave featuring lush shaded avenues and floral displays.
+lmk_0451,cty_32e8e65c,Shimla District Metro Link,transit_hub,31.153742,77.129423,Rapid transit access within a 5-minute walk of Grand Vihar Homestay.
+lmk_0452,cty_32e8e65c,Shimla Cultural Craft Lane,bazaar,31.156698,77.113275,Vibrant pedestrian lane showcasing handmade regional goods and tea shops.
+lmk_0453,cty_32e8e65c,Shimla Botanical Leisure Garden,park,31.153487,77.110297,Serene botanical enclave featuring lush shaded avenues and floral displays.
+lmk_0454,cty_32e8e65c,Shimla District Metro Link,transit_hub,31.059948,77.180163,Rapid transit access within a 5-minute walk of Garden Bungalow Resort.
+lmk_0455,cty_32e8e65c,Shimla Cultural Craft Lane,bazaar,31.054085,77.166893,Vibrant pedestrian lane showcasing handmade regional goods and tea shops.
+lmk_0456,cty_32e8e65c,Shimla Botanical Leisure Garden,park,31.049987,77.167023,Serene botanical enclave featuring lush shaded avenues and floral displays.
+lmk_0457,cty_9327d518,Manali District Metro Link,transit_hub,32.215213,77.184064,Rapid transit access within a 5-minute walk of Villa Palms Inn.
+lmk_0458,cty_9327d518,Manali Cultural Craft Lane,bazaar,32.208667,77.194008,Vibrant pedestrian lane showcasing handmade regional goods and tea shops.
+lmk_0459,cty_9327d518,Manali Botanical Leisure Garden,park,32.214529,77.199993,Serene botanical enclave featuring lush shaded avenues and floral displays.
+lmk_0460,cty_9327d518,Manali District Metro Link,transit_hub,32.208058,77.170379,Rapid transit access within a 5-minute walk of Riverside Sarovar Homestay.
+lmk_0461,cty_9327d518,Manali Cultural Craft Lane,bazaar,32.197569,77.159188,Vibrant pedestrian lane showcasing handmade regional goods and tea shops.
+lmk_0462,cty_9327d518,Manali Botanical Leisure Garden,park,32.192771,77.160449,Serene botanical enclave featuring lush shaded avenues and floral displays.
+lmk_0463,cty_9327d518,Manali District Metro Link,transit_hub,32.183498,77.21538,Rapid transit access within a 5-minute walk of Indigo Haveli by the Lake.
+lmk_0464,cty_9327d518,Manali Cultural Craft Lane,bazaar,32.186952,77.212344,Vibrant pedestrian lane showcasing handmade regional goods and tea shops.
+lmk_0465,cty_9327d518,Manali Botanical Leisure Garden,park,32.170947,77.205519,Serene botanical enclave featuring lush shaded avenues and floral displays.
+lmk_0466,cty_9327d518,Manali District Metro Link,transit_hub,32.267469,77.252964,Rapid transit access within a 5-minute walk of Heritage Kothi Resort.
+lmk_0467,cty_9327d518,Manali Cultural Craft Lane,bazaar,32.274297,77.255568,Vibrant pedestrian lane showcasing handmade regional goods and tea shops.
+lmk_0468,cty_9327d518,Manali Botanical Leisure Garden,park,32.265653,77.236321,Serene botanical enclave featuring lush shaded avenues and floral displays.
+lmk_0469,cty_9327d518,Manali District Metro Link,transit_hub,32.277047,77.133174,Rapid transit access within a 5-minute walk of Hotel Bungalow Resort.
+lmk_0470,cty_9327d518,Manali Cultural Craft Lane,bazaar,32.277955,77.146099,Vibrant pedestrian lane showcasing handmade regional goods and tea shops.
+lmk_0471,cty_9327d518,Manali Botanical Leisure Garden,park,32.262708,77.142675,Serene botanical enclave featuring lush shaded avenues and floral displays.
+lmk_0472,cty_d35a9652,Rishikesh District Metro Link,transit_hub,30.080404,78.329372,Rapid transit access within a 5-minute walk of Palm Courtyard Heritage.
+lmk_0473,cty_d35a9652,Rishikesh Cultural Craft Lane,bazaar,30.074462,78.338767,Vibrant pedestrian lane showcasing handmade regional goods and tea shops.
+lmk_0474,cty_d35a9652,Rishikesh Botanical Leisure Garden,park,30.067526,78.323583,Serene botanical enclave featuring lush shaded avenues and floral displays.
+lmk_0475,cty_d35a9652,Rishikesh District Metro Link,transit_hub,30.135735,78.246329,Rapid transit access within a 5-minute walk of Grand Ghat House & Spa.
+lmk_0476,cty_d35a9652,Rishikesh Cultural Craft Lane,bazaar,30.124973,78.238336,Vibrant pedestrian lane showcasing handmade regional goods and tea shops.
+lmk_0477,cty_d35a9652,Rishikesh Botanical Leisure Garden,park,30.140329,78.24625,Serene botanical enclave featuring lush shaded avenues and floral displays.
+lmk_0478,cty_d35a9652,Rishikesh District Metro Link,transit_hub,30.132377,78.243124,Rapid transit access within a 5-minute walk of Royal Manor & Spa.
+lmk_0479,cty_d35a9652,Rishikesh Cultural Craft Lane,bazaar,30.130182,78.251461,Vibrant pedestrian lane showcasing handmade regional goods and tea shops.
+lmk_0480,cty_d35a9652,Rishikesh Botanical Leisure Garden,park,30.127468,78.246385,Serene botanical enclave featuring lush shaded avenues and floral displays.
+lmk_0481,cty_d35a9652,Rishikesh District Metro Link,transit_hub,30.091469,78.28449,Rapid transit access within a 5-minute walk of Hillview Niwas by the Lake  .
+lmk_0482,cty_d35a9652,Rishikesh Cultural Craft Lane,bazaar,30.086901,78.296628,Vibrant pedestrian lane showcasing handmade regional goods and tea shops.
+lmk_0483,cty_d35a9652,Rishikesh Botanical Leisure Garden,park,30.09105,78.276532,Serene botanical enclave featuring lush shaded avenues and floral displays.
+lmk_0484,cty_d35a9652,Rishikesh District Metro Link,transit_hub,30.018516,78.24977,Rapid transit access within a 5-minute walk of Palm Haveli & Spa.
+lmk_0485,cty_d35a9652,Rishikesh Cultural Craft Lane,bazaar,30.029561,78.247521,Vibrant pedestrian lane showcasing handmade regional goods and tea shops.
+lmk_0486,cty_d35a9652,Rishikesh Botanical Leisure Garden,park,30.02624,78.263069,Serene botanical enclave featuring lush shaded avenues and floral displays.
+lmk_0487,cty_0d9ab6ff,Nainital District Metro Link,transit_hub,29.424445,79.534406,Rapid transit access within a 5-minute walk of Royal Vihar & Spa.
+lmk_0488,cty_0d9ab6ff,Nainital Cultural Craft Lane,bazaar,29.433566,79.540505,Vibrant pedestrian lane showcasing handmade regional goods and tea shops.
+lmk_0489,cty_0d9ab6ff,Nainital Botanical Leisure Garden,park,29.432422,79.543415,Serene botanical enclave featuring lush shaded avenues and floral displays.
+lmk_0490,cty_0d9ab6ff,Nainital District Metro Link,transit_hub,29.382605,79.413737,Rapid transit access within a 5-minute walk of Heritage Vihar Suites.
+lmk_0491,cty_0d9ab6ff,Nainital Cultural Craft Lane,bazaar,29.377207,79.428008,Vibrant pedestrian lane showcasing handmade regional goods and tea shops.
+lmk_0492,cty_0d9ab6ff,Nainital Botanical Leisure Garden,park,29.37636,79.430508,Serene botanical enclave featuring lush shaded avenues and floral displays.
+lmk_0493,cty_0d9ab6ff,Nainital District Metro Link,transit_hub,29.405393,79.439775,Rapid transit access within a 5-minute walk of Casa Mahal & Spa.
+lmk_0494,cty_0d9ab6ff,Nainital Cultural Craft Lane,bazaar,29.406412,79.435701,Vibrant pedestrian lane showcasing handmade regional goods and tea shops.
+lmk_0495,cty_0d9ab6ff,Nainital Botanical Leisure Garden,park,29.388396,79.435289,Serene botanical enclave featuring lush shaded avenues and floral displays.
+lmk_0496,cty_0d9ab6ff,Nainital District Metro Link,transit_hub,29.432131,79.417125,Rapid transit access within a 5-minute walk of Indigo Palms & Spa.
+lmk_0497,cty_0d9ab6ff,Nainital Cultural Craft Lane,bazaar,29.434262,79.409189,Vibrant pedestrian lane showcasing handmade regional goods and tea shops.
+lmk_0498,cty_0d9ab6ff,Nainital Botanical Leisure Garden,park,29.416734,79.415718,Serene botanical enclave featuring lush shaded avenues and floral displays.
+lmk_0499,cty_0d9ab6ff,Nainital District Metro Link,transit_hub,29.322047,79.460141,Rapid transit access within a 5-minute walk of Amber Bungalow Inn.
+lmk_0500,cty_0d9ab6ff,Nainital Cultural Craft Lane,bazaar,29.321054,79.457406,Vibrant pedestrian lane showcasing handmade regional goods and tea shops.
+lmk_0501,cty_0d9ab6ff,Nainital Botanical Leisure Garden,park,29.330284,79.450798,Serene botanical enclave featuring lush shaded avenues and floral displays.
+lmk_0502,cty_aa759717,Leh District Metro Link,transit_hub,34.158938,77.5708,Rapid transit access within a 5-minute walk of Indigo Meadows Boutique Stay.
+lmk_0503,cty_aa759717,Leh Cultural Craft Lane,bazaar,34.157589,77.56007,Vibrant pedestrian lane showcasing handmade regional goods and tea shops.
+lmk_0504,cty_aa759717,Leh Botanical Leisure Garden,park,34.17027,77.566847,Serene botanical enclave featuring lush shaded avenues and floral displays.
+lmk_0505,cty_aa759717,Leh District Metro Link,transit_hub,34.135687,77.504085,Rapid transit access within a 5-minute walk of Palm Ghat House by the Lake.
+lmk_0506,cty_aa759717,Leh Cultural Craft Lane,bazaar,34.131119,77.516772,Vibrant pedestrian lane showcasing handmade regional goods and tea shops.
+lmk_0507,cty_aa759717,Leh Botanical Leisure Garden,park,34.135268,77.495766,Serene botanical enclave featuring lush shaded avenues and floral displays.
+lmk_0508,cty_aa759717,Leh District Metro Link,transit_hub,34.191167,77.645472,Rapid transit access within a 5-minute walk of Royal Sanctuary Homestay.
+lmk_0509,cty_aa759717,Leh Cultural Craft Lane,bazaar,34.191499,77.642376,Vibrant pedestrian lane showcasing handmade regional goods and tea shops.
+lmk_0510,cty_aa759717,Leh Botanical Leisure Garden,park,34.18913,77.661695,Serene botanical enclave featuring lush shaded avenues and floral displays.
+lmk_0511,cty_aa759717,Leh District Metro Link,transit_hub,34.149076,77.5024,Rapid transit access within a 5-minute walk of Casa Courtyard Suites.
+lmk_0512,cty_aa759717,Leh Cultural Craft Lane,bazaar,34.162894,77.505973,Vibrant pedestrian lane showcasing handmade regional goods and tea shops.
+lmk_0513,cty_aa759717,Leh Botanical Leisure Garden,park,34.146124,77.504547,Serene botanical enclave featuring lush shaded avenues and floral displays.
+lmk_0514,cty_aa759717,Leh District Metro Link,transit_hub,34.183454,77.651842,Rapid transit access within a 5-minute walk of Hillview Sarovar by the Lake.
+lmk_0515,cty_aa759717,Leh Cultural Craft Lane,bazaar,34.179676,77.640136,Vibrant pedestrian lane showcasing handmade regional goods and tea shops.
+lmk_0516,cty_aa759717,Leh Botanical Leisure Garden,park,34.178387,77.655689,Serene botanical enclave featuring lush shaded avenues and floral displays.
+lmk_0517,cty_828a7777,Srinagar District Metro Link,transit_hub,34.06021,74.7919,Rapid transit access within a 5-minute walk of Indigo Meadows by the Lake.
+lmk_0518,cty_828a7777,Srinagar Cultural Craft Lane,bazaar,34.063183,74.806358,Vibrant pedestrian lane showcasing handmade regional goods and tea shops.
+lmk_0519,cty_828a7777,Srinagar Botanical Leisure Garden,park,34.063934,74.80903,Serene botanical enclave featuring lush shaded avenues and floral displays.
+lmk_0520,cty_828a7777,Srinagar District Metro Link,transit_hub,34.060456,74.755044,Rapid transit access within a 5-minute walk of Hillview Palms Boutique Stay.
+lmk_0521,cty_828a7777,Srinagar Cultural Craft Lane,bazaar,34.062658,74.746802,Vibrant pedestrian lane showcasing handmade regional goods and tea shops.
+lmk_0522,cty_828a7777,Srinagar Botanical Leisure Garden,park,34.066711,74.750661,Serene botanical enclave featuring lush shaded avenues and floral displays.
+lmk_0523,cty_828a7777,Srinagar District Metro Link,transit_hub,34.07765,74.727233,Rapid transit access within a 5-minute walk of Hotel Mahal & Spa.
+lmk_0524,cty_828a7777,Srinagar Cultural Craft Lane,bazaar,34.077437,74.743268,Vibrant pedestrian lane showcasing handmade regional goods and tea shops.
+lmk_0525,cty_828a7777,Srinagar Botanical Leisure Garden,park,34.085182,74.743402,Serene botanical enclave featuring lush shaded avenues and floral displays.
+lmk_0526,cty_828a7777,Srinagar District Metro Link,transit_hub,34.026611,74.822766,Rapid transit access within a 5-minute walk of Garden Sanctuary by the Lake.
+lmk_0527,cty_828a7777,Srinagar Cultural Craft Lane,bazaar,34.017966,74.814256,Vibrant pedestrian lane showcasing handmade regional goods and tea shops.
+lmk_0528,cty_828a7777,Srinagar Botanical Leisure Garden,park,34.015289,74.811782,Serene botanical enclave featuring lush shaded avenues and floral displays.
+lmk_0529,cty_828a7777,Srinagar District Metro Link,transit_hub,34.023298,74.877729,Rapid transit access within a 5-minute walk of Villa Orchard Heritage.
+lmk_0530,cty_828a7777,Srinagar Cultural Craft Lane,bazaar,34.016269,74.876161,Vibrant pedestrian lane showcasing handmade regional goods and tea shops.
+lmk_0531,cty_828a7777,Srinagar Botanical Leisure Garden,park,34.021103,74.861671,Serene botanical enclave featuring lush shaded avenues and floral displays.
+lmk_0532,cty_95e7c8ca,Mumbai District Metro Link,transit_hub,19.100847,72.92054,Rapid transit access within a 5-minute walk of Grand Mahal by the Lake.
+lmk_0533,cty_95e7c8ca,Mumbai Cultural Craft Lane,bazaar,19.111775,72.919578,Vibrant pedestrian lane showcasing handmade regional goods and tea shops.
+lmk_0534,cty_95e7c8ca,Mumbai Botanical Leisure Garden,park,19.099817,72.916889,Serene botanical enclave featuring lush shaded avenues and floral displays.
+lmk_0535,cty_95e7c8ca,Mumbai District Metro Link,transit_hub,19.100305,72.913668,Rapid transit access within a 5-minute walk of The Old Palms Heritage.
+lmk_0536,cty_95e7c8ca,Mumbai Cultural Craft Lane,bazaar,19.101235,72.921038,Vibrant pedestrian lane showcasing handmade regional goods and tea shops.
+lmk_0537,cty_95e7c8ca,Mumbai Botanical Leisure Garden,park,19.097442,72.906811,Serene botanical enclave featuring lush shaded avenues and floral displays.
+lmk_0538,cty_95e7c8ca,Mumbai District Metro Link,transit_hub,19.106066,72.92319,Rapid transit access within a 5-minute walk of Villa Nest Resort.
+lmk_0539,cty_95e7c8ca,Mumbai Cultural Craft Lane,bazaar,19.094698,72.929395,Vibrant pedestrian lane showcasing handmade regional goods and tea shops.
+lmk_0540,cty_95e7c8ca,Mumbai Botanical Leisure Garden,park,19.109053,72.918122,Serene botanical enclave featuring lush shaded avenues and floral displays.
+lmk_0541,cty_95e7c8ca,Mumbai District Metro Link,transit_hub,19.131632,72.854505,Rapid transit access within a 5-minute walk of Royal Meadows Resort.
+lmk_0542,cty_95e7c8ca,Mumbai Cultural Craft Lane,bazaar,19.13682,72.854079,Vibrant pedestrian lane showcasing handmade regional goods and tea shops.
+lmk_0543,cty_95e7c8ca,Mumbai Botanical Leisure Garden,park,19.12325,72.841531,Serene botanical enclave featuring lush shaded avenues and floral displays.
+lmk_0544,cty_95e7c8ca,Mumbai District Metro Link,transit_hub,19.123087,72.83582,Rapid transit access within a 5-minute walk of Villa Regency & Spa.
+lmk_0545,cty_95e7c8ca,Mumbai Cultural Craft Lane,bazaar,19.12114,72.82413,Vibrant pedestrian lane showcasing handmade regional goods and tea shops.
+lmk_0546,cty_95e7c8ca,Mumbai Botanical Leisure Garden,park,19.114408,72.831413,Serene botanical enclave featuring lush shaded avenues and floral displays.
+lmk_0547,cty_621f4a84,Pune District Metro Link,transit_hub,18.541715,73.825698,Rapid transit access within a 5-minute walk of Palm Niwas Heritage.
+lmk_0548,cty_621f4a84,Pune Cultural Craft Lane,bazaar,18.541552,73.833035,Vibrant pedestrian lane showcasing handmade regional goods and tea shops.
+lmk_0549,cty_621f4a84,Pune Botanical Leisure Garden,park,18.543363,73.817552,Serene botanical enclave featuring lush shaded avenues and floral displays.
+lmk_0550,cty_621f4a84,Pune District Metro Link,transit_hub,18.465701,73.896386,Rapid transit access within a 5-minute walk of Royal Nest Resort.
+lmk_0551,cty_621f4a84,Pune Cultural Craft Lane,bazaar,18.461688,73.885975,Vibrant pedestrian lane showcasing handmade regional goods and tea shops.
+lmk_0552,cty_621f4a84,Pune Botanical Leisure Garden,park,18.454372,73.888658,Serene botanical enclave featuring lush shaded avenues and floral displays.
+lmk_0553,cty_621f4a84,Pune District Metro Link,transit_hub,18.530664,73.864346,Rapid transit access within a 5-minute walk of Amber Bungalow Inn.
+lmk_0554,cty_621f4a84,Pune Cultural Craft Lane,bazaar,18.524801,73.852357,Vibrant pedestrian lane showcasing handmade regional goods and tea shops.
+lmk_0555,cty_621f4a84,Pune Botanical Leisure Garden,park,18.520703,73.852474,Serene botanical enclave featuring lush shaded avenues and floral displays.
+lmk_0556,cty_621f4a84,Pune District Metro Link,transit_hub,18.488311,73.8799,Rapid transit access within a 5-minute walk of Riverside Kothi Boutique Stay.
+lmk_0557,cty_621f4a84,Pune Cultural Craft Lane,bazaar,18.495325,73.873987,Vibrant pedestrian lane showcasing handmade regional goods and tea shops.
+lmk_0558,cty_621f4a84,Pune Botanical Leisure Garden,park,18.497349,73.889509,Serene botanical enclave featuring lush shaded avenues and floral displays.
+lmk_0559,cty_621f4a84,Pune District Metro Link,transit_hub,18.538427,73.894654,Rapid transit access within a 5-minute walk of Grand Retreat Homestay.
+lmk_0560,cty_621f4a84,Pune Cultural Craft Lane,bazaar,18.532321,73.898173,Vibrant pedestrian lane showcasing handmade regional goods and tea shops.
+lmk_0561,cty_621f4a84,Pune Botanical Leisure Garden,park,18.544902,73.891772,Serene botanical enclave featuring lush shaded avenues and floral displays.
+lmk_0562,cty_f29656ff,Aurangabad District Metro Link,transit_hub,19.879085,75.337287,Rapid transit access within a 5-minute walk of Hillview Kothi.
+lmk_0563,cty_f29656ff,Aurangabad Cultural Craft Lane,bazaar,19.875814,75.34618,Vibrant pedestrian lane showcasing handmade regional goods and tea shops.
+lmk_0564,cty_f29656ff,Aurangabad Botanical Leisure Garden,park,19.884459,75.344603,Serene botanical enclave featuring lush shaded avenues and floral displays.
+lmk_0565,cty_f29656ff,Aurangabad District Metro Link,transit_hub,19.841069,75.283639,Rapid transit access within a 5-minute walk of The Old Terraces Homestay.
+lmk_0566,cty_f29656ff,Aurangabad Cultural Craft Lane,bazaar,19.844523,75.280907,Vibrant pedestrian lane showcasing handmade regional goods and tea shops.
+lmk_0567,cty_f29656ff,Aurangabad Botanical Leisure Garden,park,19.828518,75.274765,Serene botanical enclave featuring lush shaded avenues and floral displays.
+lmk_0568,cty_f29656ff,Aurangabad District Metro Link,transit_hub,19.828187,75.360934,Rapid transit access within a 5-minute walk of Indigo Niwas Homestay.
+lmk_0569,cty_f29656ff,Aurangabad Cultural Craft Lane,bazaar,19.82531,75.356777,Vibrant pedestrian lane showcasing handmade regional goods and tea shops.
+lmk_0570,cty_f29656ff,Aurangabad Botanical Leisure Garden,park,19.828197,75.374686,Serene botanical enclave featuring lush shaded avenues and floral displays.
+lmk_0571,cty_f29656ff,Aurangabad District Metro Link,transit_hub,19.878208,75.323848,Rapid transit access within a 5-minute walk of The Sarovar Suites.
+lmk_0572,cty_f29656ff,Aurangabad Cultural Craft Lane,bazaar,19.88216,75.325663,Vibrant pedestrian lane showcasing handmade regional goods and tea shops.
+lmk_0573,cty_f29656ff,Aurangabad Botanical Leisure Garden,park,19.879385,75.30673,Serene botanical enclave featuring lush shaded avenues and floral displays.
+lmk_0574,cty_f29656ff,Aurangabad District Metro Link,transit_hub,19.861618,75.392853,Rapid transit access within a 5-minute walk of Riverside Meadows Suites.
+lmk_0575,cty_f29656ff,Aurangabad Cultural Craft Lane,bazaar,19.867559,75.384209,Vibrant pedestrian lane showcasing handmade regional goods and tea shops.
+lmk_0576,cty_f29656ff,Aurangabad Botanical Leisure Garden,park,19.873669,75.397443,Serene botanical enclave featuring lush shaded avenues and floral displays.
+lmk_0577,cty_cfec17b6,Ahmedabad District Metro Link,transit_hub,22.974921,72.581454,Rapid transit access within a 5-minute walk of Hotel Courtyard by the Lake.
+lmk_0578,cty_cfec17b6,Ahmedabad Cultural Craft Lane,bazaar,22.983485,72.591106,Vibrant pedestrian lane showcasing handmade regional goods and tea shops.
+lmk_0579,cty_cfec17b6,Ahmedabad Botanical Leisure Garden,park,22.975562,72.573814,Serene botanical enclave featuring lush shaded avenues and floral displays.
+lmk_0580,cty_cfec17b6,Ahmedabad District Metro Link,transit_hub,22.998738,72.562028,Rapid transit access within a 5-minute walk of The Residency Homestay.
+lmk_0581,cty_cfec17b6,Ahmedabad Cultural Craft Lane,bazaar,22.997745,72.559438,Vibrant pedestrian lane showcasing handmade regional goods and tea shops.
+lmk_0582,cty_cfec17b6,Ahmedabad Botanical Leisure Garden,park,23.006975,72.553179,Serene botanical enclave featuring lush shaded avenues and floral displays.
+lmk_0583,cty_cfec17b6,Ahmedabad District Metro Link,transit_hub,22.986812,72.52867,Rapid transit access within a 5-minute walk of Amber Regency Resort.
+lmk_0584,cty_cfec17b6,Ahmedabad Cultural Craft Lane,bazaar,22.980185,72.538876,Vibrant pedestrian lane showcasing handmade regional goods and tea shops.
+lmk_0585,cty_cfec17b6,Ahmedabad Botanical Leisure Garden,park,22.976809,72.537215,Serene botanical enclave featuring lush shaded avenues and floral displays.
+lmk_0586,cty_cfec17b6,Ahmedabad District Metro Link,transit_hub,22.95846,72.550597,Rapid transit access within a 5-minute walk of The Sanctuary Boutique Stay.
+lmk_0587,cty_cfec17b6,Ahmedabad Cultural Craft Lane,bazaar,22.965373,72.53891,Vibrant pedestrian lane showcasing handmade regional goods and tea shops.
+lmk_0588,cty_cfec17b6,Ahmedabad Botanical Leisure Garden,park,22.963489,72.533979,Serene botanical enclave featuring lush shaded avenues and floral displays.
+lmk_0589,cty_cfec17b6,Ahmedabad District Metro Link,transit_hub,22.992459,72.558947,Rapid transit access within a 5-minute walk of The Old Terraces Resort.
+lmk_0590,cty_cfec17b6,Ahmedabad Cultural Craft Lane,bazaar,22.997281,72.570285,Vibrant pedestrian lane showcasing handmade regional goods and tea shops.
+lmk_0591,cty_cfec17b6,Ahmedabad Botanical Leisure Garden,park,22.994776,72.571596,Serene botanical enclave featuring lush shaded avenues and floral displays.
+lmk_0592,cty_caf3c1ee,Bhuj District Metro Link,transit_hub,23.23527,69.729115,Rapid transit access within a 5-minute walk of Casa Sanctuary.
+lmk_0593,cty_caf3c1ee,Bhuj Cultural Craft Lane,bazaar,23.224781,69.71881,Vibrant pedestrian lane showcasing handmade regional goods and tea shops.
+lmk_0594,cty_caf3c1ee,Bhuj Botanical Leisure Garden,park,23.219983,69.719971,Serene botanical enclave featuring lush shaded avenues and floral displays.
+lmk_0595,cty_caf3c1ee,Bhuj District Metro Link,transit_hub,23.179726,69.711154,Rapid transit access within a 5-minute walk of The Old Bagh Resort.
+lmk_0596,cty_caf3c1ee,Bhuj Cultural Craft Lane,bazaar,23.173099,69.721375,Vibrant pedestrian lane showcasing handmade regional goods and tea shops.
+lmk_0597,cty_caf3c1ee,Bhuj Botanical Leisure Garden,park,23.169723,69.719712,Serene botanical enclave featuring lush shaded avenues and floral displays.
+lmk_0598,cty_caf3c1ee,Bhuj District Metro Link,transit_hub,23.257492,69.636943,Rapid transit access within a 5-minute walk of The Vihar Suites.
+lmk_0599,cty_caf3c1ee,Bhuj Cultural Craft Lane,bazaar,23.254079,69.649852,Vibrant pedestrian lane showcasing handmade regional goods and tea shops.
+lmk_0600,cty_caf3c1ee,Bhuj Botanical Leisure Garden,park,23.264461,69.632712,Serene botanical enclave featuring lush shaded avenues and floral displays.
+lmk_0601,cty_caf3c1ee,Bhuj District Metro Link,transit_hub,23.286262,69.643376,Rapid transit access within a 5-minute walk of Hillview Haveli Heritage.
+lmk_0602,cty_caf3c1ee,Bhuj Cultural Craft Lane,bazaar,23.282642,69.649846,Vibrant pedestrian lane showcasing handmade regional goods and tea shops.
+lmk_0603,cty_caf3c1ee,Bhuj Botanical Leisure Garden,park,23.271655,69.642392,Serene botanical enclave featuring lush shaded avenues and floral displays.
+lmk_0604,cty_caf3c1ee,Bhuj District Metro Link,transit_hub,23.208345,69.615629,Rapid transit access within a 5-minute walk of Casa Vihar Homestay.
+lmk_0605,cty_caf3c1ee,Bhuj Cultural Craft Lane,bazaar,23.204761,69.6166,Vibrant pedestrian lane showcasing handmade regional goods and tea shops.
+lmk_0606,cty_caf3c1ee,Bhuj Botanical Leisure Garden,park,23.213458,69.633772,Serene botanical enclave featuring lush shaded avenues and floral displays.
+lmk_0607,cty_43d0a650,Panaji District Metro Link,transit_hub,15.450601,73.780552,Rapid transit access within a 5-minute walk of Riverside Residency Boutique Stay.
+lmk_0608,cty_43d0a650,Panaji Cultural Craft Lane,bazaar,15.441811,73.772597,Vibrant pedestrian lane showcasing handmade regional goods and tea shops.
+lmk_0609,cty_43d0a650,Panaji Botanical Leisure Garden,park,15.449094,73.783682,Serene botanical enclave featuring lush shaded avenues and floral displays.
+lmk_0610,cty_43d0a650,Panaji District Metro Link,transit_hub,15.457974,73.828643,Rapid transit access within a 5-minute walk of The Sanctuary Homestay.
+lmk_0611,cty_43d0a650,Panaji Cultural Craft Lane,bazaar,15.45452,73.831309,Vibrant pedestrian lane showcasing handmade regional goods and tea shops.
+lmk_0612,cty_43d0a650,Panaji Botanical Leisure Garden,park,15.471326,73.838053,Serene botanical enclave featuring lush shaded avenues and floral displays.
+lmk_0613,cty_43d0a650,Panaji District Metro Link,transit_hub,15.485858,73.773123,Rapid transit access within a 5-minute walk of Indigo Retreat by the Lake.
+lmk_0614,cty_43d0a650,Panaji Cultural Craft Lane,bazaar,15.487806,73.768509,Vibrant pedestrian lane showcasing handmade regional goods and tea shops.
+lmk_0615,cty_43d0a650,Panaji Botanical Leisure Garden,park,15.475719,73.779632,Serene botanical enclave featuring lush shaded avenues and floral displays.
+lmk_0616,cty_43d0a650,Panaji District Metro Link,transit_hub,15.534058,73.826522,Rapid transit access within a 5-minute walk of Lake Ghat House Boutique Stay.
+lmk_0617,cty_43d0a650,Panaji Cultural Craft Lane,bazaar,15.542188,73.832689,Vibrant pedestrian lane showcasing handmade regional goods and tea shops.
+lmk_0618,cty_43d0a650,Panaji Botanical Leisure Garden,park,15.542227,73.823585,Serene botanical enclave featuring lush shaded avenues and floral displays.
+lmk_0619,cty_43d0a650,Panaji District Metro Link,transit_hub,15.516525,73.822366,Rapid transit access within a 5-minute walk of Indigo Kothi Heritage.
+lmk_0620,cty_43d0a650,Panaji Cultural Craft Lane,bazaar,15.505966,73.820849,Vibrant pedestrian lane showcasing handmade regional goods and tea shops.
+lmk_0621,cty_43d0a650,Panaji Botanical Leisure Garden,park,15.505302,73.827981,Serene botanical enclave featuring lush shaded avenues and floral displays.
+lmk_0622,cty_17b8ef2f,Bengaluru District Metro Link,transit_hub,12.959548,77.55751,Rapid transit access within a 5-minute walk of Hillview Kothi Boutique Stay.
+lmk_0623,cty_17b8ef2f,Bengaluru Cultural Craft Lane,bazaar,12.961495,77.568844,Vibrant pedestrian lane showcasing handmade regional goods and tea shops.
+lmk_0624,cty_17b8ef2f,Bengaluru Botanical Leisure Garden,park,12.967164,77.561975,Serene botanical enclave featuring lush shaded avenues and floral displays.
+lmk_0625,cty_17b8ef2f,Bengaluru District Metro Link,transit_hub,12.982451,77.622185,Rapid transit access within a 5-minute walk of Hotel Residency Homestay.
+lmk_0626,cty_17b8ef2f,Bengaluru Cultural Craft Lane,bazaar,12.975995,77.610273,Vibrant pedestrian lane showcasing handmade regional goods and tea shops.
+lmk_0627,cty_17b8ef2f,Bengaluru Botanical Leisure Garden,park,12.99119,77.616916,Serene botanical enclave featuring lush shaded avenues and floral displays.
+lmk_0628,cty_17b8ef2f,Bengaluru District Metro Link,transit_hub,12.981635,77.65179,Rapid transit access within a 5-minute walk of Lake Residency Suites.
+lmk_0629,cty_17b8ef2f,Bengaluru Cultural Craft Lane,bazaar,12.984972,77.658056,Vibrant pedestrian lane showcasing handmade regional goods and tea shops.
+lmk_0630,cty_17b8ef2f,Bengaluru Botanical Leisure Garden,park,12.973251,77.665372,Serene botanical enclave featuring lush shaded avenues and floral displays.
+lmk_0631,cty_17b8ef2f,Bengaluru District Metro Link,transit_hub,12.937769,77.547202,Rapid transit access within a 5-minute walk of Grand Meadows Boutique Stay.
+lmk_0632,cty_17b8ef2f,Bengaluru Cultural Craft Lane,bazaar,12.941223,77.544565,Vibrant pedestrian lane showcasing handmade regional goods and tea shops.
+lmk_0633,cty_17b8ef2f,Bengaluru Botanical Leisure Garden,park,12.925218,77.538638,Serene botanical enclave featuring lush shaded avenues and floral displays.
+lmk_0634,cty_17b8ef2f,Bengaluru District Metro Link,transit_hub,12.936181,77.649065,Rapid transit access within a 5-minute walk of The Old Mahal Inn.
+lmk_0635,cty_17b8ef2f,Bengaluru Cultural Craft Lane,bazaar,12.930318,77.637402,Vibrant pedestrian lane showcasing handmade regional goods and tea shops.
+lmk_0636,cty_17b8ef2f,Bengaluru Botanical Leisure Garden,park,12.92622,77.637516,Serene botanical enclave featuring lush shaded avenues and floral displays.
+lmk_0637,cty_8fc1539e,Mysuru District Metro Link,transit_hub,12.276845,76.687004,Rapid transit access within a 5-minute walk of The Old Sarovar Resort.
+lmk_0638,cty_8fc1539e,Mysuru Cultural Craft Lane,bazaar,12.268731,76.680354,Vibrant pedestrian lane showcasing handmade regional goods and tea shops.
+lmk_0639,cty_8fc1539e,Mysuru Botanical Leisure Garden,park,12.282692,76.671576,Serene botanical enclave featuring lush shaded avenues and floral displays.
+lmk_0640,cty_8fc1539e,Mysuru District Metro Link,transit_hub,12.305254,76.629862,Rapid transit access within a 5-minute walk of Heritage Residency Inn.
+lmk_0641,cty_8fc1539e,Mysuru Cultural Craft Lane,bazaar,12.306822,76.627761,Vibrant pedestrian lane showcasing handmade regional goods and tea shops.
+lmk_0642,cty_8fc1539e,Mysuru Botanical Leisure Garden,park,12.315419,76.63339,Serene botanical enclave featuring lush shaded avenues and floral displays.
+lmk_0643,cty_8fc1539e,Mysuru District Metro Link,transit_hub,12.251983,76.63479,Rapid transit access within a 5-minute walk of Amber Palms by the Lake.
+lmk_0644,cty_8fc1539e,Mysuru Cultural Craft Lane,bazaar,12.245877,76.638205,Vibrant pedestrian lane showcasing handmade regional goods and tea shops.
+lmk_0645,cty_8fc1539e,Mysuru Botanical Leisure Garden,park,12.258458,76.631995,Serene botanical enclave featuring lush shaded avenues and floral displays.
+lmk_0646,cty_8fc1539e,Mysuru District Metro Link,transit_hub,12.236078,76.678034,Rapid transit access within a 5-minute walk of Heritage Vihar by the Lake.
+lmk_0647,cty_8fc1539e,Mysuru Cultural Craft Lane,bazaar,12.241399,76.67311,Vibrant pedestrian lane showcasing handmade regional goods and tea shops.
+lmk_0648,cty_8fc1539e,Mysuru Botanical Leisure Garden,park,12.224025,76.672729,Serene botanical enclave featuring lush shaded avenues and floral displays.
+lmk_0649,cty_8fc1539e,Mysuru District Metro Link,transit_hub,12.291475,76.572837,Rapid transit access within a 5-minute walk of Lake Regency Inn.
+lmk_0650,cty_8fc1539e,Mysuru Cultural Craft Lane,bazaar,12.286077,76.585564,Vibrant pedestrian lane showcasing handmade regional goods and tea shops.
+lmk_0651,cty_8fc1539e,Mysuru Botanical Leisure Garden,park,12.28523,76.587793,Serene botanical enclave featuring lush shaded avenues and floral displays.
+lmk_0652,cty_bbb31d67,Hampi District Metro Link,transit_hub,15.298742,76.493835,Rapid transit access within a 5-minute walk of Grand Kothi & Spa.
+lmk_0653,cty_bbb31d67,Hampi Cultural Craft Lane,bazaar,15.293822,76.488338,Vibrant pedestrian lane showcasing handmade regional goods and tea shops.
+lmk_0654,cty_bbb31d67,Hampi Botanical Leisure Garden,park,15.290438,76.506009,Serene botanical enclave featuring lush shaded avenues and floral displays.
+lmk_0655,cty_bbb31d67,Hampi District Metro Link,transit_hub,15.376293,76.417279,Rapid transit access within a 5-minute walk of The Courtyard by the Lake.
+lmk_0656,cty_bbb31d67,Hampi Cultural Craft Lane,bazaar,15.381481,76.416861,Vibrant pedestrian lane showcasing handmade regional goods and tea shops.
+lmk_0657,cty_bbb31d67,Hampi Botanical Leisure Garden,park,15.367911,76.404566,Serene botanical enclave featuring lush shaded avenues and floral displays.
+lmk_0658,cty_bbb31d67,Hampi District Metro Link,transit_hub,15.37867,76.441441,Rapid transit access within a 5-minute walk of Amber Palms.
+lmk_0659,cty_bbb31d67,Hampi Cultural Craft Lane,bazaar,15.373482,76.441859,Vibrant pedestrian lane showcasing handmade regional goods and tea shops.
+lmk_0660,cty_bbb31d67,Hampi Botanical Leisure Garden,park,15.386545,76.453167,Serene botanical enclave featuring lush shaded avenues and floral displays.
+lmk_0661,cty_bbb31d67,Hampi District Metro Link,transit_hub,15.350636,76.494245,Rapid transit access within a 5-minute walk of Palm Regency Boutique Stay.
+lmk_0662,cty_bbb31d67,Hampi Cultural Craft Lane,bazaar,15.351629,76.496717,Vibrant pedestrian lane showcasing handmade regional goods and tea shops.
+lmk_0663,cty_bbb31d67,Hampi Botanical Leisure Garden,park,15.342567,76.501586,Serene botanical enclave featuring lush shaded avenues and floral displays.
+lmk_0664,cty_bbb31d67,Hampi District Metro Link,transit_hub,15.335383,76.452174,Rapid transit access within a 5-minute walk of Indigo Niwas Resort.
+lmk_0665,cty_bbb31d67,Hampi Cultural Craft Lane,bazaar,15.338326,76.456624,Vibrant pedestrian lane showcasing handmade regional goods and tea shops.
+lmk_0666,cty_bbb31d67,Hampi Botanical Leisure Garden,park,15.341236,76.43924,Serene botanical enclave featuring lush shaded avenues and floral displays.
+lmk_0667,cty_a97c33ad,Gokarna District Metro Link,transit_hub,14.529462,74.266,Rapid transit access within a 5-minute walk of Palm Kothi Inn.
+lmk_0668,cty_a97c33ad,Gokarna Cultural Craft Lane,bazaar,14.518534,74.266938,Vibrant pedestrian lane showcasing handmade regional goods and tea shops.
+lmk_0669,cty_a97c33ad,Gokarna Botanical Leisure Garden,park,14.530981,74.270557,Serene botanical enclave featuring lush shaded avenues and floral displays.
+lmk_0670,cty_a97c33ad,Gokarna District Metro Link,transit_hub,14.543399,74.29823,Rapid transit access within a 5-minute walk of Heritage Mahal Resort.
+lmk_0671,cty_a97c33ad,Gokarna Cultural Craft Lane,bazaar,14.553958,74.299741,Vibrant pedestrian lane showcasing handmade regional goods and tea shops.
+lmk_0672,cty_a97c33ad,Gokarna Botanical Leisure Garden,park,14.555411,74.29188,Serene botanical enclave featuring lush shaded avenues and floral displays.
+lmk_0673,cty_a97c33ad,Gokarna District Metro Link,transit_hub,14.549351,74.297139,Rapid transit access within a 5-minute walk of The Bagh Resort.
+lmk_0674,cty_a97c33ad,Gokarna Cultural Craft Lane,bazaar,14.551298,74.30855,Vibrant pedestrian lane showcasing handmade regional goods and tea shops.
+lmk_0675,cty_a97c33ad,Gokarna Botanical Leisure Garden,park,14.556967,74.301634,Serene botanical enclave featuring lush shaded avenues and floral displays.
+lmk_0676,cty_a97c33ad,Gokarna District Metro Link,transit_hub,14.600194,74.316054,Rapid transit access within a 5-minute walk of The Old Orchard & Spa.
+lmk_0677,cty_a97c33ad,Gokarna Cultural Craft Lane,bazaar,14.588747,74.313734,Vibrant pedestrian lane showcasing handmade regional goods and tea shops.
+lmk_0678,cty_a97c33ad,Gokarna Botanical Leisure Garden,park,14.593929,74.29767,Serene botanical enclave featuring lush shaded avenues and floral displays.
+lmk_0679,cty_a97c33ad,Gokarna District Metro Link,transit_hub,14.495211,74.352096,Rapid transit access within a 5-minute walk of Casa Meadows Heritage.
+lmk_0680,cty_a97c33ad,Gokarna Cultural Craft Lane,bazaar,14.502973,74.361505,Vibrant pedestrian lane showcasing handmade regional goods and tea shops.
+lmk_0681,cty_a97c33ad,Gokarna Botanical Leisure Garden,park,14.508977,74.356449,Serene botanical enclave featuring lush shaded avenues and floral displays.
+lmk_0682,cty_f8b75f8e,Chennai District Metro Link,transit_hub,13.135933,80.328454,Rapid transit access within a 5-minute walk of The Old Niwas Boutique Stay.
+lmk_0683,cty_f8b75f8e,Chennai Cultural Craft Lane,bazaar,13.147312,80.327124,Vibrant pedestrian lane showcasing handmade regional goods and tea shops.
+lmk_0684,cty_f8b75f8e,Chennai Botanical Leisure Garden,park,13.13018,80.332361,Serene botanical enclave featuring lush shaded avenues and floral displays.
+lmk_0685,cty_f8b75f8e,Chennai District Metro Link,transit_hub,13.139058,80.328551,Rapid transit access within a 5-minute walk of Grand Courtyard.
+lmk_0686,cty_f8b75f8e,Chennai Cultural Craft Lane,bazaar,13.144456,80.315781,Vibrant pedestrian lane showcasing handmade regional goods and tea shops.
+lmk_0687,cty_f8b75f8e,Chennai Botanical Leisure Garden,park,13.146011,80.312708,Serene botanical enclave featuring lush shaded avenues and floral displays.
+lmk_0688,cty_f8b75f8e,Chennai District Metro Link,transit_hub,13.123469,80.248858,Rapid transit access within a 5-minute walk of Palm Retreat Heritage.
+lmk_0689,cty_f8b75f8e,Chennai Cultural Craft Lane,bazaar,13.130425,80.249025,Vibrant pedestrian lane showcasing handmade regional goods and tea shops.
+lmk_0690,cty_f8b75f8e,Chennai Botanical Leisure Garden,park,13.129989,80.262312,Serene botanical enclave featuring lush shaded avenues and floral displays.
+lmk_0691,cty_f8b75f8e,Chennai District Metro Link,transit_hub,13.024956,80.294074,Rapid transit access within a 5-minute walk of Hotel Niwas by the Lake.
+lmk_0692,cty_f8b75f8e,Chennai Cultural Craft Lane,bazaar,13.021372,80.29499,Vibrant pedestrian lane showcasing handmade regional goods and tea shops.
+lmk_0693,cty_f8b75f8e,Chennai Botanical Leisure Garden,park,13.030069,80.311189,Serene botanical enclave featuring lush shaded avenues and floral displays.
+lmk_0694,cty_f8b75f8e,Chennai District Metro Link,transit_hub,13.063668,80.251966,Rapid transit access within a 5-minute walk of Heritage Manor Homestay.
+lmk_0695,cty_f8b75f8e,Chennai Cultural Craft Lane,bazaar,13.067082,80.239791,Vibrant pedestrian lane showcasing handmade regional goods and tea shops.
+lmk_0696,cty_f8b75f8e,Chennai Botanical Leisure Garden,park,13.057256,80.255006,Serene botanical enclave featuring lush shaded avenues and floral displays.
+lmk_0697,cty_3503e391,Madurai District Metro Link,transit_hub,9.912614,78.117288,Rapid transit access within a 5-minute walk of Riverside Mahal Homestay.
+lmk_0698,cty_3503e391,Madurai Cultural Craft Lane,bazaar,9.910052,78.116952,Vibrant pedestrian lane showcasing handmade regional goods and tea shops.
+lmk_0699,cty_3503e391,Madurai Botanical Leisure Garden,park,9.910517,78.106602,Serene botanical enclave featuring lush shaded avenues and floral displays.
+lmk_0700,cty_3503e391,Madurai District Metro Link,transit_hub,9.899462,78.182908,Rapid transit access within a 5-minute walk of Lake Nest Boutique Stay.
+lmk_0701,cty_3503e391,Madurai Cultural Craft Lane,bazaar,9.898554,78.171815,Vibrant pedestrian lane showcasing handmade regional goods and tea shops.
+lmk_0702,cty_3503e391,Madurai Botanical Leisure Garden,park,9.914762,78.174255,Serene botanical enclave featuring lush shaded avenues and floral displays.
+lmk_0703,cty_3503e391,Madurai District Metro Link,transit_hub,9.895116,78.130066,Rapid transit access within a 5-minute walk of The Old Nest Homestay.
+lmk_0704,cty_3503e391,Madurai Cultural Craft Lane,bazaar,9.897832,78.132536,Vibrant pedestrian lane showcasing handmade regional goods and tea shops.
+lmk_0705,cty_3503e391,Madurai Botanical Leisure Garden,park,9.889356,78.117468,Serene botanical enclave featuring lush shaded avenues and floral displays.
+lmk_0706,cty_3503e391,Madurai District Metro Link,transit_hub,9.873627,78.160871,Rapid transit access within a 5-minute walk of The Old Sanctuary Homestay.
+lmk_0707,cty_3503e391,Madurai Cultural Craft Lane,bazaar,9.878074,78.162848,Vibrant pedestrian lane showcasing handmade regional goods and tea shops.
+lmk_0708,cty_3503e391,Madurai Botanical Leisure Garden,park,9.87137,78.171548,Serene botanical enclave featuring lush shaded avenues and floral displays.
+lmk_0709,cty_3503e391,Madurai District Metro Link,transit_hub,9.946289,78.119681,Rapid transit access within a 5-minute walk of Hotel Nest Suites.
+lmk_0710,cty_3503e391,Madurai Cultural Craft Lane,bazaar,9.939464,78.13125,Vibrant pedestrian lane showcasing handmade regional goods and tea shops.
+lmk_0711,cty_3503e391,Madurai Botanical Leisure Garden,park,9.937472,78.114604,Serene botanical enclave featuring lush shaded avenues and floral displays.
+lmk_0712,cty_7fc82336,Ooty District Metro Link,transit_hub,11.469546,76.679853,Rapid transit access within a 5-minute walk of Riverside Sarovar Boutique Stay.
+lmk_0713,cty_7fc82336,Ooty Cultural Craft Lane,bazaar,11.462204,76.681593,Vibrant pedestrian lane showcasing handmade regional goods and tea shops.
+lmk_0714,cty_7fc82336,Ooty Botanical Leisure Garden,park,11.464193,76.675956,Serene botanical enclave featuring lush shaded avenues and floral displays.
+lmk_0715,cty_7fc82336,Ooty District Metro Link,transit_hub,11.463302,76.740232,Rapid transit access within a 5-minute walk of Royal Orchard Heritage.
+lmk_0716,cty_7fc82336,Ooty Cultural Craft Lane,bazaar,11.458155,76.734614,Vibrant pedestrian lane showcasing handmade regional goods and tea shops.
+lmk_0717,cty_7fc82336,Ooty Botanical Leisure Garden,park,11.463314,76.734455,Serene botanical enclave featuring lush shaded avenues and floral displays.
+lmk_0718,cty_7fc82336,Ooty District Metro Link,transit_hub,11.418518,76.686723,Rapid transit access within a 5-minute walk of The Vihar Suites  .
+lmk_0719,cty_7fc82336,Ooty Cultural Craft Lane,bazaar,11.431799,76.68694,Vibrant pedestrian lane showcasing handmade regional goods and tea shops.
+lmk_0720,cty_7fc82336,Ooty Botanical Leisure Garden,park,11.418595,76.697064,Serene botanical enclave featuring lush shaded avenues and floral displays.
+lmk_0721,cty_7fc82336,Ooty District Metro Link,transit_hub,11.372234,76.710356,Rapid transit access within a 5-minute walk of Royal Meadows Boutique Stay.
+lmk_0722,cty_7fc82336,Ooty Cultural Craft Lane,bazaar,11.365406,76.708111,Vibrant pedestrian lane showcasing handmade regional goods and tea shops.
+lmk_0723,cty_7fc82336,Ooty Botanical Leisure Garden,park,11.37377,76.723648,Serene botanical enclave featuring lush shaded avenues and floral displays.
+lmk_0724,cty_7fc82336,Ooty District Metro Link,transit_hub,11.362226,76.737345,Rapid transit access within a 5-minute walk of Casa Courtyard Boutique Stay.
+lmk_0725,cty_7fc82336,Ooty Cultural Craft Lane,bazaar,11.351671,76.737304,Vibrant pedestrian lane showcasing handmade regional goods and tea shops.
+lmk_0726,cty_7fc82336,Ooty Botanical Leisure Garden,park,11.364392,76.749207,Serene botanical enclave featuring lush shaded avenues and floral displays.
+lmk_0727,cty_f288c6a0,Pondicherry District Metro Link,transit_hub,11.90709,79.833566,Rapid transit access within a 5-minute walk of The Old Mahal Resort.
+lmk_0728,cty_f288c6a0,Pondicherry Cultural Craft Lane,bazaar,11.912237,79.839193,Vibrant pedestrian lane showcasing handmade regional goods and tea shops.
+lmk_0729,cty_f288c6a0,Pondicherry Botanical Leisure Garden,park,11.906458,79.840255,Serene botanical enclave featuring lush shaded avenues and floral displays.
+lmk_0730,cty_f288c6a0,Pondicherry District Metro Link,transit_hub,11.871247,79.841834,Rapid transit access within a 5-minute walk of Villa Verandah Resort.
+lmk_0731,cty_f288c6a0,Pondicherry Cultural Craft Lane,bazaar,11.875694,79.843824,Vibrant pedestrian lane showcasing handmade regional goods and tea shops.
+lmk_0732,cty_f288c6a0,Pondicherry Botanical Leisure Garden,park,11.86899,79.852582,Serene botanical enclave featuring lush shaded avenues and floral displays.
+lmk_0733,cty_f288c6a0,Pondicherry District Metro Link,transit_hub,11.966646,79.775065,Rapid transit access within a 5-minute walk of Amber Manor & Spa.
+lmk_0734,cty_f288c6a0,Pondicherry Cultural Craft Lane,bazaar,11.970716,79.78448,Vibrant pedestrian lane showcasing handmade regional goods and tea shops.
+lmk_0735,cty_f288c6a0,Pondicherry Botanical Leisure Garden,park,11.956883,79.783526,Serene botanical enclave featuring lush shaded avenues and floral displays.
+lmk_0736,cty_f288c6a0,Pondicherry District Metro Link,transit_hub,11.961896,79.855592,Rapid transit access within a 5-minute walk of Heritage Meadows Boutique Stay.
+lmk_0737,cty_f288c6a0,Pondicherry Cultural Craft Lane,bazaar,11.968707,79.865003,Vibrant pedestrian lane showcasing handmade regional goods and tea shops.
+lmk_0738,cty_f288c6a0,Pondicherry Botanical Leisure Garden,park,11.956619,79.85306,Serene botanical enclave featuring lush shaded avenues and floral displays.
+lmk_0739,cty_f288c6a0,Pondicherry District Metro Link,transit_hub,11.972969,79.793275,Rapid transit access within a 5-minute walk of The Sarovar Inn.
+lmk_0740,cty_f288c6a0,Pondicherry Cultural Craft Lane,bazaar,11.97725,79.784368,Vibrant pedestrian lane showcasing handmade regional goods and tea shops.
+lmk_0741,cty_f288c6a0,Pondicherry Botanical Leisure Garden,park,11.980945,79.784656,Serene botanical enclave featuring lush shaded avenues and floral displays.
+lmk_0742,cty_7f673457,Thanjavur District Metro Link,transit_hub,10.785229,79.184498,Rapid transit access within a 5-minute walk of Riverside Kothi Suites.
+lmk_0743,cty_7f673457,Thanjavur Cultural Craft Lane,bazaar,10.774953,79.1829,Vibrant pedestrian lane showcasing handmade regional goods and tea shops.
+lmk_0744,cty_7f673457,Thanjavur Botanical Leisure Garden,park,10.785321,79.189495,Serene botanical enclave featuring lush shaded avenues and floral displays.
+lmk_0745,cty_7f673457,Thanjavur District Metro Link,transit_hub,10.810265,79.165557,Rapid transit access within a 5-minute walk of Hillview Bungalow Homestay.
+lmk_0746,cty_7f673457,Thanjavur Cultural Craft Lane,bazaar,10.809659,79.178564,Vibrant pedestrian lane showcasing handmade regional goods and tea shops.
+lmk_0747,cty_7f673457,Thanjavur Botanical Leisure Garden,park,10.807908,79.161542,Serene botanical enclave featuring lush shaded avenues and floral displays.
+lmk_0748,cty_7f673457,Thanjavur District Metro Link,transit_hub,10.773119,79.091281,Rapid transit access within a 5-minute walk of Indigo Verandah Homestay.
+lmk_0749,cty_7f673457,Thanjavur Cultural Craft Lane,bazaar,10.774823,79.098754,Vibrant pedestrian lane showcasing handmade regional goods and tea shops.
+lmk_0750,cty_7f673457,Thanjavur Botanical Leisure Garden,park,10.78935,79.087212,Serene botanical enclave featuring lush shaded avenues and floral displays.
+lmk_0751,cty_7f673457,Thanjavur District Metro Link,transit_hub,10.718965,79.090081,Rapid transit access within a 5-minute walk of Hotel Kothi & Spa.
+lmk_0752,cty_7f673457,Thanjavur Cultural Craft Lane,bazaar,10.72836,79.096827,Vibrant pedestrian lane showcasing handmade regional goods and tea shops.
+lmk_0753,cty_7f673457,Thanjavur Botanical Leisure Garden,park,10.726079,79.078308,Serene botanical enclave featuring lush shaded avenues and floral displays.
+lmk_0754,cty_7f673457,Thanjavur District Metro Link,transit_hub,10.742285,79.158115,Rapid transit access within a 5-minute walk of The Old Regency Inn.
+lmk_0755,cty_7f673457,Thanjavur Cultural Craft Lane,bazaar,10.75332,79.154268,Vibrant pedestrian lane showcasing handmade regional goods and tea shops.
+lmk_0756,cty_7f673457,Thanjavur Botanical Leisure Garden,park,10.740425,79.155251,Serene botanical enclave featuring lush shaded avenues and floral displays.
+lmk_0757,cty_8b6b1652,Kochi District Metro Link,transit_hub,9.970106,76.276129,Rapid transit access within a 5-minute walk of Palm Mahal Inn.
+lmk_0758,cty_8b6b1652,Kochi Cultural Craft Lane,bazaar,9.968806,76.283267,Vibrant pedestrian lane showcasing handmade regional goods and tea shops.
+lmk_0759,cty_8b6b1652,Kochi Botanical Leisure Garden,park,9.974542,76.270335,Serene botanical enclave featuring lush shaded avenues and floral displays.
+lmk_0760,cty_8b6b1652,Kochi District Metro Link,transit_hub,9.99101,76.235196,Rapid transit access within a 5-minute walk of Casa Bungalow Boutique Stay.
+lmk_0761,cty_8b6b1652,Kochi Cultural Craft Lane,bazaar,9.983801,76.226472,Vibrant pedestrian lane showcasing handmade regional goods and tea shops.
+lmk_0762,cty_8b6b1652,Kochi Botanical Leisure Garden,park,9.99712,76.222558,Serene botanical enclave featuring lush shaded avenues and floral displays.
+lmk_0763,cty_8b6b1652,Kochi District Metro Link,transit_hub,9.896742,76.259118,Rapid transit access within a 5-minute walk of Amber Bagh Resort.
+lmk_0764,cty_8b6b1652,Kochi Cultural Craft Lane,bazaar,9.892783,76.24853,Vibrant pedestrian lane showcasing handmade regional goods and tea shops.
+lmk_0765,cty_8b6b1652,Kochi Botanical Leisure Garden,park,9.894782,76.266467,Serene botanical enclave featuring lush shaded avenues and floral displays.
+lmk_0766,cty_8b6b1652,Kochi District Metro Link,transit_hub,9.909815,76.240508,Rapid transit access within a 5-minute walk of Amber Bungalow Resort.
+lmk_0767,cty_8b6b1652,Kochi Cultural Craft Lane,bazaar,9.918605,76.248292,Vibrant pedestrian lane showcasing handmade regional goods and tea shops.
+lmk_0768,cty_8b6b1652,Kochi Botanical Leisure Garden,park,9.911079,76.238513,Serene botanical enclave featuring lush shaded avenues and floral displays.
+lmk_0769,cty_8b6b1652,Kochi District Metro Link,transit_hub,9.985827,76.281984,Rapid transit access within a 5-minute walk of Amber Ghat House.
+lmk_0770,cty_8b6b1652,Kochi Cultural Craft Lane,bazaar,9.974791,76.285821,Vibrant pedestrian lane showcasing handmade regional goods and tea shops.
+lmk_0771,cty_8b6b1652,Kochi Botanical Leisure Garden,park,9.986897,76.284094,Serene botanical enclave featuring lush shaded avenues and floral displays.
+lmk_0772,cty_34bbfdfe,Alleppey District Metro Link,transit_hub,9.537632,76.3202,Rapid transit access within a 5-minute walk of The Verandah Heritage.
+lmk_0773,cty_34bbfdfe,Alleppey Cultural Craft Lane,bazaar,9.529268,76.316883,Vibrant pedestrian lane showcasing handmade regional goods and tea shops.
+lmk_0774,cty_34bbfdfe,Alleppey Botanical Leisure Garden,park,9.541004,76.307643,Serene botanical enclave featuring lush shaded avenues and floral displays.
+lmk_0775,cty_34bbfdfe,Alleppey District Metro Link,transit_hub,9.546201,76.38558,Rapid transit access within a 5-minute walk of The Old Residency.
+lmk_0776,cty_34bbfdfe,Alleppey Cultural Craft Lane,bazaar,9.544739,76.396288,Vibrant pedestrian lane showcasing handmade regional goods and tea shops.
+lmk_0777,cty_34bbfdfe,Alleppey Botanical Leisure Garden,park,9.537996,76.382155,Serene botanical enclave featuring lush shaded avenues and floral displays.
+lmk_0778,cty_34bbfdfe,Alleppey District Metro Link,transit_hub,9.550594,76.341808,Rapid transit access within a 5-minute walk of Hotel Bagh Homestay.
+lmk_0779,cty_34bbfdfe,Alleppey Cultural Craft Lane,bazaar,9.54577,76.342352,Vibrant pedestrian lane showcasing handmade regional goods and tea shops.
+lmk_0780,cty_34bbfdfe,Alleppey Botanical Leisure Garden,park,9.561096,76.347532,Serene botanical enclave featuring lush shaded avenues and floral displays.
+lmk_0781,cty_34bbfdfe,Alleppey District Metro Link,transit_hub,9.557761,76.300074,Rapid transit access within a 5-minute walk of Royal Nest Inn.
+lmk_0782,cty_34bbfdfe,Alleppey Cultural Craft Lane,bazaar,9.561714,76.301805,Vibrant pedestrian lane showcasing handmade regional goods and tea shops.
+lmk_0783,cty_34bbfdfe,Alleppey Botanical Leisure Garden,park,9.558939,76.28375,Serene botanical enclave featuring lush shaded avenues and floral displays.
+lmk_0784,cty_34bbfdfe,Alleppey District Metro Link,transit_hub,9.46265,76.359885,Rapid transit access within a 5-minute walk of Garden Niwas Resort.
+lmk_0785,cty_34bbfdfe,Alleppey Cultural Craft Lane,bazaar,9.461657,76.357468,Vibrant pedestrian lane showcasing handmade regional goods and tea shops.
+lmk_0786,cty_34bbfdfe,Alleppey Botanical Leisure Garden,park,9.470887,76.351628,Serene botanical enclave featuring lush shaded avenues and floral displays.
+lmk_0787,cty_d401ef6b,Munnar District Metro Link,transit_hub,10.076388,77.02967,Rapid transit access within a 5-minute walk of Lake Sanctuary Heritage.
+lmk_0788,cty_d401ef6b,Munnar Cultural Craft Lane,bazaar,10.080664,77.029164,Vibrant pedestrian lane showcasing handmade regional goods and tea shops.
+lmk_0789,cty_d401ef6b,Munnar Botanical Leisure Garden,park,10.075695,77.034718,Serene botanical enclave featuring lush shaded avenues and floral displays.
+lmk_0790,cty_d401ef6b,Munnar District Metro Link,transit_hub,10.088003,77.046582,Rapid transit access within a 5-minute walk of Villa Terraces Suites.
+lmk_0791,cty_d401ef6b,Munnar Cultural Craft Lane,bazaar,10.080951,77.048218,Vibrant pedestrian lane showcasing handmade regional goods and tea shops.
+lmk_0792,cty_d401ef6b,Munnar Botanical Leisure Garden,park,10.09464,77.060748,Serene botanical enclave featuring lush shaded avenues and floral displays.
+lmk_0793,cty_d401ef6b,Munnar District Metro Link,transit_hub,10.102975,77.028278,Rapid transit access within a 5-minute walk of Villa Vihar Homestay.
+lmk_0794,cty_d401ef6b,Munnar Cultural Craft Lane,bazaar,10.093965,77.034626,Vibrant pedestrian lane showcasing handmade regional goods and tea shops.
+lmk_0795,cty_d401ef6b,Munnar Botanical Leisure Garden,park,10.087943,77.019148,Serene botanical enclave featuring lush shaded avenues and floral displays.
+lmk_0796,cty_d401ef6b,Munnar District Metro Link,transit_hub,10.057757,77.072057,Rapid transit access within a 5-minute walk of Royal Nest & Spa.
+lmk_0797,cty_d401ef6b,Munnar Cultural Craft Lane,bazaar,10.057426,77.074658,Vibrant pedestrian lane showcasing handmade regional goods and tea shops.
+lmk_0798,cty_d401ef6b,Munnar Botanical Leisure Garden,park,10.060474,77.057576,Serene botanical enclave featuring lush shaded avenues and floral displays.
+lmk_0799,cty_d401ef6b,Munnar District Metro Link,transit_hub,10.091198,77.026547,Rapid transit access within a 5-minute walk of Garden Vihar Suites.
+lmk_0800,cty_d401ef6b,Munnar Cultural Craft Lane,bazaar,10.101757,77.028032,Vibrant pedestrian lane showcasing handmade regional goods and tea shops.
+lmk_0801,cty_d401ef6b,Munnar Botanical Leisure Garden,park,10.10321,77.020303,Serene botanical enclave featuring lush shaded avenues and floral displays.
+lmk_0802,cty_67ee7f6f,Thiruvananthapuram District Metro Link,transit_hub,8.548309,76.987214,Rapid transit access within a 5-minute walk of Garden Palms.
+lmk_0803,cty_67ee7f6f,Thiruvananthapuram Cultural Craft Lane,bazaar,8.558185,76.983155,Vibrant pedestrian lane showcasing handmade regional goods and tea shops.
+lmk_0804,cty_67ee7f6f,Thiruvananthapuram Botanical Leisure Garden,park,8.549486,76.996108,Serene botanical enclave featuring lush shaded avenues and floral displays.
+lmk_0805,cty_67ee7f6f,Thiruvananthapuram District Metro Link,transit_hub,8.470898,76.98871,Rapid transit access within a 5-minute walk of Hillview Residency Resort.
+lmk_0806,cty_67ee7f6f,Thiruvananthapuram Cultural Craft Lane,bazaar,8.477004,76.985336,Vibrant pedestrian lane showcasing handmade regional goods and tea shops.
+lmk_0807,cty_67ee7f6f,Thiruvananthapuram Botanical Leisure Garden,park,8.463386,76.991172,Serene botanical enclave featuring lush shaded avenues and floral displays.
+lmk_0808,cty_67ee7f6f,Thiruvananthapuram District Metro Link,transit_hub,8.581506,76.900638,Rapid transit access within a 5-minute walk of Indigo Residency & Spa.
+lmk_0809,cty_67ee7f6f,Thiruvananthapuram Cultural Craft Lane,bazaar,8.568729,76.900025,Vibrant pedestrian lane showcasing handmade regional goods and tea shops.
+lmk_0810,cty_67ee7f6f,Thiruvananthapuram Botanical Leisure Garden,park,8.56574,76.903971,Serene botanical enclave featuring lush shaded avenues and floral displays.
+lmk_0811,cty_67ee7f6f,Thiruvananthapuram District Metro Link,transit_hub,8.459351,76.887507,Rapid transit access within a 5-minute walk of The Old Regency.
+lmk_0812,cty_67ee7f6f,Thiruvananthapuram Cultural Craft Lane,bazaar,8.458332,76.891095,Vibrant pedestrian lane showcasing handmade regional goods and tea shops.
+lmk_0813,cty_67ee7f6f,Thiruvananthapuram Botanical Leisure Garden,park,8.475348,76.89105,Serene botanical enclave featuring lush shaded avenues and floral displays.
+lmk_0814,cty_67ee7f6f,Thiruvananthapuram District Metro Link,transit_hub,8.548743,76.970601,Rapid transit access within a 5-minute walk of Palm Meadows Suites.
+lmk_0815,cty_67ee7f6f,Thiruvananthapuram Cultural Craft Lane,bazaar,8.54392,76.960046,Vibrant pedestrian lane showcasing handmade regional goods and tea shops.
+lmk_0816,cty_67ee7f6f,Thiruvananthapuram Botanical Leisure Garden,park,8.546932,76.957862,Serene botanical enclave featuring lush shaded avenues and floral displays.
+lmk_0817,cty_541018a9,Wayanad District Metro Link,transit_hub,11.705959,76.154076,Rapid transit access within a 5-minute walk of Grand Kothi & Spa.
+lmk_0818,cty_541018a9,Wayanad Cultural Craft Lane,bazaar,11.707744,76.142829,Vibrant pedestrian lane showcasing handmade regional goods and tea shops.
+lmk_0819,cty_541018a9,Wayanad Botanical Leisure Garden,park,11.707796,76.140443,Serene botanical enclave featuring lush shaded avenues and floral displays.
+lmk_0820,cty_541018a9,Wayanad District Metro Link,transit_hub,11.638151,76.134836,Rapid transit access within a 5-minute walk of Royal Verandah & Spa.
+lmk_0821,cty_541018a9,Wayanad Cultural Craft Lane,bazaar,11.630087,76.140355,Vibrant pedestrian lane showcasing handmade regional goods and tea shops.
+lmk_0822,cty_541018a9,Wayanad Botanical Leisure Garden,park,11.647333,76.141133,Serene botanical enclave featuring lush shaded avenues and floral displays.
+lmk_0823,cty_541018a9,Wayanad District Metro Link,transit_hub,11.692937,76.097023,Rapid transit access within a 5-minute walk of Palm Sanctuary Boutique Stay.
+lmk_0824,cty_541018a9,Wayanad Cultural Craft Lane,bazaar,11.696847,76.094085,Vibrant pedestrian lane showcasing handmade regional goods and tea shops.
+lmk_0825,cty_541018a9,Wayanad Botanical Leisure Garden,park,11.699897,76.104031,Serene botanical enclave featuring lush shaded avenues and floral displays.
+lmk_0826,cty_541018a9,Wayanad District Metro Link,transit_hub,11.65026,76.175823,Rapid transit access within a 5-minute walk of The Terraces Resort.
+lmk_0827,cty_541018a9,Wayanad Cultural Craft Lane,bazaar,11.657275,76.170097,Vibrant pedestrian lane showcasing handmade regional goods and tea shops.
+lmk_0828,cty_541018a9,Wayanad Botanical Leisure Garden,park,11.659298,76.185127,Serene botanical enclave featuring lush shaded avenues and floral displays.
+lmk_0829,cty_541018a9,Wayanad District Metro Link,transit_hub,11.744311,76.192274,Rapid transit access within a 5-minute walk of Lake Bagh Suites.
+lmk_0830,cty_541018a9,Wayanad Cultural Craft Lane,bazaar,11.739123,76.192686,Vibrant pedestrian lane showcasing handmade regional goods and tea shops.
+lmk_0831,cty_541018a9,Wayanad Botanical Leisure Garden,park,11.752186,76.203822,Serene botanical enclave featuring lush shaded avenues and floral displays.
+lmk_0832,cty_718f03c7,Hyderabad District Metro Link,transit_hub,17.342219,78.477213,Rapid transit access within a 5-minute walk of Garden Residency & Spa.
+lmk_0833,cty_718f03c7,Hyderabad Cultural Craft Lane,bazaar,17.344652,78.474366,Vibrant pedestrian lane showcasing handmade regional goods and tea shops.
+lmk_0834,cty_718f03c7,Hyderabad Botanical Leisure Garden,park,17.351928,78.482842,Serene botanical enclave featuring lush shaded avenues and floral displays.
+lmk_0835,cty_718f03c7,Hyderabad District Metro Link,transit_hub,17.403851,78.434273,Rapid transit access within a 5-minute walk of Casa Meadows Inn.
+lmk_0836,cty_718f03c7,Hyderabad Cultural Craft Lane,bazaar,17.401135,78.431724,Vibrant pedestrian lane showcasing handmade regional goods and tea shops.
+lmk_0837,cty_718f03c7,Hyderabad Botanical Leisure Garden,park,17.409592,78.446149,Serene botanical enclave featuring lush shaded avenues and floral displays.
+lmk_0838,cty_718f03c7,Hyderabad District Metro Link,transit_hub,17.333414,78.468569,Rapid transit access within a 5-minute walk of Amber Ghat House Heritage.
+lmk_0839,cty_718f03c7,Hyderabad Cultural Craft Lane,bazaar,17.338091,78.458179,Vibrant pedestrian lane showcasing handmade regional goods and tea shops.
+lmk_0840,cty_718f03c7,Hyderabad Botanical Leisure Garden,park,17.328834,78.467637,Serene botanical enclave featuring lush shaded avenues and floral displays.
+lmk_0841,cty_718f03c7,Hyderabad District Metro Link,transit_hub,17.402456,78.490706,Rapid transit access within a 5-minute walk of Hillview Bagh Resort.
+lmk_0842,cty_718f03c7,Hyderabad Cultural Craft Lane,bazaar,17.413011,78.490748,Vibrant pedestrian lane showcasing handmade regional goods and tea shops.
+lmk_0843,cty_718f03c7,Hyderabad Botanical Leisure Garden,park,17.399567,78.477679,Serene botanical enclave featuring lush shaded avenues and floral displays.
+lmk_0844,cty_718f03c7,Hyderabad District Metro Link,transit_hub,17.398252,78.450897,Rapid transit access within a 5-minute walk of Palm Mahal Heritage.
+lmk_0845,cty_718f03c7,Hyderabad Cultural Craft Lane,bazaar,17.396641,78.443507,Vibrant pedestrian lane showcasing handmade regional goods and tea shops.
+lmk_0846,cty_718f03c7,Hyderabad Botanical Leisure Garden,park,17.402427,78.444554,Serene botanical enclave featuring lush shaded avenues and floral displays.
+lmk_0847,cty_7cb0b529,Visakhapatnam District Metro Link,transit_hub,17.666003,83.275744,Rapid transit access within a 5-minute walk of Grand Regency Homestay.
+lmk_0848,cty_7cb0b529,Visakhapatnam Cultural Craft Lane,bazaar,17.664056,83.264152,Vibrant pedestrian lane showcasing handmade regional goods and tea shops.
+lmk_0849,cty_7cb0b529,Visakhapatnam Botanical Leisure Garden,park,17.657324,83.271374,Serene botanical enclave featuring lush shaded avenues and floral displays.
+lmk_0850,cty_7cb0b529,Visakhapatnam District Metro Link,transit_hub,17.639572,83.166141,Rapid transit access within a 5-minute walk of Garden Sarovar Homestay.
+lmk_0851,cty_7cb0b529,Visakhapatnam Cultural Craft Lane,bazaar,17.631159,83.159273,Vibrant pedestrian lane showcasing handmade regional goods and tea shops.
+lmk_0852,cty_7cb0b529,Visakhapatnam Botanical Leisure Garden,park,17.646601,83.160457,Serene botanical enclave featuring lush shaded avenues and floral displays.
+lmk_0853,cty_7cb0b529,Visakhapatnam District Metro Link,transit_hub,17.681201,83.212376,Rapid transit access within a 5-minute walk of The Old Meadows by the Lake.
+lmk_0854,cty_7cb0b529,Visakhapatnam Cultural Craft Lane,bazaar,17.683858,83.209684,Vibrant pedestrian lane showcasing handmade regional goods and tea shops.
+lmk_0855,cty_7cb0b529,Visakhapatnam Botanical Leisure Garden,park,17.681724,83.217755,Serene botanical enclave featuring lush shaded avenues and floral displays.
+lmk_0856,cty_7cb0b529,Visakhapatnam District Metro Link,transit_hub,17.668695,83.181145,Rapid transit access within a 5-minute walk of Villa Haveli Suites.
+lmk_0857,cty_7cb0b529,Visakhapatnam Cultural Craft Lane,bazaar,17.675192,83.172628,Vibrant pedestrian lane showcasing handmade regional goods and tea shops.
+lmk_0858,cty_7cb0b529,Visakhapatnam Botanical Leisure Garden,park,17.664398,83.178652,Serene botanical enclave featuring lush shaded avenues and floral displays.
+lmk_0859,cty_7cb0b529,Visakhapatnam District Metro Link,transit_hub,17.688165,83.273695,Rapid transit access within a 5-minute walk of Villa Verandah by the Lake.
+lmk_0860,cty_7cb0b529,Visakhapatnam Cultural Craft Lane,bazaar,17.688663,83.278183,Vibrant pedestrian lane showcasing handmade regional goods and tea shops.
+lmk_0861,cty_7cb0b529,Visakhapatnam Botanical Leisure Garden,park,17.701669,83.266667,Serene botanical enclave featuring lush shaded avenues and floral displays.
+lmk_0862,cty_d4f5e3a5,Tirupati District Metro Link,transit_hub,13.672624,79.400458,Rapid transit access within a 5-minute walk of The Old Niwas & Spa.
+lmk_0863,cty_d4f5e3a5,Tirupati Cultural Craft Lane,bazaar,13.67558,79.386236,Vibrant pedestrian lane showcasing handmade regional goods and tea shops.
+lmk_0864,cty_d4f5e3a5,Tirupati Botanical Leisure Garden,park,13.67237,79.383613,Serene botanical enclave featuring lush shaded avenues and floral displays.
+lmk_0865,cty_d4f5e3a5,Tirupati District Metro Link,transit_hub,13.589397,79.445719,Rapid transit access within a 5-minute walk of Palm Kothi.
+lmk_0866,cty_d4f5e3a5,Tirupati Cultural Craft Lane,bazaar,13.599899,79.450418,Vibrant pedestrian lane showcasing handmade regional goods and tea shops.
+lmk_0867,cty_d4f5e3a5,Tirupati Botanical Leisure Garden,park,13.604043,79.447698,Serene botanical enclave featuring lush shaded avenues and floral displays.
+lmk_0868,cty_d4f5e3a5,Tirupati District Metro Link,transit_hub,13.635986,79.367556,Rapid transit access within a 5-minute walk of Palm Sanctuary Resort.
+lmk_0869,cty_d4f5e3a5,Tirupati Cultural Craft Lane,bazaar,13.643016,79.368894,Vibrant pedestrian lane showcasing handmade regional goods and tea shops.
+lmk_0870,cty_d4f5e3a5,Tirupati Botanical Leisure Garden,park,13.63862,79.382267,Serene botanical enclave featuring lush shaded avenues and floral displays.
+lmk_0871,cty_d4f5e3a5,Tirupati District Metro Link,transit_hub,13.651522,79.482614,Rapid transit access within a 5-minute walk of Royal Ghat House Boutique Stay.
+lmk_0872,cty_d4f5e3a5,Tirupati Cultural Craft Lane,bazaar,13.64896,79.482272,Vibrant pedestrian lane showcasing handmade regional goods and tea shops.
+lmk_0873,cty_d4f5e3a5,Tirupati Botanical Leisure Garden,park,13.649425,79.471781,Serene botanical enclave featuring lush shaded avenues and floral displays.
+lmk_0874,cty_d4f5e3a5,Tirupati District Metro Link,transit_hub,13.600558,79.43181,Rapid transit access within a 5-minute walk of Grand Verandah Boutique Stay.
+lmk_0875,cty_d4f5e3a5,Tirupati Cultural Craft Lane,bazaar,13.606064,79.426514,Vibrant pedestrian lane showcasing handmade regional goods and tea shops.
+lmk_0876,cty_d4f5e3a5,Tirupati Botanical Leisure Garden,park,13.588982,79.419404,Serene botanical enclave featuring lush shaded avenues and floral displays.
+lmk_0877,cty_ab50efee,Kolkata District Metro Link,transit_hub,22.516304,88.362668,Rapid transit access within a 5-minute walk of Heritage Kothi Inn.
+lmk_0878,cty_ab50efee,Kolkata Cultural Craft Lane,bazaar,22.514736,88.36489,Vibrant pedestrian lane showcasing handmade regional goods and tea shops.
+lmk_0879,cty_ab50efee,Kolkata Botanical Leisure Garden,park,22.505132,88.359354,Serene botanical enclave featuring lush shaded avenues and floral displays.
+lmk_0880,cty_ab50efee,Kolkata District Metro Link,transit_hub,22.592054,88.306977,Rapid transit access within a 5-minute walk of Heritage Verandah Resort.
+lmk_0881,cty_ab50efee,Kolkata Cultural Craft Lane,bazaar,22.592703,88.317468,Vibrant pedestrian lane showcasing handmade regional goods and tea shops.
+lmk_0882,cty_ab50efee,Kolkata Botanical Leisure Garden,park,22.60265,88.300783,Serene botanical enclave featuring lush shaded avenues and floral displays.
+lmk_0883,cty_ab50efee,Kolkata District Metro Link,transit_hub,22.51548,88.428666,Rapid transit access within a 5-minute walk of Indigo Sarovar Heritage.
+lmk_0884,cty_ab50efee,Kolkata Cultural Craft Lane,bazaar,22.504467,88.426733,Vibrant pedestrian lane showcasing handmade regional goods and tea shops.
+lmk_0885,cty_ab50efee,Kolkata Botanical Leisure Garden,park,22.521777,88.434841,Serene botanical enclave featuring lush shaded avenues and floral displays.
+lmk_0886,cty_ab50efee,Kolkata District Metro Link,transit_hub,22.622411,88.397168,Rapid transit access within a 5-minute walk of The Old Residency Suites.
+lmk_0887,cty_ab50efee,Kolkata Cultural Craft Lane,bazaar,22.624975,88.400047,Vibrant pedestrian lane showcasing handmade regional goods and tea shops.
+lmk_0888,cty_ab50efee,Kolkata Botanical Leisure Garden,park,22.634295,88.383337,Serene botanical enclave featuring lush shaded avenues and floral displays.
+lmk_0889,cty_ab50efee,Kolkata District Metro Link,transit_hub,22.603524,88.429539,Rapid transit access within a 5-minute walk of Garden Vihar Homestay.
+lmk_0890,cty_ab50efee,Kolkata Cultural Craft Lane,bazaar,22.607073,88.430643,Vibrant pedestrian lane showcasing handmade regional goods and tea shops.
+lmk_0891,cty_ab50efee,Kolkata Botanical Leisure Garden,park,22.599751,88.431721,Serene botanical enclave featuring lush shaded avenues and floral displays.
+lmk_0892,cty_c43cfa94,Darjeeling District Metro Link,transit_hub,27.081986,88.219446,Rapid transit access within a 5-minute walk of Riverside Retreat Homestay.
+lmk_0893,cty_c43cfa94,Darjeeling Cultural Craft Lane,bazaar,27.087552,88.21463,Vibrant pedestrian lane showcasing handmade regional goods and tea shops.
+lmk_0894,cty_c43cfa94,Darjeeling Botanical Leisure Garden,park,27.077806,88.225869,Serene botanical enclave featuring lush shaded avenues and floral displays.
+lmk_0895,cty_c43cfa94,Darjeeling District Metro Link,transit_hub,27.046008,88.312955,Rapid transit access within a 5-minute walk of Royal Sarovar Boutique Stay.
+lmk_0896,cty_c43cfa94,Darjeeling Cultural Craft Lane,bazaar,27.04406,88.317947,Vibrant pedestrian lane showcasing handmade regional goods and tea shops.
+lmk_0897,cty_c43cfa94,Darjeeling Botanical Leisure Garden,park,27.057206,88.305681,Serene botanical enclave featuring lush shaded avenues and floral displays.
+lmk_0898,cty_c43cfa94,Darjeeling District Metro Link,transit_hub,27.061686,88.328814,Rapid transit access within a 5-minute walk of Lake Mahal by the Lake.
+lmk_0899,cty_c43cfa94,Darjeeling Cultural Craft Lane,bazaar,27.068314,88.318264,Vibrant pedestrian lane showcasing handmade regional goods and tea shops.
+lmk_0900,cty_c43cfa94,Darjeeling Botanical Leisure Garden,park,27.070611,88.320023,Serene botanical enclave featuring lush shaded avenues and floral displays.
+lmk_0901,cty_c43cfa94,Darjeeling District Metro Link,transit_hub,26.975675,88.282453,Rapid transit access within a 5-minute walk of Hotel Verandah Heritage.
+lmk_0902,cty_c43cfa94,Darjeeling Cultural Craft Lane,bazaar,26.971896,88.27007,Vibrant pedestrian lane showcasing handmade regional goods and tea shops.
+lmk_0903,cty_c43cfa94,Darjeeling Botanical Leisure Garden,park,26.987213,88.267269,Serene botanical enclave featuring lush shaded avenues and floral displays.
+lmk_0904,cty_c43cfa94,Darjeeling District Metro Link,transit_hub,27.04363,88.28945,Rapid transit access within a 5-minute walk of Heritage Palms.
+lmk_0905,cty_c43cfa94,Darjeeling Cultural Craft Lane,bazaar,27.054169,88.293756,Vibrant pedestrian lane showcasing handmade regional goods and tea shops.
+lmk_0906,cty_c43cfa94,Darjeeling Botanical Leisure Garden,park,27.051575,88.283348,Serene botanical enclave featuring lush shaded avenues and floral displays.
+lmk_0907,cty_b6ccbb3b,Puri District Metro Link,transit_hub,19.828539,85.884015,Rapid transit access within a 5-minute walk of The Old Vihar Resort.
+lmk_0908,cty_b6ccbb3b,Puri Cultural Craft Lane,bazaar,19.825862,85.89092,Vibrant pedestrian lane showcasing handmade regional goods and tea shops.
+lmk_0909,cty_b6ccbb3b,Puri Botanical Leisure Garden,park,19.8123,85.888717,Serene botanical enclave featuring lush shaded avenues and floral displays.
+lmk_0910,cty_b6ccbb3b,Puri District Metro Link,transit_hub,19.78938,85.87637,Rapid transit access within a 5-minute walk of Casa Verandah Resort.
+lmk_0911,cty_b6ccbb3b,Puri Cultural Craft Lane,bazaar,19.789049,85.879092,Vibrant pedestrian lane showcasing handmade regional goods and tea shops.
+lmk_0912,cty_b6ccbb3b,Puri Botanical Leisure Garden,park,19.792097,85.861217,Serene botanical enclave featuring lush shaded avenues and floral displays.
+lmk_0913,cty_b6ccbb3b,Puri District Metro Link,transit_hub,19.864582,85.85403,Rapid transit access within a 5-minute walk of Grand Bagh Heritage.
+lmk_0914,cty_b6ccbb3b,Puri Cultural Craft Lane,bazaar,19.862414,85.841517,Vibrant pedestrian lane showcasing handmade regional goods and tea shops.
+lmk_0915,cty_b6ccbb3b,Puri Botanical Leisure Garden,park,19.873518,85.85299,Serene botanical enclave featuring lush shaded avenues and floral displays.
+lmk_0916,cty_b6ccbb3b,Puri District Metro Link,transit_hub,19.832727,85.869492,Rapid transit access within a 5-minute walk of Royal Residency Inn.
+lmk_0917,cty_b6ccbb3b,Puri Cultural Craft Lane,bazaar,19.833376,85.87979,Vibrant pedestrian lane showcasing handmade regional goods and tea shops.
+lmk_0918,cty_b6ccbb3b,Puri Botanical Leisure Garden,park,19.843323,85.863413,Serene botanical enclave featuring lush shaded avenues and floral displays.
+lmk_0919,cty_b6ccbb3b,Puri District Metro Link,transit_hub,19.79478,85.788486,Rapid transit access within a 5-minute walk of Amber Meadows Suites.
+lmk_0920,cty_b6ccbb3b,Puri Cultural Craft Lane,bazaar,19.800101,85.783371,Vibrant pedestrian lane showcasing handmade regional goods and tea shops.
+lmk_0921,cty_b6ccbb3b,Puri Botanical Leisure Garden,park,19.782727,85.782976,Serene botanical enclave featuring lush shaded avenues and floral displays.
+lmk_0922,cty_7be8559f,Bhubaneswar District Metro Link,transit_hub,20.287657,85.888778,Rapid transit access within a 5-minute walk of Heritage Orchard Inn.
+lmk_0923,cty_7be8559f,Bhubaneswar Cultural Craft Lane,bazaar,20.279895,85.879066,Vibrant pedestrian lane showcasing handmade regional goods and tea shops.
+lmk_0924,cty_7be8559f,Bhubaneswar Botanical Leisure Garden,park,20.274969,85.884224,Serene botanical enclave featuring lush shaded avenues and floral displays.
+lmk_0925,cty_7be8559f,Bhubaneswar District Metro Link,transit_hub,20.34991,85.872056,Rapid transit access within a 5-minute walk of The Courtyard.
+lmk_0926,cty_7be8559f,Bhubaneswar Cultural Craft Lane,bazaar,20.353869,85.883181,Vibrant pedestrian lane showcasing handmade regional goods and tea shops.
+lmk_0927,cty_7be8559f,Bhubaneswar Botanical Leisure Garden,park,20.351701,85.863198,Serene botanical enclave featuring lush shaded avenues and floral displays.
+lmk_0928,cty_7be8559f,Bhubaneswar District Metro Link,transit_hub,20.335635,85.882579,Rapid transit access within a 5-minute walk of Palm Retreat by the Lake.
+lmk_0929,cty_7be8559f,Bhubaneswar Cultural Craft Lane,bazaar,20.331675,85.871456,Vibrant pedestrian lane showcasing handmade regional goods and tea shops.
+lmk_0930,cty_7be8559f,Bhubaneswar Botanical Leisure Garden,park,20.333674,85.8903,Serene botanical enclave featuring lush shaded avenues and floral displays.
+lmk_0931,cty_7be8559f,Bhubaneswar District Metro Link,transit_hub,20.350569,85.879808,Rapid transit access within a 5-minute walk of Lake Bagh Homestay.
+lmk_0932,cty_7be8559f,Bhubaneswar Cultural Craft Lane,bazaar,20.342505,85.885573,Vibrant pedestrian lane showcasing handmade regional goods and tea shops.
+lmk_0933,cty_7be8559f,Bhubaneswar Botanical Leisure Garden,park,20.359751,85.886386,Serene botanical enclave featuring lush shaded avenues and floral displays.
+lmk_0934,cty_7be8559f,Bhubaneswar District Metro Link,transit_hub,20.27925,85.808442,Rapid transit access within a 5-minute walk of Hotel Nest Boutique Stay.
+lmk_0935,cty_7be8559f,Bhubaneswar Cultural Craft Lane,bazaar,20.286075,85.796293,Vibrant pedestrian lane showcasing handmade regional goods and tea shops.
+lmk_0936,cty_7be8559f,Bhubaneswar Botanical Leisure Garden,park,20.287645,85.812715,Serene botanical enclave featuring lush shaded avenues and floral displays.
+lmk_0937,cty_cf1c6ac5,Guwahati District Metro Link,transit_hub,26.159302,91.763541,Rapid transit access within a 5-minute walk of Indigo Palms Boutique Stay.
+lmk_0938,cty_cf1c6ac5,Guwahati Cultural Craft Lane,bazaar,26.167716,91.770834,Vibrant pedestrian lane showcasing handmade regional goods and tea shops.
+lmk_0939,cty_cf1c6ac5,Guwahati Botanical Leisure Garden,park,26.151223,91.769846,Serene botanical enclave featuring lush shaded avenues and floral displays.
+lmk_0940,cty_cf1c6ac5,Guwahati District Metro Link,transit_hub,26.182955,91.684987,Rapid transit access within a 5-minute walk of The Old Palms Resort.
+lmk_0941,cty_cf1c6ac5,Guwahati Cultural Craft Lane,bazaar,26.178668,91.678784,Vibrant pedestrian lane showcasing handmade regional goods and tea shops.
+lmk_0942,cty_cf1c6ac5,Guwahati Botanical Leisure Garden,park,26.187243,91.666851,Serene botanical enclave featuring lush shaded avenues and floral displays.
+lmk_0943,cty_cf1c6ac5,Guwahati District Metro Link,transit_hub,26.128177,91.698119,Rapid transit access within a 5-minute walk of Riverside Mahal Homestay.
+lmk_0944,cty_cf1c6ac5,Guwahati Cultural Craft Lane,bazaar,26.116569,91.705309,Vibrant pedestrian lane showcasing handmade regional goods and tea shops.
+lmk_0945,cty_cf1c6ac5,Guwahati Botanical Leisure Garden,park,26.120477,91.711648,Serene botanical enclave featuring lush shaded avenues and floral displays.
+lmk_0946,cty_cf1c6ac5,Guwahati District Metro Link,transit_hub,26.206161,91.795624,Rapid transit access within a 5-minute walk of Palm Sarovar.
+lmk_0947,cty_cf1c6ac5,Guwahati Cultural Craft Lane,bazaar,26.195116,91.797795,Vibrant pedestrian lane showcasing handmade regional goods and tea shops.
+lmk_0948,cty_cf1c6ac5,Guwahati Botanical Leisure Garden,park,26.198248,91.781607,Serene botanical enclave featuring lush shaded avenues and floral displays.
+lmk_0949,cty_cf1c6ac5,Guwahati District Metro Link,transit_hub,26.120727,91.767242,Rapid transit access within a 5-minute walk of The Old Haveli & Spa.
+lmk_0950,cty_cf1c6ac5,Guwahati Cultural Craft Lane,bazaar,26.115914,91.761316,Vibrant pedestrian lane showcasing handmade regional goods and tea shops.
+lmk_0951,cty_cf1c6ac5,Guwahati Botanical Leisure Garden,park,26.120988,91.758027,Serene botanical enclave featuring lush shaded avenues and floral displays.
+lmk_0952,cty_590d4b7b,Shillong District Metro Link,transit_hub,25.642957,91.911855,Rapid transit access within a 5-minute walk of Heritage Vihar & Spa.
+lmk_0953,cty_590d4b7b,Shillong Cultural Craft Lane,bazaar,25.63252,91.917204,Vibrant pedestrian lane showcasing handmade regional goods and tea shops.
+lmk_0954,cty_590d4b7b,Shillong Botanical Leisure Garden,park,25.649417,91.925104,Serene botanical enclave featuring lush shaded avenues and floral displays.
+lmk_0955,cty_590d4b7b,Shillong District Metro Link,transit_hub,25.629092,91.850986,Rapid transit access within a 5-minute walk of Villa Nest Resort.
+lmk_0956,cty_590d4b7b,Shillong Cultural Craft Lane,bazaar,25.619174,91.845798,Vibrant pedestrian lane showcasing handmade regional goods and tea shops.
+lmk_0957,cty_590d4b7b,Shillong Botanical Leisure Garden,park,25.629303,91.832758,Serene botanical enclave featuring lush shaded avenues and floral displays.
+lmk_0958,cty_590d4b7b,Shillong District Metro Link,transit_hub,25.559789,91.861484,Rapid transit access within a 5-minute walk of Grand Orchard & Spa.
+lmk_0959,cty_590d4b7b,Shillong Cultural Craft Lane,bazaar,25.560538,91.857527,Vibrant pedestrian lane showcasing handmade regional goods and tea shops.
+lmk_0960,cty_590d4b7b,Shillong Botanical Leisure Garden,park,25.551921,91.873891,Serene botanical enclave featuring lush shaded avenues and floral displays.
+lmk_0961,cty_590d4b7b,Shillong District Metro Link,transit_hub,25.550373,91.841569,Rapid transit access within a 5-minute walk of Grand Sarovar Resort.
+lmk_0962,cty_590d4b7b,Shillong Cultural Craft Lane,bazaar,25.556624,91.851555,Vibrant pedestrian lane showcasing handmade regional goods and tea shops.
+lmk_0963,cty_590d4b7b,Shillong Botanical Leisure Garden,park,25.553433,91.837665,Serene botanical enclave featuring lush shaded avenues and floral displays.
+lmk_0964,cty_590d4b7b,Shillong District Metro Link,transit_hub,25.56043,91.945324,Rapid transit access within a 5-minute walk of Royal Retreat Homestay.
+lmk_0965,cty_590d4b7b,Shillong Cultural Craft Lane,bazaar,25.549871,91.943703,Vibrant pedestrian lane showcasing handmade regional goods and tea shops.
+lmk_0966,cty_590d4b7b,Shillong Botanical Leisure Garden,park,25.549207,91.951321,Serene botanical enclave featuring lush shaded avenues and floral displays.
+lmk_0967,cty_ccb4fb74,Gangtok District Metro Link,transit_hub,27.294475,88.575666,Rapid transit access within a 5-minute walk of Palm Haveli Inn.
+lmk_0968,cty_ccb4fb74,Gangtok Cultural Craft Lane,bazaar,27.294878,88.581504,Vibrant pedestrian lane showcasing handmade regional goods and tea shops.
+lmk_0969,cty_ccb4fb74,Gangtok Botanical Leisure Garden,park,27.288629,88.577065,Serene botanical enclave featuring lush shaded avenues and floral displays.
+lmk_0970,cty_ccb4fb74,Gangtok District Metro Link,transit_hub,27.396757,88.612071,Rapid transit access within a 5-minute walk of Indigo Manor Suites.
+lmk_0971,cty_ccb4fb74,Gangtok Cultural Craft Lane,bazaar,27.388193,88.602062,Vibrant pedestrian lane showcasing handmade regional goods and tea shops.
+lmk_0972,cty_ccb4fb74,Gangtok Botanical Leisure Garden,park,27.396638,88.621057,Serene botanical enclave featuring lush shaded avenues and floral displays.
+lmk_0973,cty_ccb4fb74,Gangtok District Metro Link,transit_hub,27.363063,88.666255,Rapid transit access within a 5-minute walk of The Old Verandah Suites.
+lmk_0974,cty_ccb4fb74,Gangtok Cultural Craft Lane,bazaar,27.374108,88.664062,Vibrant pedestrian lane showcasing handmade regional goods and tea shops.
+lmk_0975,cty_ccb4fb74,Gangtok Botanical Leisure Garden,park,27.370787,88.679221,Serene botanical enclave featuring lush shaded avenues and floral displays.
+lmk_0976,cty_ccb4fb74,Gangtok District Metro Link,transit_hub,27.405172,88.598521,Rapid transit access within a 5-minute walk of Garden Bagh Resort.
+lmk_0977,cty_ccb4fb74,Gangtok Cultural Craft Lane,bazaar,27.393313,88.594677,Vibrant pedestrian lane showcasing handmade regional goods and tea shops.
+lmk_0978,cty_ccb4fb74,Gangtok Botanical Leisure Garden,park,27.391021,88.594163,Serene botanical enclave featuring lush shaded avenues and floral displays.
+lmk_0979,cty_ccb4fb74,Gangtok District Metro Link,transit_hub,27.270766,88.611471,Rapid transit access within a 5-minute walk of Amber Nest by the Lake.
+lmk_0980,cty_ccb4fb74,Gangtok Cultural Craft Lane,bazaar,27.271658,88.615503,Vibrant pedestrian lane showcasing handmade regional goods and tea shops.
+lmk_0981,cty_ccb4fb74,Gangtok Botanical Leisure Garden,park,27.266066,88.609097,Serene botanical enclave featuring lush shaded avenues and floral displays.
+lmk_0982,cty_a50bc5dd,Colombo District Metro Link,transit_hub,6.894493,79.905258,Rapid transit access within a 5-minute walk of Garden Ghat House Resort.
+lmk_0983,cty_a50bc5dd,Colombo Cultural Craft Lane,bazaar,6.894991,79.909566,Vibrant pedestrian lane showcasing handmade regional goods and tea shops.
+lmk_0984,cty_a50bc5dd,Colombo Botanical Leisure Garden,park,6.907997,79.898514,Serene botanical enclave featuring lush shaded avenues and floral displays.
+lmk_0985,cty_a50bc5dd,Colombo District Metro Link,transit_hub,6.905771,79.848364,Rapid transit access within a 5-minute walk of Casa Retreat Resort.
+lmk_0986,cty_a50bc5dd,Colombo Cultural Craft Lane,bazaar,6.897207,79.839413,Vibrant pedestrian lane showcasing handmade regional goods and tea shops.
+lmk_0987,cty_a50bc5dd,Colombo Botanical Leisure Garden,park,6.905652,79.8564,Serene botanical enclave featuring lush shaded avenues and floral displays.
+lmk_0988,cty_a50bc5dd,Colombo District Metro Link,transit_hub,6.897158,79.836696,Rapid transit access within a 5-minute walk of Lake Meadows Inn.
+lmk_0989,cty_a50bc5dd,Colombo Cultural Craft Lane,bazaar,6.887472,79.837349,Vibrant pedestrian lane showcasing handmade regional goods and tea shops.
+lmk_0990,cty_a50bc5dd,Colombo Botanical Leisure Garden,park,6.885868,79.833984,Serene botanical enclave featuring lush shaded avenues and floral displays.
+lmk_0991,cty_a50bc5dd,Colombo District Metro Link,transit_hub,6.902285,79.917198,Rapid transit access within a 5-minute walk of Heritage Haveli.
+lmk_0992,cty_a50bc5dd,Colombo Cultural Craft Lane,bazaar,6.907432,79.922745,Vibrant pedestrian lane showcasing handmade regional goods and tea shops.
+lmk_0993,cty_a50bc5dd,Colombo Botanical Leisure Garden,park,6.901653,79.923792,Serene botanical enclave featuring lush shaded avenues and floral displays.
+lmk_0994,cty_a50bc5dd,Colombo District Metro Link,transit_hub,6.907546,79.877934,Rapid transit access within a 5-minute walk of Heritage Nest Boutique Stay.
+lmk_0995,cty_a50bc5dd,Colombo Cultural Craft Lane,bazaar,6.905936,79.870831,Vibrant pedestrian lane showcasing handmade regional goods and tea shops.
+lmk_0996,cty_a50bc5dd,Colombo Botanical Leisure Garden,park,6.911721,79.871837,Serene botanical enclave featuring lush shaded avenues and floral displays.
+lmk_0997,cty_009c9fd2,Kandy District Metro Link,transit_hub,7.302818,80.566241,Rapid transit access within a 5-minute walk of Hillview Niwas Resort.
+lmk_0998,cty_009c9fd2,Kandy Cultural Craft Lane,bazaar,7.301776,80.577785,Vibrant pedestrian lane showcasing handmade regional goods and tea shops.
+lmk_0999,cty_009c9fd2,Kandy Botanical Leisure Garden,park,7.315477,80.567198,Serene botanical enclave featuring lush shaded avenues and floral displays.
+lmk_1000,cty_009c9fd2,Kandy District Metro Link,transit_hub,7.34616,80.680137,Rapid transit access within a 5-minute walk of Grand Mahal by the Lake.
+lmk_1001,cty_009c9fd2,Kandy Cultural Craft Lane,bazaar,7.344653,80.673065,Vibrant pedestrian lane showcasing handmade regional goods and tea shops.
+lmk_1002,cty_009c9fd2,Kandy Botanical Leisure Garden,park,7.334881,80.688817,Serene botanical enclave featuring lush shaded avenues and floral displays.
+lmk_1003,cty_009c9fd2,Kandy District Metro Link,transit_hub,7.282312,80.574463,Rapid transit access within a 5-minute walk of Garden Regency Inn.
+lmk_1004,cty_009c9fd2,Kandy Cultural Craft Lane,bazaar,7.287135,80.584985,Vibrant pedestrian lane showcasing handmade regional goods and tea shops.
+lmk_1005,cty_009c9fd2,Kandy Botanical Leisure Garden,park,7.284629,80.586202,Serene botanical enclave featuring lush shaded avenues and floral displays.
+lmk_1006,cty_009c9fd2,Kandy District Metro Link,transit_hub,7.299305,80.671351,Rapid transit access within a 5-minute walk of Garden Mahal Boutique Stay.
+lmk_1007,cty_009c9fd2,Kandy Cultural Craft Lane,bazaar,7.292677,80.680823,Vibrant pedestrian lane showcasing handmade regional goods and tea shops.
+lmk_1008,cty_009c9fd2,Kandy Botanical Leisure Garden,park,7.289301,80.679282,Serene botanical enclave featuring lush shaded avenues and floral displays.
+lmk_1009,cty_009c9fd2,Kandy District Metro Link,transit_hub,7.26351,80.646467,Rapid transit access within a 5-minute walk of Lake Courtyard Boutique Stay.
+lmk_1010,cty_009c9fd2,Kandy Cultural Craft Lane,bazaar,7.260045,80.647612,Vibrant pedestrian lane showcasing handmade regional goods and tea shops.
+lmk_1011,cty_009c9fd2,Kandy Botanical Leisure Garden,park,7.277138,80.647694,Serene botanical enclave featuring lush shaded avenues and floral displays.
+lmk_1012,cty_c0f2d9de,Kathmandu District Metro Link,transit_hub,27.744988,85.330443,Rapid transit access within a 5-minute walk of Hotel Orchard Resort.
+lmk_1013,cty_c0f2d9de,Kathmandu Cultural Craft Lane,bazaar,27.733129,85.326587,Vibrant pedestrian lane showcasing handmade regional goods and tea shops.
+lmk_1014,cty_c0f2d9de,Kathmandu Botanical Leisure Garden,park,27.730836,85.326071,Serene botanical enclave featuring lush shaded avenues and floral displays.
+lmk_1015,cty_c0f2d9de,Kathmandu District Metro Link,transit_hub,27.706822,85.351157,Rapid transit access within a 5-minute walk of The Sanctuary Heritage.
+lmk_1016,cty_c0f2d9de,Kathmandu Cultural Craft Lane,bazaar,27.714489,85.341227,Vibrant pedestrian lane showcasing handmade regional goods and tea shops.
+lmk_1017,cty_c0f2d9de,Kathmandu Botanical Leisure Garden,park,27.725361,85.355077,Serene botanical enclave featuring lush shaded avenues and floral displays.
+lmk_1018,cty_c0f2d9de,Kathmandu District Metro Link,transit_hub,27.786337,85.279049,Rapid transit access within a 5-minute walk of Casa Meadows Inn.
+lmk_1019,cty_c0f2d9de,Kathmandu Cultural Craft Lane,bazaar,27.784632,85.27075,Vibrant pedestrian lane showcasing handmade regional goods and tea shops.
+lmk_1020,cty_c0f2d9de,Kathmandu Botanical Leisure Garden,park,27.771084,85.28305,Serene botanical enclave featuring lush shaded avenues and floral displays.
+lmk_1021,cty_c0f2d9de,Kathmandu District Metro Link,transit_hub,27.751905,85.354123,Rapid transit access within a 5-minute walk of Indigo Vihar Inn.
+lmk_1022,cty_c0f2d9de,Kathmandu Cultural Craft Lane,bazaar,27.754582,85.346782,Vibrant pedestrian lane showcasing handmade regional goods and tea shops.
+lmk_1023,cty_c0f2d9de,Kathmandu Botanical Leisure Garden,park,27.767249,85.349805,Serene botanical enclave featuring lush shaded avenues and floral displays.
+lmk_1024,cty_c0f2d9de,Kathmandu District Metro Link,transit_hub,27.675976,85.374188,Rapid transit access within a 5-minute walk of Indigo Courtyard by the Lake.
+lmk_1025,cty_c0f2d9de,Kathmandu Cultural Craft Lane,bazaar,27.663998,85.377546,Vibrant pedestrian lane showcasing handmade regional goods and tea shops.
+lmk_1026,cty_c0f2d9de,Kathmandu Botanical Leisure Garden,park,27.681747,85.378787,Serene botanical enclave featuring lush shaded avenues and floral displays.
+lmk_1027,cty_95d040d8,Pokhara District Metro Link,transit_hub,28.207408,83.99502,Rapid transit access within a 5-minute walk of Grand Orchard Resort.
+lmk_1028,cty_95d040d8,Pokhara Cultural Craft Lane,bazaar,28.214321,83.982807,Vibrant pedestrian lane showcasing handmade regional goods and tea shops.
+lmk_1029,cty_95d040d8,Pokhara Botanical Leisure Garden,park,28.212437,83.977655,Serene botanical enclave featuring lush shaded avenues and floral displays.
+lmk_1030,cty_95d040d8,Pokhara District Metro Link,transit_hub,28.206631,84.009506,Rapid transit access within a 5-minute walk of Villa Courtyard.
+lmk_1031,cty_95d040d8,Pokhara Cultural Craft Lane,bazaar,28.197986,84.001503,Vibrant pedestrian lane showcasing handmade regional goods and tea shops.
+lmk_1032,cty_95d040d8,Pokhara Botanical Leisure Garden,park,28.195309,83.999176,Serene botanical enclave featuring lush shaded avenues and floral displays.
+lmk_1033,cty_95d040d8,Pokhara District Metro Link,transit_hub,28.168356,83.945559,Rapid transit access within a 5-minute walk of Villa Verandah Resort .
+lmk_1034,cty_95d040d8,Pokhara Cultural Craft Lane,bazaar,28.168025,83.948465,Vibrant pedestrian lane showcasing handmade regional goods and tea shops.
+lmk_1035,cty_95d040d8,Pokhara Botanical Leisure Garden,park,28.171073,83.929385,Serene botanical enclave featuring lush shaded avenues and floral displays.
+lmk_1036,cty_95d040d8,Pokhara District Metro Link,transit_hub,28.201433,84.043397,Rapid transit access within a 5-minute walk of Casa Niwas & Spa.
+lmk_1037,cty_95d040d8,Pokhara Cultural Craft Lane,bazaar,28.194091,84.045332,Vibrant pedestrian lane showcasing handmade regional goods and tea shops.
+lmk_1038,cty_95d040d8,Pokhara Botanical Leisure Garden,park,28.19608,84.039063,Serene botanical enclave featuring lush shaded avenues and floral displays.
+lmk_1039,cty_95d040d8,Pokhara District Metro Link,transit_hub,28.267679,83.997903,Rapid transit access within a 5-minute walk of Amber Regency Resort.
+lmk_1040,cty_95d040d8,Pokhara Cultural Craft Lane,bazaar,28.26703,83.986905,Vibrant pedestrian lane showcasing handmade regional goods and tea shops.
+lmk_1041,cty_95d040d8,Pokhara Botanical Leisure Garden,park,28.257747,84.003429,Serene botanical enclave featuring lush shaded avenues and floral displays.
+lmk_1042,cty_79cbc59b,Thimphu District Metro Link,transit_hub,27.51594,89.611628,Rapid transit access within a 5-minute walk of Casa Sarovar Homestay.
+lmk_1043,cty_79cbc59b,Thimphu Cultural Craft Lane,bazaar,27.511653,89.605352,Vibrant pedestrian lane showcasing handmade regional goods and tea shops.
+lmk_1044,cty_79cbc59b,Thimphu Botanical Leisure Garden,park,27.520228,89.593277,Serene botanical enclave featuring lush shaded avenues and floral displays.
+lmk_1045,cty_79cbc59b,Thimphu District Metro Link,transit_hub,27.462114,89.561183,Rapid transit access within a 5-minute walk of Villa Residency.
+lmk_1046,cty_79cbc59b,Thimphu Cultural Craft Lane,bazaar,27.454772,89.563105,Vibrant pedestrian lane showcasing handmade regional goods and tea shops.
+lmk_1047,cty_79cbc59b,Thimphu Botanical Leisure Garden,park,27.456761,89.55688,Serene botanical enclave featuring lush shaded avenues and floral displays.
+lmk_1048,cty_79cbc59b,Thimphu District Metro Link,transit_hub,27.433381,89.687456,Rapid transit access within a 5-minute walk of Palm Sarovar by the Lake.
+lmk_1049,cty_79cbc59b,Thimphu Cultural Craft Lane,bazaar,27.427518,89.674649,Vibrant pedestrian lane showcasing handmade regional goods and tea shops.
+lmk_1050,cty_79cbc59b,Thimphu Botanical Leisure Garden,park,27.42342,89.674774,Serene botanical enclave featuring lush shaded avenues and floral displays.
+lmk_1051,cty_79cbc59b,Thimphu District Metro Link,transit_hub,27.424283,89.705884,Rapid transit access within a 5-minute walk of Royal Meadows by the Lake.
+lmk_1052,cty_79cbc59b,Thimphu Cultural Craft Lane,bazaar,27.427239,89.690315,Vibrant pedestrian lane showcasing handmade regional goods and tea shops.
+lmk_1053,cty_79cbc59b,Thimphu Botanical Leisure Garden,park,27.424029,89.687444,Serene botanical enclave featuring lush shaded avenues and floral displays.
+lmk_1054,cty_79cbc59b,Thimphu District Metro Link,transit_hub,27.48397,89.705028,Rapid transit access within a 5-minute walk of Hillview Meadows Inn.
+lmk_1055,cty_79cbc59b,Thimphu Cultural Craft Lane,bazaar,27.487519,89.706177,Vibrant pedestrian lane showcasing handmade regional goods and tea shops.
+lmk_1056,cty_79cbc59b,Thimphu Botanical Leisure Garden,park,27.480197,89.707299,Serene botanical enclave featuring lush shaded avenues and floral displays.
+lmk_1057,cty_9aa02925,Male District Metro Link,transit_hub,4.205625,73.526109,Rapid transit access within a 5-minute walk of Palm Residency by the Lake.
+lmk_1058,cty_9aa02925,Male Cultural Craft Lane,bazaar,4.20338,73.530816,Vibrant pedestrian lane showcasing handmade regional goods and tea shops.
+lmk_1059,cty_9aa02925,Male Botanical Leisure Garden,park,4.220432,73.524976,Serene botanical enclave featuring lush shaded avenues and floral displays.
+lmk_1060,cty_9aa02925,Male District Metro Link,transit_hub,4.162925,73.495298,Rapid transit access within a 5-minute walk of Hillview Manor Suites.
+lmk_1061,cty_9aa02925,Male Cultural Craft Lane,bazaar,4.165056,73.488368,Vibrant pedestrian lane showcasing handmade regional goods and tea shops.
+lmk_1062,cty_9aa02925,Male Botanical Leisure Garden,park,4.147528,73.494069,Serene botanical enclave featuring lush shaded avenues and floral displays.
+lmk_1063,cty_9aa02925,Male District Metro Link,transit_hub,4.141222,73.492689,Rapid transit access within a 5-minute walk of Casa Manor Suites.
+lmk_1064,cty_9aa02925,Male Cultural Craft Lane,bazaar,4.148251,73.493992,Vibrant pedestrian lane showcasing handmade regional goods and tea shops.
+lmk_1065,cty_9aa02925,Male Botanical Leisure Garden,park,4.143855,73.507022,Serene botanical enclave featuring lush shaded avenues and floral displays.
+lmk_1066,cty_9aa02925,Male District Metro Link,transit_hub,4.139833,73.476057,Rapid transit access within a 5-minute walk of Hillview Regency by the Lake.
+lmk_1067,cty_9aa02925,Male Cultural Craft Lane,bazaar,4.135386,73.474105,Vibrant pedestrian lane showcasing handmade regional goods and tea shops.
+lmk_1068,cty_9aa02925,Male Botanical Leisure Garden,park,4.142296,73.466574,Serene botanical enclave featuring lush shaded avenues and floral displays.
+lmk_1069,cty_9aa02925,Male District Metro Link,transit_hub,4.202419,73.491893,Rapid transit access within a 5-minute walk of Hotel Niwas Inn.
+lmk_1070,cty_9aa02925,Male Cultural Craft Lane,bazaar,4.203555,73.495368,Vibrant pedestrian lane showcasing handmade regional goods and tea shops.
+lmk_1071,cty_9aa02925,Male Botanical Leisure Garden,park,4.192911,73.49763,Serene botanical enclave featuring lush shaded avenues and floral displays.
+lmk_1072,cty_7b89639e,Dubai District Metro Link,transit_hub,25.19046,55.281318,Rapid transit access within a 5-minute walk of Garden Ghat House & Spa.
+lmk_1073,cty_7b89639e,Dubai Cultural Craft Lane,bazaar,25.194043,55.280332,Vibrant pedestrian lane showcasing handmade regional goods and tea shops.
+lmk_1074,cty_7b89639e,Dubai Botanical Leisure Garden,park,25.185496,55.264073,Serene botanical enclave featuring lush shaded avenues and floral displays.
+lmk_1075,cty_7b89639e,Dubai District Metro Link,transit_hub,25.145594,55.292523,Rapid transit access within a 5-minute walk of Casa Vihar Suites.
+lmk_1076,cty_7b89639e,Dubai Cultural Craft Lane,bazaar,25.1462,55.278409,Vibrant pedestrian lane showcasing handmade regional goods and tea shops.
+lmk_1077,cty_7b89639e,Dubai Botanical Leisure Garden,park,25.148248,55.298026,Serene botanical enclave featuring lush shaded avenues and floral displays.
+lmk_1078,cty_7b89639e,Dubai District Metro Link,transit_hub,25.229875,55.237078,Rapid transit access within a 5-minute walk of Indigo Residency Boutique Stay.
+lmk_1079,cty_7b89639e,Dubai Cultural Craft Lane,bazaar,25.21848,55.229533,Vibrant pedestrian lane showcasing handmade regional goods and tea shops.
+lmk_1080,cty_7b89639e,Dubai Botanical Leisure Garden,park,25.214511,55.236887,Serene botanical enclave featuring lush shaded avenues and floral displays.
+lmk_1081,cty_7b89639e,Dubai District Metro Link,transit_hub,25.1438,55.300096,Rapid transit access within a 5-minute walk of Indigo Orchard & Spa.
+lmk_1082,cty_7b89639e,Dubai Cultural Craft Lane,bazaar,25.14541,55.307886,Vibrant pedestrian lane showcasing handmade regional goods and tea shops.
+lmk_1083,cty_7b89639e,Dubai Botanical Leisure Garden,park,25.140509,55.306098,Serene botanical enclave featuring lush shaded avenues and floral displays.
+lmk_1084,cty_7b89639e,Dubai District Metro Link,transit_hub,25.162122,55.281876,Rapid transit access within a 5-minute walk of Amber Ghat House Heritage.
+lmk_1085,cty_7b89639e,Dubai Cultural Craft Lane,bazaar,25.168667,55.27258,Vibrant pedestrian lane showcasing handmade regional goods and tea shops.
+lmk_1086,cty_7b89639e,Dubai Botanical Leisure Garden,park,25.163047,55.268148,Serene botanical enclave featuring lush shaded avenues and floral displays.
+lmk_1087,cty_1ced6ede,Abu Dhabi District Metro Link,transit_hub,24.495075,54.360065,Rapid transit access within a 5-minute walk of Casa Retreat by the Lake.
+lmk_1088,cty_1ced6ede,Abu Dhabi Cultural Craft Lane,bazaar,24.504993,54.365205,Vibrant pedestrian lane showcasing handmade regional goods and tea shops.
+lmk_1089,cty_1ced6ede,Abu Dhabi Botanical Leisure Garden,park,24.494806,54.37931,Serene botanical enclave featuring lush shaded avenues and floral displays.
+lmk_1090,cty_1ced6ede,Abu Dhabi District Metro Link,transit_hub,24.50912,54.321247,Rapid transit access within a 5-minute walk of Lake Courtyard & Spa.
+lmk_1091,cty_1ced6ede,Abu Dhabi Cultural Craft Lane,bazaar,24.507067,54.319524,Vibrant pedestrian lane showcasing handmade regional goods and tea shops.
+lmk_1092,cty_1ced6ede,Abu Dhabi Botanical Leisure Garden,park,24.520108,54.331668,Serene botanical enclave featuring lush shaded avenues and floral displays.
+lmk_1093,cty_1ced6ede,Abu Dhabi District Metro Link,transit_hub,24.488287,54.346358,Rapid transit access within a 5-minute walk of Riverside Bungalow Suites.
+lmk_1094,cty_1ced6ede,Abu Dhabi Cultural Craft Lane,bazaar,24.494392,54.34269,Vibrant pedestrian lane showcasing handmade regional goods and tea shops.
+lmk_1095,cty_1ced6ede,Abu Dhabi Botanical Leisure Garden,park,24.480775,54.349033,Serene botanical enclave featuring lush shaded avenues and floral displays.
+lmk_1096,cty_1ced6ede,Abu Dhabi District Metro Link,transit_hub,24.401261,54.338242,Rapid transit access within a 5-minute walk of Hillview Mahal Suites.
+lmk_1097,cty_1ced6ede,Abu Dhabi Cultural Craft Lane,bazaar,24.40191,54.348879,Vibrant pedestrian lane showcasing handmade regional goods and tea shops.
+lmk_1098,cty_1ced6ede,Abu Dhabi Botanical Leisure Garden,park,24.411857,54.331962,Serene botanical enclave featuring lush shaded avenues and floral displays.
+lmk_1099,cty_1ced6ede,Abu Dhabi District Metro Link,transit_hub,24.419163,54.387814,Rapid transit access within a 5-minute walk of Casa Bungalow by the Lake.
+lmk_1100,cty_1ced6ede,Abu Dhabi Cultural Craft Lane,bazaar,24.427807,54.39556,Vibrant pedestrian lane showcasing handmade regional goods and tea shops.
+lmk_1101,cty_1ced6ede,Abu Dhabi Botanical Leisure Garden,park,24.429805,54.396892,Serene botanical enclave featuring lush shaded avenues and floral displays.
+lmk_1102,cty_6320eea9,Doha District Metro Link,transit_hub,25.235075,51.499826,Rapid transit access within a 5-minute walk of The Retreat Homestay.
+lmk_1103,cty_6320eea9,Doha Cultural Craft Lane,bazaar,25.226511,51.490003,Vibrant pedestrian lane showcasing handmade regional goods and tea shops.
+lmk_1104,cty_6320eea9,Doha Botanical Leisure Garden,park,25.234956,51.508646,Serene botanical enclave featuring lush shaded avenues and floral displays.
+lmk_1105,cty_6320eea9,Doha District Metro Link,transit_hub,25.345807,51.590183,Rapid transit access within a 5-minute walk of Indigo Regency Inn.
+lmk_1106,cty_6320eea9,Doha Cultural Craft Lane,bazaar,25.338598,51.580677,Vibrant pedestrian lane showcasing handmade regional goods and tea shops.
+lmk_1107,cty_6320eea9,Doha Botanical Leisure Garden,park,25.351917,51.57641,Serene botanical enclave featuring lush shaded avenues and floral displays.
+lmk_1108,cty_6320eea9,Doha District Metro Link,transit_hub,25.304303,51.460303,Rapid transit access within a 5-minute walk of Casa Niwas.
+lmk_1109,cty_6320eea9,Doha Cultural Craft Lane,bazaar,25.305871,51.458033,Vibrant pedestrian lane showcasing handmade regional goods and tea shops.
+lmk_1110,cty_6320eea9,Doha Botanical Leisure Garden,park,25.314469,51.464117,Serene botanical enclave featuring lush shaded avenues and floral displays.
+lmk_1111,cty_6320eea9,Doha District Metro Link,transit_hub,25.260212,51.575893,Rapid transit access within a 5-minute walk of Grand Terraces.
+lmk_1112,cty_6320eea9,Doha Cultural Craft Lane,bazaar,25.261348,51.579725,Vibrant pedestrian lane showcasing handmade regional goods and tea shops.
+lmk_1113,cty_6320eea9,Doha Botanical Leisure Garden,park,25.250704,51.582219,Serene botanical enclave featuring lush shaded avenues and floral displays.
+lmk_1114,cty_6320eea9,Doha District Metro Link,transit_hub,25.244495,51.478925,Rapid transit access within a 5-minute walk of Garden Meadows.
+lmk_1115,cty_6320eea9,Doha Cultural Craft Lane,bazaar,25.25554,51.476771,Vibrant pedestrian lane showcasing handmade regional goods and tea shops.
+lmk_1116,cty_6320eea9,Doha Botanical Leisure Garden,park,25.252219,51.491655,Serene botanical enclave featuring lush shaded avenues and floral displays.
+lmk_1117,cty_905fd8a1,Singapore District Metro Link,transit_hub,1.379145,103.876252,Rapid transit access within a 5-minute walk of Indigo Nest Heritage.
+lmk_1118,cty_905fd8a1,Singapore Cultural Craft Lane,bazaar,1.375732,103.888115,Vibrant pedestrian lane showcasing handmade regional goods and tea shops.
+lmk_1119,cty_905fd8a1,Singapore Botanical Leisure Garden,park,1.386114,103.872364,Serene botanical enclave featuring lush shaded avenues and floral displays.
+lmk_1120,cty_905fd8a1,Singapore District Metro Link,transit_hub,1.389896,103.767162,Rapid transit access within a 5-minute walk of Amber Manor by the Lake.
+lmk_1121,cty_905fd8a1,Singapore Cultural Craft Lane,bazaar,1.399814,103.771841,Vibrant pedestrian lane showcasing handmade regional goods and tea shops.
+lmk_1122,cty_905fd8a1,Singapore Botanical Leisure Garden,park,1.389628,103.78468,Serene botanical enclave featuring lush shaded avenues and floral displays.
+lmk_1123,cty_905fd8a1,Singapore District Metro Link,transit_hub,1.3644,103.798273,Rapid transit access within a 5-minute walk of The Old Residency Resort.
+lmk_1124,cty_905fd8a1,Singapore Cultural Craft Lane,bazaar,1.363381,103.801824,Vibrant pedestrian lane showcasing handmade regional goods and tea shops.
+lmk_1125,cty_905fd8a1,Singapore Botanical Leisure Garden,park,1.380397,103.801779,Serene botanical enclave featuring lush shaded avenues and floral displays.
+lmk_1126,cty_905fd8a1,Singapore District Metro Link,transit_hub,1.393192,103.867718,Rapid transit access within a 5-minute walk of Indigo Manor Suites.
+lmk_1127,cty_905fd8a1,Singapore Cultural Craft Lane,bazaar,1.39173,103.87828,Vibrant pedestrian lane showcasing handmade regional goods and tea shops.
+lmk_1128,cty_905fd8a1,Singapore Botanical Leisure Garden,park,1.384987,103.864339,Serene botanical enclave featuring lush shaded avenues and floral displays.
+lmk_1129,cty_905fd8a1,Singapore District Metro Link,transit_hub,1.382608,103.796955,Rapid transit access within a 5-minute walk of Hotel Manor Boutique Stay.
+lmk_1130,cty_905fd8a1,Singapore Cultural Craft Lane,bazaar,1.373487,103.791641,Vibrant pedestrian lane showcasing handmade regional goods and tea shops.
+lmk_1131,cty_905fd8a1,Singapore Botanical Leisure Garden,park,1.374406,103.78805,Serene botanical enclave featuring lush shaded avenues and floral displays.
+lmk_1132,cty_a5f16904,Bangkok District Metro Link,transit_hub,13.814891,100.441612,Rapid transit access within a 5-minute walk of The Old Orchard Boutique Stay.
+lmk_1133,cty_a5f16904,Bangkok Cultural Craft Lane,bazaar,13.811055,100.452465,Vibrant pedestrian lane showcasing handmade regional goods and tea shops.
+lmk_1134,cty_a5f16904,Bangkok Botanical Leisure Garden,park,13.801058,100.442572,Serene botanical enclave featuring lush shaded avenues and floral displays.
+lmk_1135,cty_a5f16904,Bangkok District Metro Link,transit_hub,13.693601,100.450545,Rapid transit access within a 5-minute walk of Garden Nest Suites.
+lmk_1136,cty_a5f16904,Bangkok Cultural Craft Lane,bazaar,13.699006,100.458845,Vibrant pedestrian lane showcasing handmade regional goods and tea shops.
+lmk_1137,cty_a5f16904,Bangkok Botanical Leisure Garden,park,13.696914,100.461994,Serene botanical enclave featuring lush shaded avenues and floral displays.
+lmk_1138,cty_a5f16904,Bangkok District Metro Link,transit_hub,13.695014,100.45792,Rapid transit access within a 5-minute walk of Hotel Verandah & Spa.
+lmk_1139,cty_a5f16904,Bangkok Cultural Craft Lane,bazaar,13.705553,100.461868,Vibrant pedestrian lane showcasing handmade regional goods and tea shops.
+lmk_1140,cty_a5f16904,Bangkok Botanical Leisure Garden,park,13.702959,100.452326,Serene botanical enclave featuring lush shaded avenues and floral displays.
+lmk_1141,cty_a5f16904,Bangkok District Metro Link,transit_hub,13.759836,100.441372,Rapid transit access within a 5-minute walk of Heritage Meadows & Spa.
+lmk_1142,cty_a5f16904,Bangkok Cultural Craft Lane,bazaar,13.770764,100.440437,Vibrant pedestrian lane showcasing handmade regional goods and tea shops.
+lmk_1143,cty_a5f16904,Bangkok Botanical Leisure Garden,park,13.758806,100.43782,Serene botanical enclave featuring lush shaded avenues and floral displays.
+lmk_1144,cty_a5f16904,Bangkok District Metro Link,transit_hub,13.767842,100.509159,Rapid transit access within a 5-minute walk of Grand Verandah & Spa.
+lmk_1145,cty_a5f16904,Bangkok Cultural Craft Lane,bazaar,13.770407,100.511894,Vibrant pedestrian lane showcasing handmade regional goods and tea shops.
+lmk_1146,cty_a5f16904,Bangkok Botanical Leisure Garden,park,13.779726,100.496015,Serene botanical enclave featuring lush shaded avenues and floral displays.
+lmk_1147,cty_c9f34ba7,Kuala Lumpur District Metro Link,transit_hub,3.176724,101.631248,Rapid transit access within a 5-minute walk of The Old Verandah & Spa.
+lmk_1148,cty_c9f34ba7,Kuala Lumpur Cultural Craft Lane,bazaar,3.178428,101.638601,Vibrant pedestrian lane showcasing handmade regional goods and tea shops.
+lmk_1149,cty_c9f34ba7,Kuala Lumpur Botanical Leisure Garden,park,3.192955,101.627245,Serene botanical enclave featuring lush shaded avenues and floral displays.
+lmk_1150,cty_c9f34ba7,Kuala Lumpur District Metro Link,transit_hub,3.198977,101.679015,Rapid transit access within a 5-minute walk of Amber Niwas Resort.
+lmk_1151,cty_c9f34ba7,Kuala Lumpur Cultural Craft Lane,bazaar,3.205083,101.675673,Vibrant pedestrian lane showcasing handmade regional goods and tea shops.
+lmk_1152,cty_c9f34ba7,Kuala Lumpur Botanical Leisure Garden,park,3.191465,101.681453,Serene botanical enclave featuring lush shaded avenues and floral displays.
+lmk_1153,cty_c9f34ba7,Kuala Lumpur District Metro Link,transit_hub,3.149118,101.699897,Rapid transit access within a 5-minute walk of Riverside Palms Inn.
+lmk_1154,cty_c9f34ba7,Kuala Lumpur Cultural Craft Lane,bazaar,3.151249,101.692974,Vibrant pedestrian lane showcasing handmade regional goods and tea shops.
+lmk_1155,cty_c9f34ba7,Kuala Lumpur Botanical Leisure Garden,park,3.133721,101.698669,Serene botanical enclave featuring lush shaded avenues and floral displays.
+lmk_1156,cty_c9f34ba7,Kuala Lumpur District Metro Link,transit_hub,3.105581,101.707305,Rapid transit access within a 5-minute walk of Palm Nest Heritage.
+lmk_1157,cty_c9f34ba7,Kuala Lumpur Cultural Craft Lane,bazaar,3.115265,101.703521,Vibrant pedestrian lane showcasing handmade regional goods and tea shops.
+lmk_1158,cty_c9f34ba7,Kuala Lumpur Botanical Leisure Garden,park,3.115712,101.719925,Serene botanical enclave featuring lush shaded avenues and floral displays.
+lmk_1159,cty_c9f34ba7,Kuala Lumpur District Metro Link,transit_hub,3.194934,101.743859,Rapid transit access within a 5-minute walk of Hillview Meadows Inn.
+lmk_1160,cty_c9f34ba7,Kuala Lumpur Cultural Craft Lane,bazaar,3.200877,101.747483,Vibrant pedestrian lane showcasing handmade regional goods and tea shops.
+lmk_1161,cty_c9f34ba7,Kuala Lumpur Botanical Leisure Garden,park,3.189331,101.73961,Serene botanical enclave featuring lush shaded avenues and floral displays.
+lmk_1162,cty_36afaa5c,Bali District Metro Link,transit_hub,-8.465684,115.165334,Rapid transit access within a 5-minute walk of Amber Vihar Suites.
+lmk_1163,cty_36afaa5c,Bali Cultural Craft Lane,bazaar,-8.46747,115.176468,Vibrant pedestrian lane showcasing handmade regional goods and tea shops.
+lmk_1164,cty_36afaa5c,Bali Botanical Leisure Garden,park,-8.467907,115.179849,Serene botanical enclave featuring lush shaded avenues and floral displays.
+lmk_1165,cty_36afaa5c,Bali District Metro Link,transit_hub,-8.367535,115.209461,Rapid transit access within a 5-minute walk of The Old Courtyard Inn.
+lmk_1166,cty_36afaa5c,Bali Cultural Craft Lane,bazaar,-8.366399,115.212964,Vibrant pedestrian lane showcasing handmade regional goods and tea shops.
+lmk_1167,cty_36afaa5c,Bali Botanical Leisure Garden,park,-8.377043,115.215245,Serene botanical enclave featuring lush shaded avenues and floral displays.
+lmk_1168,cty_36afaa5c,Bali District Metro Link,transit_hub,-8.412905,115.245588,Rapid transit access within a 5-minute walk of Villa Sanctuary by the Lake.
+lmk_1169,cty_36afaa5c,Bali Cultural Craft Lane,bazaar,-8.418411,115.250791,Vibrant pedestrian lane showcasing handmade regional goods and tea shops.
+lmk_1170,cty_36afaa5c,Bali Botanical Leisure Garden,park,-8.402213,115.257151,Serene botanical enclave featuring lush shaded avenues and floral displays.
+lmk_1171,cty_36afaa5c,Bali District Metro Link,transit_hub,-8.420735,115.183383,Rapid transit access within a 5-minute walk of Casa Palms Boutique Stay.
+lmk_1172,cty_36afaa5c,Bali Cultural Craft Lane,bazaar,-8.419386,115.192359,Vibrant pedestrian lane showcasing handmade regional goods and tea shops.
+lmk_1173,cty_36afaa5c,Bali Botanical Leisure Garden,park,-8.433146,115.18669,Serene botanical enclave featuring lush shaded avenues and floral displays.
+lmk_1174,cty_36afaa5c,Bali District Metro Link,transit_hub,-8.40314,115.153279,Rapid transit access within a 5-minute walk of Lake Kothi Heritage.
+lmk_1175,cty_36afaa5c,Bali Cultural Craft Lane,bazaar,-8.411205,115.158743,Vibrant pedestrian lane showcasing handmade regional goods and tea shops.
+lmk_1176,cty_36afaa5c,Bali Botanical Leisure Garden,park,-8.393959,115.159513,Serene botanical enclave featuring lush shaded avenues and floral displays.
+lmk_1177,cty_51a149b7,Kyoto District Metro Link,transit_hub,34.967723,135.726086,Rapid transit access within a 5-minute walk of Royal Orchard Resort.
+lmk_1178,cty_51a149b7,Kyoto Cultural Craft Lane,bazaar,34.957447,135.72417,Vibrant pedestrian lane showcasing handmade regional goods and tea shops.
+lmk_1179,cty_51a149b7,Kyoto Botanical Leisure Garden,park,34.967814,135.732076,Serene botanical enclave featuring lush shaded avenues and floral displays.
+lmk_1180,cty_51a149b7,Kyoto District Metro Link,transit_hub,35.064898,135.704155,Rapid transit access within a 5-minute walk of The Old Manor Heritage.
+lmk_1181,cty_51a149b7,Kyoto Cultural Craft Lane,bazaar,35.074582,135.699537,Vibrant pedestrian lane showcasing handmade regional goods and tea shops.
+lmk_1182,cty_51a149b7,Kyoto Botanical Leisure Garden,park,35.075029,135.719552,Serene botanical enclave featuring lush shaded avenues and floral displays.
+lmk_1183,cty_51a149b7,Kyoto District Metro Link,transit_hub,34.960572,135.73675,Rapid transit access within a 5-minute walk of The Bungalow by the Lake.
+lmk_1184,cty_51a149b7,Kyoto Cultural Craft Lane,bazaar,34.959272,135.745328,Vibrant pedestrian lane showcasing handmade regional goods and tea shops.
+lmk_1185,cty_51a149b7,Kyoto Botanical Leisure Garden,park,34.965008,135.729787,Serene botanical enclave featuring lush shaded avenues and floral displays.
+lmk_1186,cty_51a149b7,Kyoto District Metro Link,transit_hub,34.993919,135.813952,Rapid transit access within a 5-minute walk of The Orchard by the Lake.
+lmk_1187,cty_51a149b7,Kyoto Cultural Craft Lane,bazaar,34.989849,135.80271,Vibrant pedestrian lane showcasing handmade regional goods and tea shops.
+lmk_1188,cty_51a149b7,Kyoto Botanical Leisure Garden,park,35.004696,135.803396,Serene botanical enclave featuring lush shaded avenues and floral displays.
+lmk_1189,cty_51a149b7,Kyoto District Metro Link,transit_hub,35.048752,135.776511,Rapid transit access within a 5-minute walk of Grand Kothi Resort.
+lmk_1190,cty_51a149b7,Kyoto Cultural Craft Lane,bazaar,35.049888,135.780744,Vibrant pedestrian lane showcasing handmade regional goods and tea shops.
+lmk_1191,cty_51a149b7,Kyoto Botanical Leisure Garden,park,35.039243,135.783499,Serene botanical enclave featuring lush shaded avenues and floral displays.
+lmk_1192,cty_0b7f5985,Zurich District Metro Link,transit_hub,47.402464,8.480954,Rapid transit access within a 5-minute walk of Lake Kothi Resort.
+lmk_1193,cty_0b7f5985,Zurich Cultural Craft Lane,bazaar,47.392188,8.478634,Vibrant pedestrian lane showcasing handmade regional goods and tea shops.
+lmk_1194,cty_0b7f5985,Zurich Botanical Leisure Garden,park,47.402555,8.488206,Serene botanical enclave featuring lush shaded avenues and floral displays.
+lmk_1195,cty_0b7f5985,Zurich District Metro Link,transit_hub,47.347436,8.502455,Rapid transit access within a 5-minute walk of Heritage Palms Suites.
+lmk_1196,cty_0b7f5985,Zurich Cultural Craft Lane,bazaar,47.358329,8.490543,Vibrant pedestrian lane showcasing handmade regional goods and tea shops.
+lmk_1197,cty_0b7f5985,Zurich Botanical Leisure Garden,park,47.341274,8.497978,Serene botanical enclave featuring lush shaded avenues and floral displays.
+lmk_1198,cty_0b7f5985,Zurich District Metro Link,transit_hub,47.437224,8.549816,Rapid transit access within a 5-minute walk of Lake Nest Suites.
+lmk_1199,cty_0b7f5985,Zurich Cultural Craft Lane,bazaar,47.430013,8.546573,Vibrant pedestrian lane showcasing handmade regional goods and tea shops.
+lmk_1200,cty_0b7f5985,Zurich Botanical Leisure Garden,park,47.432568,8.573551,Serene botanical enclave featuring lush shaded avenues and floral displays.
+lmk_1201,cty_0b7f5985,Zurich District Metro Link,transit_hub,47.433745,8.620667,Rapid transit access within a 5-minute walk of Heritage Verandah Suites.
+lmk_1202,cty_0b7f5985,Zurich Cultural Craft Lane,bazaar,47.437655,8.616413,Vibrant pedestrian lane showcasing handmade regional goods and tea shops.
+lmk_1203,cty_0b7f5985,Zurich Botanical Leisure Garden,park,47.440705,8.630812,Serene botanical enclave featuring lush shaded avenues and floral displays.
+lmk_1204,cty_0b7f5985,Zurich District Metro Link,transit_hub,47.410788,8.507477,Rapid transit access within a 5-minute walk of Indigo Niwas Suites.
+lmk_1205,cty_0b7f5985,Zurich Cultural Craft Lane,bazaar,47.404293,8.503521,Vibrant pedestrian lane showcasing handmade regional goods and tea shops.
+lmk_1206,cty_0b7f5985,Zurich Botanical Leisure Garden,park,47.417831,8.508603,Serene botanical enclave featuring lush shaded avenues and floral displays.
